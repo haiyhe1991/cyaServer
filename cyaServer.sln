@@ -35,6 +35,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GMServer", "ServiceModule\G
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GMSSDK", "cyaSSDK\GMSSDK\GMSSDK.vcxproj", "{77112185-A50B-4A65-98B6-A92E0478B4C2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QueryDateNode", "ServiceModule\QueryDateNode\QueryDateNode.vcxproj", "{FE399FCB-7318-4309-AC14-B199F9C19AD1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWServer", "ServiceModule\GWServer\GWServer.vcxproj", "{656C291E-3B31-411B-906D-4666DD93F228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -105,6 +109,14 @@ Global
 		{77112185-A50B-4A65-98B6-A92E0478B4C2}.Debug|Win32.Build.0 = Debug|Win32
 		{77112185-A50B-4A65-98B6-A92E0478B4C2}.Release|Win32.ActiveCfg = Release|Win32
 		{77112185-A50B-4A65-98B6-A92E0478B4C2}.Release|Win32.Build.0 = Release|Win32
+		{FE399FCB-7318-4309-AC14-B199F9C19AD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE399FCB-7318-4309-AC14-B199F9C19AD1}.Debug|Win32.Build.0 = Debug|Win32
+		{FE399FCB-7318-4309-AC14-B199F9C19AD1}.Release|Win32.ActiveCfg = Release|Win32
+		{FE399FCB-7318-4309-AC14-B199F9C19AD1}.Release|Win32.Build.0 = Release|Win32
+		{656C291E-3B31-411B-906D-4666DD93F228}.Debug|Win32.ActiveCfg = Debug|Win32
+		{656C291E-3B31-411B-906D-4666DD93F228}.Debug|Win32.Build.0 = Debug|Win32
+		{656C291E-3B31-411B-906D-4666DD93F228}.Release|Win32.ActiveCfg = Release|Win32
+		{656C291E-3B31-411B-906D-4666DD93F228}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
