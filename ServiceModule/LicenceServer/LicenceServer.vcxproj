@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{7191F1F0-8F62-48C9-A86D-394DB09C585B}</ProjectGuid>
+    <RootNamespace>LicenceServer</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>./include;../../cyaPub/cyaLib/include;../../cyaPub/cyaLog/include;../../cyaPub/cyaCore/include;../../cyaPub/cyaTcp/include;../../cyaPub/extra/jsoncpp/include;../ServiceHeader;../../cyaPub/extra/aes/include;../../cyaSSDK/DBSSDK/include;../../cyaPub/extra/md5/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>../../Debug/cyaLib.lib;../../Debug/jsoncpp.lib;../../Debug/cyaLog.lib;../../Debug/cyaCore.lib;../../Debug/cyaTcp.lib;../../Debug/DBSSDK.lib;../../Debug/md5.lib;../../Debug/aes.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\ServiceHeader\LCSProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceChat.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceCmdCode.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceCommon.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceErrorCode.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceExtMan.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceLicence.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceLinker.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceManageLogic.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceSLogic.h" />
+    <ClInclude Include="include\ConfigFileMan.h" />
+    <ClInclude Include="include\DBSClient.h" />
+    <ClInclude Include="include\DBSClientMan.h" />
+    <ClInclude Include="include\ExtServeLogicMan.h" />
+    <ClInclude Include="include\LicenceCommon.h" />
+    <ClInclude Include="include\LicenceLogicProcMan.h" />
+    <ClInclude Include="include\LicenceServeMan.h" />
+    <ClInclude Include="include\LicenceSession.h" />
+    <ClInclude Include="include\PartitionInfoMan.h" />
+    <ClInclude Include="include\UserInfoMan.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\ConfigFileMan.cpp" />
+    <ClCompile Include="source\DBSClient.cpp" />
+    <ClCompile Include="source\DBSClientMan.cpp" />
+    <ClCompile Include="source\ExtServeLogicMan.cpp" />
+    <ClCompile Include="source\LicenceCommon.cpp" />
+    <ClCompile Include="source\LicenceLogicProcMan.cpp" />
+    <ClCompile Include="source\LicenceServeMan.cpp" />
+    <ClCompile Include="source\LicenceSession.cpp" />
+    <ClCompile Include="source\main.cpp" />
+    <ClCompile Include="source\PartitionInfoMan.cpp" />
+    <ClCompile Include="source\UserInfoMan.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,7 @@
+# Ä£¿éÒÀÀµÎÄ¼þ
+
+MODULES_DEPEND += $(TOPDIR)/SGPub/ext/jsoncpp
+MODULES_DEPEND += $(TOPDIR)/SGPub/rosetcp
+MODULES_DEPEND += $(TOPDIR)/SGPub/rosecore
+MODULES_DEPEND += $(TOPDIR)/SGPub/roselib
+MODULES_DEPEND += $(TOPDIR)/SGPub/roselog

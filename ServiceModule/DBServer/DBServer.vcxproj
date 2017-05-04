@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{52D426F8-94A5-4213-BA2C-4D76A8108A5C}</ProjectGuid>
+    <RootNamespace>DBServer</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>./include;../../cyaPub/cyaCore/include;../../cyaPub/cyaLib/include;../../cyaPub/cyaTcp/include;../../cyaPub/cyaLog/include;../../cyaPub/extra/jsoncpp/include;../../cyaPub/extra/mysql;../ServiceHeader</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>../../Debug/cyaLib.lib;../../Debug/cyaTcp.lib;../../Debug/cyaCore.lib;../../Debug/jsoncpp.lib;../../Debug/cyaLog.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\ServiceHeader\DBSProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceErrorCode.h" />
+    <ClInclude Include="include\AppendProcess.h" />
+    <ClInclude Include="include\DBConfig.h" />
+    <ClInclude Include="include\DBServerMan.h" />
+    <ClInclude Include="include\DBTable.h" />
+    <ClInclude Include="include\GetProcess.h" />
+    <ClInclude Include="include\GlobalObj.h" />
+    <ClInclude Include="include\LoadProcess.h" />
+    <ClInclude Include="include\MsgProcess.h" />
+    <ClInclude Include="include\QueryProcess.h" />
+    <ClInclude Include="include\RemoveProcess.h" />
+    <ClInclude Include="include\SetProcess.h" />
+    <ClInclude Include="include\SqlMan.h" />
+    <ClInclude Include="include\SqlSingle.h" />
+    <ClInclude Include="include\SyncHelper.h" />
+    <ClInclude Include="include\SyncServer.h" />
+    <ClInclude Include="include\TcpSession.h" />
+    <ClInclude Include="include\TcpSessionMaker.h" />
+    <ClInclude Include="include\Transporter.h" />
+    <ClInclude Include="include\UnloadProcess.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="include\LoadProcess.cpp" />
+    <ClCompile Include="source\AppendProcess.cpp" />
+    <ClCompile Include="source\DBConfig.cpp" />
+    <ClCompile Include="source\DBServer.cpp" />
+    <ClCompile Include="source\DBServerMan.cpp" />
+    <ClCompile Include="source\DBTable.cpp" />
+    <ClCompile Include="source\GetProcess.cpp" />
+    <ClCompile Include="source\GlobalObj.cpp" />
+    <ClCompile Include="source\MsgProcess.cpp" />
+    <ClCompile Include="source\QueryProcess.cpp" />
+    <ClCompile Include="source\RemoveProcess.cpp" />
+    <ClCompile Include="source\SetProcess.cpp" />
+    <ClCompile Include="source\SqlMan.cpp" />
+    <ClCompile Include="source\SqlSingle.cpp" />
+    <ClCompile Include="source\SyncHelper.cpp" />
+    <ClCompile Include="source\SyncServer.cpp" />
+    <ClCompile Include="source\TcpSession.cpp" />
+    <ClCompile Include="source\TcpSessionMaker.cpp" />
+    <ClCompile Include="source\Transporter.cpp" />
+    <ClCompile Include="source\UnloadProcess.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DBServer.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\cyaPub\extra\mysql\win\mysql-connector-c-noinstall-6.0.2-win32\lib\libmysql.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
