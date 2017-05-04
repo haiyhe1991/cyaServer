@@ -44,10 +44,10 @@
     <ClCompile Include="source\DBSHelper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="source\GlobalObjMan.cpp">
+    <ClCompile Include="source\DBSResult.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="source\DBSResult.cpp">
+    <ClCompile Include="source\DBGlobalObjMan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

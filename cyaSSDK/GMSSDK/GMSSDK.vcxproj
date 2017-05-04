@@ -68,15 +68,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\GMProtocal.h" />
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\ServiceCmdCode.h" />
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\ServiceCommon.h" />
     <ClInclude Include="include\GMGlobalObjMan.h" />
     <ClInclude Include="include\GMSdkHelper.h" />
     <ClInclude Include="include\GMSdkSession.h" />
+    <ClInclude Include="include\GMSSDk.h" />
     <ClInclude Include="include\SemaDataMan.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\GMGlobalObjMan.cpp" />
     <ClCompile Include="source\GMSdkHelper.cpp" />
     <ClCompile Include="source\GMSdkSession.cpp" />
+    <ClCompile Include="source\GMSSDk.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

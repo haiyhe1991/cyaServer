@@ -27,6 +27,18 @@
     <ClInclude Include="include\SemaDataMan.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="include\GMSSDk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\GMProtocal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\ServiceCmdCode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ServiceModule\ServiceHeader\ServiceCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\GMGlobalObjMan.cpp">
@@ -36,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="source\GMSdkHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GMSSDk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

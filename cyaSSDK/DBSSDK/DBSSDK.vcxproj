@@ -80,7 +80,7 @@
     <ClCompile Include="source\DBSResult.cpp" />
     <ClCompile Include="source\DBSSDK.cpp" />
     <ClCompile Include="source\DBSSession.cpp" />
-    <ClCompile Include="source\GlobalObjMan.cpp" />
+    <ClCompile Include="source\DBGlobalObjMan.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="..\..\cyaPub\extra\mysql\win\mysql-connector-c-noinstall-6.0.2-win32\lib\libmysql.lib" />
