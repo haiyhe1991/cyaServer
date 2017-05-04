@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\cyaAllocator.h" />
+    <ClInclude Include="include\cyaAtomic.h" />
+    <ClInclude Include="include\cyaAutoPtr.h" />
+    <ClInclude Include="include\cyaBase.h" />
+    <ClInclude Include="include\cyaBufferDef.h" />
+    <ClInclude Include="include\cyaDll.h" />
+    <ClInclude Include="include\cyaFdk.h" />
+    <ClInclude Include="include\cyaFile.h" />
+    <ClInclude Include="include\cyaIfcfg.h" />
+    <ClInclude Include="include\cyaIpCvt.h" />
+    <ClInclude Include="include\cyaLocker.h" />
+    <ClInclude Include="include\cyaMaxMin.h" />
+    <ClInclude Include="include\cyaMemPool.h" />
+    <ClInclude Include="include\cyaOS_opt.h" />
+    <ClInclude Include="include\cyaPC_com.h" />
+    <ClInclude Include="include\cyaPing.h" />
+    <ClInclude Include="include\cyaProcess.h" />
+    <ClInclude Include="include\cyaPsMutex.h" />
+    <ClInclude Include="include\cyaRawLock.h" />
+    <ClInclude Include="include\cyaRefCount.h" />
+    <ClInclude Include="include\cyaSock.h" />
+    <ClInclude Include="include\cyaStrCodec.h" />
+    <ClInclude Include="include\cyaStrdk.h" />
+    <ClInclude Include="include\cyaString.h" />
+    <ClInclude Include="include\cyaSync.h" />
+    <ClInclude Include="include\cyaTaskPool.h" />
+    <ClInclude Include="include\cyaThread.h" />
+    <ClInclude Include="include\cyaTime.h" />
+    <ClInclude Include="include\cyaTypes.h" />
+    <ClInclude Include="include\mainLoop.h" />
+    <ClInclude Include="include\mapPingFile.h" />
+    <ClInclude Include="include\miniDump.h" />
+    <ClInclude Include="include\moduleInfo.h" />
+    <ClInclude Include="include\msc_opt.h" />
+    <ClInclude Include="include\natChecker.h" />
+    <ClInclude Include="include\performance.h" />
+    <ClInclude Include="include\ssmempool.h" />
+    <ClInclude Include="include\stringHash.h" />
+    <ClInclude Include="include\strSep.h" />
+    <ClInclude Include="include\stunServe.h" />
+    <ClInclude Include="include\win_dll_inject.h" />
+    <ClInclude Include="include\win_regedit.h" />
+    <ClInclude Include="include\win_service.h" />
+    <ClInclude Include="include\win_toolHelp.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\cyaAtomic.cpp" />
+    <ClCompile Include="source\cyaFdk.cpp" />
+    <ClCompile Include="source\cyaIfcfg.cpp" />
+    <ClCompile Include="source\cyaIpCvt.cpp" />
+    <ClCompile Include="source\cyaMemPool.cpp" />
+    <ClCompile Include="source\cyaOS_opt.cpp" />
+    <ClCompile Include="source\cyaPC_com.cpp" />
+    <ClCompile Include="source\cyaPing.cpp" />
+    <ClCompile Include="source\cyaProcess.cpp" />
+    <ClCompile Include="source\cyaStrCodec.cpp" />
+    <ClCompile Include="source\cyaStrdk.cpp" />
+    <ClCompile Include="source\cyaTaskPool.cpp" />
+    <ClCompile Include="source\mapPingFile.cpp" />
+    <ClCompile Include="source\moduleInfo.cpp" />
+    <ClCompile Include="source\natChecker.cpp" />
+    <ClCompile Include="source\performance.cpp" />
+    <ClCompile Include="source\ssmempool.cpp" />
+    <ClCompile Include="source\stringHash.cpp" />
+    <ClCompile Include="source\stunServe.cpp" />
+    <ClCompile Include="source\win_dll_inject.cpp" />
+    <ClCompile Include="source\win_regedit.cpp" />
+    <ClCompile Include="source\win_service.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{636C1843-4E3B-4579-A8B0-1EC9898DCC89}</ProjectGuid>
+    <RootNamespace>cyaThread</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>WIN32;_MBCS;_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>./include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
