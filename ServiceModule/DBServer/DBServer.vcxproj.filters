@@ -125,9 +125,6 @@
     <ClCompile Include="source\RemoveProcess.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="include\LoadProcess.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="source\UnloadProcess.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -141,6 +138,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="source\DBServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LoadProcess.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

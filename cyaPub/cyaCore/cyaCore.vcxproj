@@ -16,8 +16,8 @@
     <ClInclude Include="include\cyaCoreTimer.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="include\cyaCoreTimer.cpp" />
     <ClCompile Include="source\cyaCore.cpp" />
+    <ClCompile Include="source\cyaCoreTimer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8982C712-2427-4FE9-B846-27FBBB48B358}</ProjectGuid>

@@ -94,7 +94,6 @@
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="include\LoadProcess.cpp" />
     <ClCompile Include="source\AppendProcess.cpp" />
     <ClCompile Include="source\DBConfig.cpp" />
     <ClCompile Include="source\DBServer.cpp" />
@@ -102,6 +101,7 @@
     <ClCompile Include="source\DBTable.cpp" />
     <ClCompile Include="source\GetProcess.cpp" />
     <ClCompile Include="source\GlobalObj.cpp" />
+    <ClCompile Include="source\LoadProcess.cpp" />
     <ClCompile Include="source\MsgProcess.cpp" />
     <ClCompile Include="source\QueryProcess.cpp" />
     <ClCompile Include="source\RemoveProcess.cpp" />

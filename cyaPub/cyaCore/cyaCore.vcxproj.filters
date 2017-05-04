@@ -29,7 +29,7 @@
     <ClCompile Include="source\cyaCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="include\cyaCoreTimer.cpp">
+    <ClCompile Include="source\cyaCoreTimer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
