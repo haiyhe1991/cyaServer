@@ -73,7 +73,7 @@
     <ClInclude Include="include\DBSSDKExports.h" />
     <ClInclude Include="include\DBSSDK.h" />
     <ClInclude Include="include\DBSSession.h" />
-    <ClInclude Include="include\GlobalObjMan.h" />
+    <ClInclude Include="include\DBGlobalObjMan.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\DBSHelper.cpp" />

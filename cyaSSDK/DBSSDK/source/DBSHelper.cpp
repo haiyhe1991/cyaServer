@@ -1,7 +1,7 @@
 #include "DBSHelper.h"
 #include "cyaSock.h"
 #include "cyaIpCvt.h"
-#include "GlobalObjMan.h"
+#include "DBGlobalObjMan.h"
 #include "cyaMaxMin.h"
 #include "DBSResult.h"
 
@@ -49,7 +49,7 @@ int  DBSHelper::Connect()
 
 	{
 		CXTAutoLock lock(m_locker);
-		GetGlobalObjMan()->GetDBSSessionMan()->TrustSession(sock, this, true);
+		GetDBGlobalObjMan()->GetDBSSessionMan()->TrustSession(sock, this, true);
 		if (m_localSession == NULL)
 			return DBC_SERVER_BROKEN;
 		m_reconnect = true;
@@ -75,7 +75,7 @@ void DBSHelper::DisConnect()
 	CXTAutoLock lock(m_locker);
 	if (m_localSession != NULL)
 	{
-		GetGlobalObjMan()->GetDBSSessionMan()->CloseSession(m_localSession, true);
+		GetDBGlobalObjMan()->GetDBSSessionMan()->CloseSession(m_localSession, true);
 		m_localSession = NULL;
 	}
 }
@@ -436,7 +436,7 @@ int	  DBSHelper::OnExcuteCmd(const BYTE* payload, int payloadBytes, BOOL needFre
 				bufs[1].buf = (void*)(payload + offset);
 				bufs[1].bufBytes = pduLen;
 				OnMakeDBSHeader(&header, (UINT16)pduLen, seq, isLastPacket);
-				sendRet = GetGlobalObjMan()->GetDBSSessionMan()->SendSessionDataVec(m_localSession, bufs, 2);
+				sendRet = GetDBGlobalObjMan()->GetDBSSessionMan()->SendSessionDataVec(m_localSession, bufs, 2);
 				if (sendRet != 0)
 					break;
 				offset += pduLen;
@@ -450,7 +450,7 @@ int	  DBSHelper::OnExcuteCmd(const BYTE* payload, int payloadBytes, BOOL needFre
 			bufs[0].bufBytes = sizeof(SDBSProtocolHead);
 			bufs[1].buf = (void*)payload;
 			bufs[1].bufBytes = payloadBytes;
-			sendRet = GetGlobalObjMan()->GetDBSSessionMan()->SendSessionDataVec(m_localSession, bufs, 2);
+			sendRet = GetDBGlobalObjMan()->GetDBSSessionMan()->SendSessionDataVec(m_localSession, bufs, 2);
 		}
 
 		if (sendRet != 0)
@@ -625,7 +625,7 @@ void DBSHelper::OnHeartbeat()
 			m_reconnect = true;
 			if (m_localSession != NULL)
 			{
-				GetGlobalObjMan()->GetDBSSessionMan()->CloseSession(m_localSession, true);
+				GetDBGlobalObjMan()->GetDBSSessionMan()->CloseSession(m_localSession, true);
 				m_localSession = NULL;
 			}
 		}
@@ -636,5 +636,5 @@ void DBSHelper::OnHeartbeat()
 
 	CXTAutoLock lock(m_locker);
 	if (m_localSession != NULL)
-		GetGlobalObjMan()->GetDBSSessionMan()->SendSessionData(m_localSession, m_heartbeatData, m_heartbeatDataLen, false);
+		GetDBGlobalObjMan()->GetDBSSessionMan()->SendSessionData(m_localSession, m_heartbeatData, m_heartbeatDataLen, false);
 }

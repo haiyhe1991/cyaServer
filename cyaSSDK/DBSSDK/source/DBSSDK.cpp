@@ -1,5 +1,5 @@
 #include "DBSSDK.h"
-#include "GlobalObjMan.h"
+#include "DBGlobalObjMan.h"
 #include "DBSHelper.h"
 #include "DBSResult.h"
 
@@ -15,7 +15,7 @@
 ///库初始化
 DBSSDK_API void DBS_Init()
 {
-	InitGlobalObjMan();
+	InitDBGlobalObjMan();
 }
 
 ///连接服务器
@@ -81,7 +81,7 @@ DBSSDK_API void DBS_DisConnect(DBSHandle handle)
 ///清理
 DBSSDK_API void DBS_Cleanup()
 {
-	DestroyGlobalObjMan();
+	DestroyDBGlobalObjMan();
 }
 
 

@@ -1,16 +1,16 @@
 #include "cyaLocker.h"
-#include "GlobalObjMan.h"
+#include "DBGlobalObjMan.h"
 
 static CXTLocker sg_locker;
-static GlobalObjMan* sg_globalObjMan = NULL;
+static DBGlobalObjMan* sg_globalObjMan = NULL;
 
-GlobalObjMan::GlobalObjMan()
+DBGlobalObjMan::DBGlobalObjMan()
 {
 	CyaTcp_MakeServeMan(m_dbsSessionMan, &m_dbsSessionMaker);
 	ASSERT(m_dbsSessionMan != NULL);
 }
 
-GlobalObjMan::~GlobalObjMan()
+DBGlobalObjMan::~DBGlobalObjMan()
 {
 	if (m_dbsSessionMan != NULL)
 	{
@@ -19,7 +19,7 @@ GlobalObjMan::~GlobalObjMan()
 	}
 }
 
-void InitGlobalObjMan()
+void InitDBGlobalObjMan()
 {
 	if (sg_globalObjMan != NULL)
 		return;
@@ -27,12 +27,12 @@ void InitGlobalObjMan()
 	CXTAutoLock lock(sg_locker);
 	if (sg_globalObjMan != NULL)
 		return;
-	GlobalObjMan* p = new GlobalObjMan();
+	DBGlobalObjMan* p = new DBGlobalObjMan();
 	ASSERT(p != NULL);
 	sg_globalObjMan = p;
 }
 
-void DestroyGlobalObjMan()
+void DestroyDBGlobalObjMan()
 {
 	if (sg_globalObjMan == NULL)
 		return;
@@ -44,7 +44,7 @@ void DestroyGlobalObjMan()
 	sg_globalObjMan = NULL;
 }
 
-GlobalObjMan* GetGlobalObjMan()
+DBGlobalObjMan* GetDBGlobalObjMan()
 {
 	return sg_globalObjMan;
 }
