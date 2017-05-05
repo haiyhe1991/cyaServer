@@ -1,10 +1,18 @@
-﻿生成启动时间为 2017/5/4 22:09:40。
+﻿生成启动时间为 2017/5/5 17:30:39。
      1>项目“E:\cyaServer\cyaSSDK\GWSSDK\GWSSDK.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaTcp/include /I../../cyaPub/cyaLib/include /I../../cyaPub/cyaCore/include /I../../ServiceModule/ServiceHeader /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GWSSDK_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\GWGlobalObjMan.cpp source\GWSClientSession.cpp source\GWSHelper.cpp source\GWSSDK.cpp
          GWSSDK.cpp
          GWSHelper.cpp
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(73): warning C4101: “header”: 未引用的局部变量
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(239): warning C4100: “id”: 未引用的形参
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(259): warning C4101: “header”: 未引用的局部变量
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(304): warning C4100: “id”: 未引用的形参
          GWSClientSession.cpp
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: “sessionCount”: 未引用的形参
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: “peerIPP”: 未引用的形参
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: “sock”: 未引用的形参
+     1>e:\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(84): warning C4100: “callbackByTask”: 未引用的形参
          GWGlobalObjMan.cpp
          正在生成代码...
        Link:
@@ -12,11 +20,10 @@
          Debug\GWSClientSession.obj
          Debug\GWSHelper.obj
          Debug\GWSSDK.obj
-     1>GWGlobalObjMan.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall GWSClientSessionMaker::GWSClientSessionMaker(void)" (??0GWSClientSessionMaker@@QAE@XZ)，该符号在函数 "public: __thiscall GWGlobalObjMan::GWGlobalObjMan(void)" (??0GWGlobalObjMan@@QAE@XZ) 中被引用
-     1>GWGlobalObjMan.obj : error LNK2019: 无法解析的外部符号 "public: virtual __thiscall GWSClientSessionMaker::~GWSClientSessionMaker(void)" (??1GWSClientSessionMaker@@UAE@XZ)，该符号在函数 "public: __thiscall GWGlobalObjMan::~GWGlobalObjMan(void)" (??1GWGlobalObjMan@@QAE@XZ) 中被引用
-     1>E:\cyaServer\Debug\GWSSDK.dll : fatal error LNK1120: 2 个无法解析的外部命令
-     1>已完成生成项目“E:\cyaServer\cyaSSDK\GWSSDK\GWSSDK.vcxproj”(Rebuild 个目标)的操作 - 失败。
+            正在创建库 E:\cyaServer\Debug\GWSSDK.lib 和对象 E:\cyaServer\Debug\GWSSDK.exp
+         GWSSDK.vcxproj -> E:\cyaServer\Debug\GWSSDK.dll
+     1>已完成生成项目“E:\cyaServer\cyaSSDK\GWSSDK\GWSSDK.vcxproj”(Rebuild 个目标)的操作。
 
-生成失败。
+生成成功。
 
-已用时间 00:00:06.95
+已用时间 00:00:07.83
