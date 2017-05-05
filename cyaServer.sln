@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QueryDateNode", "ServiceMod
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWServer", "ServiceModule\GWServer\GWServer.vcxproj", "{656C291E-3B31-411B-906D-4666DD93F228}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWSSDK", "cyaSSDK\GWSSDK\GWSSDK.vcxproj", "{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -117,6 +119,10 @@ Global
 		{656C291E-3B31-411B-906D-4666DD93F228}.Debug|Win32.Build.0 = Debug|Win32
 		{656C291E-3B31-411B-906D-4666DD93F228}.Release|Win32.ActiveCfg = Release|Win32
 		{656C291E-3B31-411B-906D-4666DD93F228}.Release|Win32.Build.0 = Release|Win32
+		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Debug|Win32.Build.0 = Debug|Win32
+		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Release|Win32.ActiveCfg = Release|Win32
+		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

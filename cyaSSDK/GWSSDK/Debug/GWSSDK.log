@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/5/4 22:09:40。
+     1>项目“E:\cyaServer\cyaSSDK\GWSSDK\GWSSDK.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaTcp/include /I../../cyaPub/cyaLib/include /I../../cyaPub/cyaCore/include /I../../ServiceModule/ServiceHeader /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GWSSDK_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\GWGlobalObjMan.cpp source\GWSClientSession.cpp source\GWSHelper.cpp source\GWSSDK.cpp
+         GWSSDK.cpp
+         GWSHelper.cpp
+         GWSClientSession.cpp
+         GWGlobalObjMan.cpp
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\GWSSDK.dll" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/cyaCore.lib ../../Debug/cyaTcp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\GWSSDK.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\GWSSDK.lib" /MACHINE:X86 /DLL Debug\GWGlobalObjMan.obj
+         Debug\GWSClientSession.obj
+         Debug\GWSHelper.obj
+         Debug\GWSSDK.obj
+     1>GWGlobalObjMan.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall GWSClientSessionMaker::GWSClientSessionMaker(void)" (??0GWSClientSessionMaker@@QAE@XZ)，该符号在函数 "public: __thiscall GWGlobalObjMan::GWGlobalObjMan(void)" (??0GWGlobalObjMan@@QAE@XZ) 中被引用
+     1>GWGlobalObjMan.obj : error LNK2019: 无法解析的外部符号 "public: virtual __thiscall GWSClientSessionMaker::~GWSClientSessionMaker(void)" (??1GWSClientSessionMaker@@UAE@XZ)，该符号在函数 "public: __thiscall GWGlobalObjMan::~GWGlobalObjMan(void)" (??1GWGlobalObjMan@@QAE@XZ) 中被引用
+     1>E:\cyaServer\Debug\GWSSDK.dll : fatal error LNK1120: 2 个无法解析的外部命令
+     1>已完成生成项目“E:\cyaServer\cyaSSDK\GWSSDK\GWSSDK.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.95
