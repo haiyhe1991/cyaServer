@@ -1,5 +1,5 @@
-#ifndef __SERVICE_MANAGE_LOGIC_H__
-#define __SERVICE_MANAGE_LOGIC_H__
+#ifndef __SERVICE_MLOGIC_H__
+#define __SERVICE_MLOGIC_H__
 
 #if defined(_MSC_VER) && _MSC_VER > 1000
 	#pragma once
@@ -14,6 +14,7 @@
 #define MAX_UTF8_EMAIL_CAPTION_LEN	256		//邮件标题(utf8)
 #define MAX_UTF8_EMAIL_BODY_LEN		1024	//邮件正文(utf8)
 #define MAX_HAS_DRESS_NUM			1000	//最多拥有时装套数
+#define MAX_TASK_TARGET_NUM			5		//查询已接受任务, MLS_QUERY_ACCEPTED_TASK
 
 #pragma pack(push, 1)
 
@@ -1035,8 +1036,6 @@ struct SFriendDelNotify
 		{	friendRoleId = ntohl(friendRoleId);		}
 };
 
-//查询已接受任务, MLS_QUERY_ACCEPTED_TASK
-#define MAX_TASK_TARGET_NUM	5
 struct SAcceptTaskInfo
 {
 	UINT16 taskId;		//任务id

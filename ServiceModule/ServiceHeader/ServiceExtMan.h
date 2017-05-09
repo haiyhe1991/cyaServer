@@ -6,7 +6,7 @@
 #endif
 
 #include "ServiceCommon.h"
-#include "ServiceManageLogic.h"
+#include "ServiceMLogic.h"
 
 #pragma pack(push, 1)
 

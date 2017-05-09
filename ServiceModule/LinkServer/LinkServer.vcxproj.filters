@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Chat">
+      <UniqueIdentifier>{6fe38606-bcff-4f25-bdf1-98b68c08c431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MLogic">
+      <UniqueIdentifier>{93422f20-de02-4a6e-8153-3ca1a5414640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MLogic">
+      <UniqueIdentifier>{521208f1-a2d2-4ad0-90cd-535f170fcd63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chat">
+      <UniqueIdentifier>{bfeacecc-a1ea-4147-9f8c-369632bb2d11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\License">
+      <UniqueIdentifier>{dbe0440b-3fc8-476e-9e3f-8587bb956a5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\License">
+      <UniqueIdentifier>{e29c1f6a-ff3a-40ad-b3f0-3b6e528ae1f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Rank">
+      <UniqueIdentifier>{81b367b1-e9a0-4294-9f53-cca17ee655ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rank">
+      <UniqueIdentifier>{10647756-9f62-4530-9652-f866e509f8db}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\ChatClient.h">
+      <Filter>Header Files\Chat</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BaseClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\ChatProtocol.h">
+      <Filter>Header Files\Chat</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CyaObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicClient.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MsgProcess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinkGlobalObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinkConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinkSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LscSession.h">
+      <Filter>Header Files\License</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LicenceClient.h">
+      <Filter>Header Files\License</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LscSessionMaker.h">
+      <Filter>Header Files\License</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PubFunction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TokenMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RandomString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinkServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SessionMaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RankClient.h">
+      <Filter>Header Files\Rank</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\RankProtocol.h">
+      <Filter>Header Files\Rank</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\ServiceRank.h">
+      <Filter>Header Files\Rank</Filter>
+    </ClInclude>
+    <ClInclude Include="include\IMLogic.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommon.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommonCmd.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommonEx.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommonExPart.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommonRole.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicCommonUser.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicEnterRole.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicFactory.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicProcInc.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicQueryFinishHelp.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicQueryRole.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicRoleExit.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicUserExit.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\MLogicProtocol.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\ServiceMLogic.h">
+      <Filter>Header Files\MLogic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\ChatClient.cpp">
+      <Filter>Source Files\Chat</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicClient.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LinkGlobalObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LinkConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LinkSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LicenceClient.cpp">
+      <Filter>Source Files\License</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LscSession.cpp">
+      <Filter>Source Files\License</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LscSessionMaker.cpp">
+      <Filter>Source Files\License</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PubFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\TokenMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RandomString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LinkServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\SessionMaker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RankClient.cpp">
+      <Filter>Source Files\Rank</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MsgProcess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommonCmd.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommon.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommonEx.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommonExPart.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommonRole.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicCommonUser.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicEnterRole.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicFactory.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicQueryRole.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicUserExit.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicRoleExit.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicQueryFinishHelp.cpp">
+      <Filter>Source Files\MLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LinkMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

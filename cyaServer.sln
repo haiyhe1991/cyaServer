@@ -41,6 +41,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWServer", "ServiceModule\G
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWSSDK", "cyaSSDK\GWSSDK\GWSSDK.vcxproj", "{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkServer", "ServiceModule\LinkServer\LinkServer.vcxproj", "{EE515F58-5A70-4F8C-9D51-7C7B4028B6DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatServer", "ServiceModule\ChatServer\ChatServer.vcxproj", "{D2001197-8C33-4AFF-9DB3-624F4443BF1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -123,6 +127,14 @@ Global
 		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Debug|Win32.Build.0 = Debug|Win32
 		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Release|Win32.ActiveCfg = Release|Win32
 		{DB6FD3F3-9292-45D0-9835-8EFBF376E78E}.Release|Win32.Build.0 = Release|Win32
+		{EE515F58-5A70-4F8C-9D51-7C7B4028B6DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE515F58-5A70-4F8C-9D51-7C7B4028B6DE}.Debug|Win32.Build.0 = Debug|Win32
+		{EE515F58-5A70-4F8C-9D51-7C7B4028B6DE}.Release|Win32.ActiveCfg = Release|Win32
+		{EE515F58-5A70-4F8C-9D51-7C7B4028B6DE}.Release|Win32.Build.0 = Release|Win32
+		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Debug|Win32.Build.0 = Debug|Win32
+		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Release|Win32.ActiveCfg = Release|Win32
+		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

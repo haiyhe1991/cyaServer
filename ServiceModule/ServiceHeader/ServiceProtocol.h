@@ -13,7 +13,7 @@
 #include "ServiceLinker.h"
 #include "ServiceLicence.h"
 #include "ServiceChat.h"
-#include "ServiceManageLogic.h"
+#include "ServiceMLogic.h"
 #include "ServiceSLogic.h"
 #include "ServiceExtMan.h"
 
