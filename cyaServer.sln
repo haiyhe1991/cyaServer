@@ -45,6 +45,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkServer", "ServiceModule
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatServer", "ServiceModule\ChatServer\ChatServer.vcxproj", "{D2001197-8C33-4AFF-9DB3-624F4443BF1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtServer", "ServiceModule\ExtServer\ExtServer.vcxproj", "{0116E0D7-DAA1-4493-87BB-4503D6119A7D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RankServer", "ServiceModule\RankServer\RankServer.vcxproj", "{AC40EA79-45FC-4E0C-AFCC-782752076CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -135,6 +139,14 @@ Global
 		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Debug|Win32.Build.0 = Debug|Win32
 		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Release|Win32.ActiveCfg = Release|Win32
 		{D2001197-8C33-4AFF-9DB3-624F4443BF1D}.Release|Win32.Build.0 = Release|Win32
+		{0116E0D7-DAA1-4493-87BB-4503D6119A7D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0116E0D7-DAA1-4493-87BB-4503D6119A7D}.Debug|Win32.Build.0 = Debug|Win32
+		{0116E0D7-DAA1-4493-87BB-4503D6119A7D}.Release|Win32.ActiveCfg = Release|Win32
+		{0116E0D7-DAA1-4493-87BB-4503D6119A7D}.Release|Win32.Build.0 = Release|Win32
+		{AC40EA79-45FC-4E0C-AFCC-782752076CFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC40EA79-45FC-4E0C-AFCC-782752076CFF}.Debug|Win32.Build.0 = Debug|Win32
+		{AC40EA79-45FC-4E0C-AFCC-782752076CFF}.Release|Win32.ActiveCfg = Release|Win32
+		{AC40EA79-45FC-4E0C-AFCC-782752076CFF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
