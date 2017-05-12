@@ -12,14 +12,14 @@ int main(int argc, char* argv[])
 {
 	//保存core文件
 	SaveExceptionDumpFile();
+	
 
 	//设置log目录
 #if defined(WIN32)
-	CyaLogSetDir("log\\dbslog");
+ 	CyaLogSetDir("log\\dbslog");
 #else
 	CyaLogSetDir("log/dbslog");
 #endif
-
 	if (0 != InitializeDBSConfig())
 		return 0;
 	if (0 != InitializeDBServer())

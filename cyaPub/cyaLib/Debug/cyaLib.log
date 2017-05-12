@@ -1,0 +1,61 @@
+﻿生成启动时间为 2017/5/11 10:18:00。
+     1>项目“E:\cyaServer\cyaPub\cyaLib\cyaLib.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _MBCS /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\cyaAtomic.cpp source\cyaFdk.cpp source\cyaIfcfg.cpp source\cyaIpCvt.cpp source\cyaMemPool.cpp source\cyaOS_opt.cpp source\cyaPC_com.cpp source\cyaPing.cpp source\cyaProcess.cpp source\cyaStrCodec.cpp source\cyaStrdk.cpp source\cyaTaskPool.cpp source\mapPingFile.cpp source\moduleInfo.cpp source\natChecker.cpp source\performance.cpp source\ssmempool.cpp source\stringHash.cpp source\stunServe.cpp source\win_dll_inject.cpp source\win_regedit.cpp source\win_service.cpp
+         win_service.cpp
+     1>e:\cyaserver\cyapub\cyalib\source\win_service.cpp(39): warning C4100: “lpServiceArgVectors”: 未引用的形参
+     1>e:\cyaserver\cyapub\cyalib\source\win_service.cpp(39): warning C4100: “dwNumServicesArgs”: 未引用的形参
+         win_regedit.cpp
+         win_dll_inject.cpp
+         stunServe.cpp
+         stringHash.cpp
+         ssmempool.cpp
+         performance.cpp
+         natChecker.cpp
+         moduleInfo.cpp
+         mapPingFile.cpp
+         cyaTaskPool.cpp
+         cyaStrdk.cpp
+         cyaStrCodec.cpp
+         cyaProcess.cpp
+         cyaPing.cpp
+         cyaPC_com.cpp
+         cyaOS_opt.cpp
+         cyaMemPool.cpp
+         cyaIpCvt.cpp
+         cyaIfcfg.cpp
+         正在生成代码...
+         正在编译...
+         cyaFdk.cpp
+         cyaAtomic.cpp
+         正在生成代码...
+       Lib:
+         D:\VS2013\VC\bin\Lib.exe /OUT:"E:\cyaServer\Debug\cyaLib.lib" /NOLOGO Debug\cyaAtomic.obj
+         Debug\cyaFdk.obj
+         Debug\cyaIfcfg.obj
+         Debug\cyaIpCvt.obj
+         Debug\cyaMemPool.obj
+         Debug\cyaOS_opt.obj
+         Debug\cyaPC_com.obj
+         Debug\cyaPing.obj
+         Debug\cyaProcess.obj
+         Debug\cyaStrCodec.obj
+         Debug\cyaStrdk.obj
+         Debug\cyaTaskPool.obj
+         Debug\mapPingFile.obj
+         Debug\moduleInfo.obj
+         Debug\natChecker.obj
+         Debug\performance.obj
+         Debug\ssmempool.obj
+         Debug\stringHash.obj
+         Debug\stunServe.obj
+         Debug\win_dll_inject.obj
+         Debug\win_regedit.obj
+         Debug\win_service.obj
+     1>cyaAtomic.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+         cyaLib.vcxproj -> E:\cyaServer\Debug\cyaLib.lib
+     1>已完成生成项目“E:\cyaServer\cyaPub\cyaLib\cyaLib.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.88

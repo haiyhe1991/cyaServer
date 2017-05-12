@@ -515,7 +515,7 @@ static BOOL CyaLogCleanLogByDatetime_()
 		}
 		LPCTSTR file_ = sep + 1;
 
-		LTMSEL lt = StrToMsel(file_ + 4, true/*false*/);
+		LTMSEL lt = StrToMsel(file_ + 3, true/*false*/); //去掉前面的3个字母，cya
 		if (INVALID_UTC_MSEL == lt)
 		{
 			ASSERT(false);

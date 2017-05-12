@@ -13,7 +13,7 @@
 #define CONFIG_DB_NAMES		"db_names"
 #define CONFIG_SQL_CHARSET	"sql_charset"
 
-#define CONFIG_PATH			"./risedbserver.properties"
+#define CONFIG_PATH			"./cyaDBServer.properties"
 
 DBConfig::DBConfig()
 	: m_dbs_port(9527)

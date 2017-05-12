@@ -45,9 +45,12 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <AdditionalIncludeDirectories>./include;../../cyaPub/cyaLib/include;../../cyaPub/cyaLog/include;../ServiceHeader;../../cyaSSDK/GWSSDK/include;../../cyaSSDK/DBSSDK/include;../../cyaPub/extra/jsoncpp/include</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>../../Debug/cyaLib.lib;../../Debug/cyaLog.lib;../../Debug/DBSSDK.lib;../../Debug/GWSSDK.lib;../../Debug/jsoncpp.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -65,6 +68,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\ServiceHeader\ChatProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceChat.h" />
+    <ClInclude Include="include\ChannelMan.h" />
+    <ClInclude Include="include\ChatMsgMan.h" />
+    <ClInclude Include="include\ConfigFileMan.h" />
+    <ClInclude Include="include\GWSClient.h" />
+    <ClInclude Include="include\GWSClientMan.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\ChannelMan.cpp" />
+    <ClCompile Include="source\ChatMsgMan.cpp" />
+    <ClCompile Include="source\ConfigFileMan.cpp" />
+    <ClCompile Include="source\GWSClient.cpp" />
+    <ClCompile Include="source\GWSClientMan.cpp" />
+    <ClCompile Include="source\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

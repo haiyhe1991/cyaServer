@@ -116,9 +116,6 @@
     <ClCompile Include="source\UnloadProcess.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="DBServer.rc" />
-  </ItemGroup>
-  <ItemGroup>
     <Library Include="..\..\cyaPub\extra\mysql\win\mysql-connector-c-noinstall-6.0.2-win32\lib\libmysql.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

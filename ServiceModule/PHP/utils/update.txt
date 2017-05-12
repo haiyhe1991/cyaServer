@@ -1,0 +1,19 @@
+1.查询是否有普通文件更新(提交当前版本号,系统平台, version=1.0.0&plat=android/ios)
+请求:GET /update.php?version=1.0.0&plat=android
+响应:
+		有更新:{"version":"1.0.3","files":[{"file":"D:/Program Files (x86)/WAMP/www/sg/ios/1.0.3/a.txt","dir":"/sdcard/sg"},{"file":"D:/Program Files (x86)/WAMP/www/sg/ios/1.0.2/c.txt","dir":"/sdcard/sg2"},{"file":"D:/Program Files (x86)/WAMP/www/sg/ios/1.0.2/d.txt","dir":"/sdcard/sg3"},{"file":"D:/Program Files (x86)/WAMP/www/sg/ios/1.0.3/b.txt","dir":"/sdcard/sg"}]
+						json格式数据,version为最新版本号, file为需要更新的文件, dir为本地存放目录
+		无更新:{"version":"1.0.3"},返回提交的版本号
+		
+2.查询是否有资源文件更新(提交当前版本号,系统平台, GPU型号,version=1.0.0&plat=android/ios&gpu=etc)
+请求:GET /update.php?version=1.0.0&plat=android&gpu=etc
+响应:
+		有更新:{"version":"1.1.2","files":[{"file":"D:/Program Files (x86)/WAMP/www/resource/etc/1.1.0/r.txt","dir":"/sdcard/sg3"}]}
+						json格式数据,version为最新版本号, file为需要更新的文件, dir为本地存放目录
+		无更新:{"version":"1.1.2"},返回提交的版本号		
+		
+2.下载更新文件(提交更新文件名, file=D:/Program Files (x86)/WAMP/www/sg/ios/1.0.3/a.txt)
+请求:GET /download.php?file=D:/Program Files (x86)/WAMP/www/sg/ios/1.0.3/a.txt
+响应:文件数据
+
+测试更新web服务器地址:192.168.1.110:9090

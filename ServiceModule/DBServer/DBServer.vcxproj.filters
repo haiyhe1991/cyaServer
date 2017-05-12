@@ -145,11 +145,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="DBServer.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Library Include="..\..\cyaPub\extra\mysql\win\mysql-connector-c-noinstall-6.0.2-win32\lib\libmysql.lib" />
   </ItemGroup>
 </Project>

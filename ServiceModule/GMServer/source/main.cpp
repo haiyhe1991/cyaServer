@@ -10,6 +10,7 @@
 #include "OtherServeConnMan.h"
 #include "ServeConnMan.h"
 
+#define CONFIG_PATH			"./cyaGMServer.properties"
 
 int main(int argc, char** argv)
 {
@@ -23,7 +24,7 @@ int main(int argc, char** argv)
 	CyaLogSetFlushLines(2);
 
 	///加载管理管理服务器配置
-	InitCfgManObj("risegmserver.properties");
+	InitCfgManObj(CONFIG_PATH);
 
 	///初始化管理服务器对象
 	InitGMServeManObj();
