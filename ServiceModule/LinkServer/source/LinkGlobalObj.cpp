@@ -35,7 +35,7 @@ int InitLSLink()
 int InitConfig()
 {
 	NEW_FETCH_OBJ_EX(LinkConfig)
-		return GET_GLOBAL_OBJ(LinkConfig)->InitConfig("./riselinkserver.properties");
+		return GET_GLOBAL_OBJ(LinkConfig)->InitConfig("./cyaLinkServer.properties");
 }
 
 void UnitLinkServer()

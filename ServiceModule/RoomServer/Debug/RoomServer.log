@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/5/13 18:00:37。
+     1>项目“E:\cyaServer\ServiceModule\RoomServer\RoomServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaLib/include /I../../cyaPub/cyaTcp/include /I../../cyaPub/cyaCore/include /I../../cyaPub/extra/jsoncpp/include /I../../cyaPub/cyaLog/include /I../ServiceHeader /I../../cyaSSdk/GWSSDK/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\GWSClient.cpp
+         GWSClient.cpp
+     1>e:\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: “nDataLen”: 未引用的形参
+     1>e:\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: “data”: 未引用的形参
+     1>e:\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: “evt”: 未引用的形参
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\RoomServer.exe" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/cyaCore.lib ../../Debug/cyaTcp.lib ../../Debug/aes.lib ../../Debug/jsoncpp.lib ../../Debug/cyaLog.lib ../../Debug/GWSSDK.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\RoomServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\RoomServer.lib" /MACHINE:X86 Debug\DaemonServer.obj
+         Debug\DaemonSessionMaker.obj
+         Debug\GWSClient.obj
+         Debug\ProcessManager.obj
+         Debug\RoomClient.obj
+         Debug\RoomConfig.obj
+         Debug\DaemonSession.obj
+         Debug\RoomServer.obj
+         Debug\RoomSession.obj
+         Debug\RoomSessionMaker.obj
+         RoomServer.vcxproj -> E:\cyaServer\Debug\RoomServer.exe
+     1>已完成生成项目“E:\cyaServer\ServiceModule\RoomServer\RoomServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.91

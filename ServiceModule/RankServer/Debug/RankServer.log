@@ -1,6 +1,11 @@
-﻿生成启动时间为 2017/5/11 10:26:09。
-     1>项目“E:\cyaServer\ServiceModule\RankServer\RankServer.vcxproj”在节点 3 上(Build 个目标)。
-     1>Link:
+﻿生成启动时间为 2017/5/13 14:25:07。
+     1>项目“E:\cyaServer\ServiceModule\RankServer\RankServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaLib/include /I../../cyaPub/extra/jsoncpp/include /I../../cyaPub/cyaLog/include /I../../cyaPub/cyaCore/include /I../ServiceHeader /I../../cyaSSDK/GWSSDK/include /I../../cyaSSDK/DBSSDK/include /I"../../cyaPub/extra/lua-5.3.3/src" /I../../cyaPub/cyaLua/include /I../../cyaPub/extra/libiconv/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\RankMain.cpp
+         RankMain.cpp
+     1>e:\cyaserver\servicemodule\rankserver\source\rankmain.cpp(13): warning C4100: “argv”: 未引用的形参
+     1>e:\cyaserver\servicemodule\rankserver\source\rankmain.cpp(13): warning C4100: “argc”: 未引用的形参
+       Link:
          D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\RankServer.exe" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/cyaLog.lib ../../Debug/GWSSDK.lib ../../Debug/jsoncpp.lib ../../Debug/DBSSDK.lib "../../Debug/lua-5.3.3.lib" ../../Debug/cyaCore.lib ../../Debug/cyaLua.lib ../../Debug/libiconv.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\RankServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\RankServer.lib" /MACHINE:X86 Debug\RankConfigFileMan.obj
          Debug\RankDBSClient.obj
          Debug\RankGWClient.obj
@@ -12,4 +17,4 @@
 
 生成成功。
 
-已用时间 00:00:00.91
+已用时间 00:00:02.23

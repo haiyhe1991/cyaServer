@@ -8,6 +8,8 @@
 #include "RankGWClientMan.h"
 #include "RankHandler.h"
 
+#define CONFIG_PATH			"./cyaRankServer.properties"
+
 int main(int argc, char* argv[])
 {
 	//保存core文件
@@ -28,7 +30,7 @@ int main(int argc, char* argv[])
 	CyaLogSetFlushLines(2);
 
 	//读取配置文件
-	if (!InitRankConfigFileMan())
+	if (!InitRankConfigFileMan(CONFIG_PATH))
 	{
 		LogDebug(("读取配置文件失败!"));
 		goto __end__;

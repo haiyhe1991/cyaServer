@@ -1,10 +1,8 @@
-﻿生成启动时间为 2017/5/12 20:11:43。
+﻿生成启动时间为 2017/5/13 14:14:44。
      1>项目“E:\cyaServer\ServiceModule\GMServer\GMServer.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaLib/include /I../../cyaPub/cyaLog/include /I../../cyaPub/cyaCore/include /I../../cyaPub/cyaTcp/include /I../../cyaPub/extra/jsoncpp/include /I../ServiceHeader /I../../cyaPub/extra/aes/include /I../../cyaSSDK/DBSSDK/include /I../../cyaPub/extra/libiconv/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\main.cpp
-         main.cpp
-     1>e:\cyaserver\servicemodule\gmserver\source\main.cpp(15): warning C4100: “argv”: 未引用的形参
-     1>e:\cyaserver\servicemodule\gmserver\source\main.cpp(15): warning C4100: “argc”: 未引用的形参
+         D:\VS2013\VC\bin\CL.exe /c /I./include /I../../cyaPub/cyaLib/include /I../../cyaPub/cyaLog/include /I../../cyaPub/cyaCore/include /I../../cyaPub/cyaTcp/include /I../../cyaPub/extra/jsoncpp/include /I../ServiceHeader /I../../cyaPub/extra/aes/include /I../../cyaSSDK/DBSSDK/include /I../../cyaPub/extra/libiconv/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\StrHahs.cpp
+         StrHahs.cpp
        Link:
          D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\GMServer.exe" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/jsoncpp.lib ../../Debug/cyaLog.lib ../../Debug/cyaCore.lib ../../Debug/cyaTcp.lib ../../Debug/DBSSDK.lib ../../Debug/libiconv.lib ../../Debug/aes.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\GMServer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\GMServer.lib" /MACHINE:X86 Debug\GMCfgMan.obj
          Debug\GMServeMan.obj
@@ -14,7 +12,6 @@
          Debug\RandWords.obj
          Debug\GMProcessDataMan.obj
          Debug\ServeConnMan.obj
-         Debug\stdafx.obj
          Debug\StrHahs.obj
          Debug\UpdateDataMan.obj
          GMServer.vcxproj -> E:\cyaServer\Debug\GMServer.exe
@@ -22,4 +19,4 @@
 
 生成成功。
 
-已用时间 00:00:07.66
+已用时间 00:00:03.08

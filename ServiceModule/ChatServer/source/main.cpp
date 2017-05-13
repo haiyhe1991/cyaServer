@@ -8,6 +8,9 @@
 #include "ConfigFileMan.h"
 #include "ChannelMan.h"
 #include "ChatMsgMan.h"
+
+#define CONFIG_PATH			"./cyaChatServer.properties"
+
 int main(int argc, char* argv[])
 {
 	//保存core文件
@@ -21,7 +24,7 @@ int main(int argc, char* argv[])
 #endif
 
 	//读取配置文件
-	if (!InitConfigFileMan())
+	if (!InitConfigFileMan(CONFIG_PATH))
 	{
 		LogInfo(("读取配置文件失败!"));
 		goto __end__;
@@ -35,7 +38,10 @@ int main(int argc, char* argv[])
 
 	//初始化,登陆网关服务器
 	if (CHAT_OK != InitGWSClientMan())
+	{
+		LogInfo(("登录网关服务器失败!"));
 		goto __end__;
+	}
 
 	LogInfo(("===========聊天服务器[%s]启动成功!===========", GetConfigFileMan()->GetVersion()));
 

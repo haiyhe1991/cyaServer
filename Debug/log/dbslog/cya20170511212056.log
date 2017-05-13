@@ -72,3 +72,269 @@
 2017-05-12 20:11:26|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
 2017-05-12 20:11:26|调试:SqlSession wait_timeout 28800
 2017-05-12 20:11:26|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 09:58:26|信息:打开DBServer配置文件失败
+2017-05-13 09:58:30|信息:打开DBServer配置文件失败
+2017-05-13 09:58:34|信息:打开DBServer配置文件失败
+2017-05-13 09:58:41|信息:打开DBServer配置文件失败
+2017-05-13 09:58:42|信息:打开DBServer配置文件失败
+2017-05-13 09:58:43|信息:打开DBServer配置文件失败
+2017-05-13 09:58:43|信息:打开DBServer配置文件失败
+2017-05-13 09:58:45|信息:打开DBServer配置文件失败
+2017-05-13 09:58:46|信息:打开DBServer配置文件失败
+2017-05-13 09:58:47|信息:打开DBServer配置文件失败
+2017-05-13 09:58:47|信息:打开DBServer配置文件失败
+2017-05-13 09:58:48|信息:打开DBServer配置文件失败
+2017-05-13 09:58:49|信息:打开DBServer配置文件失败
+2017-05-13 09:59:35|信息:打开DBServer配置文件失败
+2017-05-13 10:00:48|调试:SqlSession wait_timeout 28800
+2017-05-13 10:00:48|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 10:00:48|调试:SqlSession wait_timeout 28800
+2017-05-13 10:00:48|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 10:00:48|调试:SqlSession wait_timeout 28800
+2017-05-13 10:00:48|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 10:00:48|调试:SqlSession wait_timeout 28800
+2017-05-13 10:00:48|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 10:00:48|调试:SqlSession wait_timeout 28800
+2017-05-13 10:00:48|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 10:28:20|调试:SqlSession wait_timeout 28800
+2017-05-13 10:28:20|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 10:28:20|调试:SqlSession wait_timeout 28800
+2017-05-13 10:28:20|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 10:28:20|调试:SqlSession wait_timeout 28800
+2017-05-13 10:28:20|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 10:28:20|调试:SqlSession wait_timeout 28800
+2017-05-13 10:28:20|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 10:28:20|调试:SqlSession wait_timeout 28800
+2017-05-13 10:28:20|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 10:31:57|调试:SqlSession wait_timeout 28800
+2017-05-13 10:31:57|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 10:31:57|调试:SqlSession wait_timeout 28800
+2017-05-13 10:31:57|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 10:31:57|调试:SqlSession wait_timeout 28800
+2017-05-13 10:31:57|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 10:31:57|调试:SqlSession wait_timeout 28800
+2017-05-13 10:31:57|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 10:31:57|调试:SqlSession wait_timeout 28800
+2017-05-13 10:31:57|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 10:33:25|调试:SqlSession wait_timeout 28800
+2017-05-13 10:33:25|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 10:33:25|调试:SqlSession wait_timeout 28800
+2017-05-13 10:33:25|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 10:33:25|调试:SqlSession wait_timeout 28800
+2017-05-13 10:33:25|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 10:33:25|调试:SqlSession wait_timeout 28800
+2017-05-13 10:33:25|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 10:33:25|调试:SqlSession wait_timeout 28800
+2017-05-13 10:33:25|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 10:40:28|调试:SqlSession wait_timeout 28800
+2017-05-13 10:40:28|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 10:40:28|调试:SqlSession wait_timeout 28800
+2017-05-13 10:40:28|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 10:40:28|调试:SqlSession wait_timeout 28800
+2017-05-13 10:40:28|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 10:40:28|调试:SqlSession wait_timeout 28800
+2017-05-13 10:40:28|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 10:40:28|调试:SqlSession wait_timeout 28800
+2017-05-13 10:40:28|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 11:14:24|调试:SqlSession wait_timeout 28800
+2017-05-13 11:14:24|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 11:14:24|调试:SqlSession wait_timeout 28800
+2017-05-13 11:14:24|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 11:14:24|调试:SqlSession wait_timeout 28800
+2017-05-13 11:14:24|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 11:14:24|调试:SqlSession wait_timeout 28800
+2017-05-13 11:14:24|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 11:14:24|调试:SqlSession wait_timeout 28800
+2017-05-13 11:14:24|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 11:21:47|调试:SqlSession wait_timeout 28800
+2017-05-13 11:21:47|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-05-13 11:22:07|调试:New A Client Connect; Session Count 1
+2017-05-13 11:22:07|调试:New A Client Connect; Session Count 2
+2017-05-13 11:22:07|调试:New A Client Connect; Session Count 3
+2017-05-13 11:22:07|调试:New A Client Connect; Session Count 4
+2017-05-13 11:22:43|调试:Client Closed
+2017-05-13 11:22:43|调试:Client Closed
+2017-05-13 11:22:43|调试:Client Closed
+2017-05-13 11:22:43|调试:Client Closed
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 1
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 2
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 3
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 4
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 5
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 6
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 7
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 8
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 9
+2017-05-13 11:25:04|调试:New A Client Connect; Session Count 10
+2017-05-13 11:25:27|调试:Client Closed
+2017-05-13 11:25:27|调试:Client Closed
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 11:38:09|调试:SqlSession wait_timeout 28800
+2017-05-13 11:38:09|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 1
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 2
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 3
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 4
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 5
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 6
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 7
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 8
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 9
+2017-05-13 11:38:14|调试:New A Client Connect; Session Count 10
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:38:28|调试:Client Closed
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-13 11:43:51|调试:SqlSession wait_timeout 28800
+2017-05-13 11:43:51|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 1
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 2
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 3
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 4
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 5
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 6
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 7
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 8
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 9
+2017-05-13 11:43:59|调试:New A Client Connect; Session Count 10
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 11:44:04|调试:Client Closed
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 1
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 2
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 3
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 4
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 5
+2017-05-13 13:55:34|调试:New A Client Connect; Session Count 6
+2017-05-13 13:55:34|调试:Client Closed
+2017-05-13 13:55:34|调试:Client Closed
+2017-05-13 13:55:34|调试:Client Closed
+2017-05-13 13:55:35|调试:Client Closed
+2017-05-13 13:55:35|调试:Client Closed
+2017-05-13 13:55:35|调试:Client Closed
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 1
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 2
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 3
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 4
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 5
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:55:38|调试:New A Client Connect; Session Count 2
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:55:38|调试:Client Closed
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 1
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 2
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 3
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 4
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 5
+2017-05-13 13:57:38|调试:New A Client Connect; Session Count 6
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 13:58:30|调试:Client Closed
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 1
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 2
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 3
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 4
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 5
+2017-05-13 14:01:35|调试:New A Client Connect; Session Count 6
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:05:16|调试:Client Closed
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 1
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 2
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 3
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 4
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 5
+2017-05-13 14:09:14|调试:New A Client Connect; Session Count 6
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:01|调试:Client Closed
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 1
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 2
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 3
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 4
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 5
+2017-05-13 14:10:18|调试:New A Client Connect; Session Count 6
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 7
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 8
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 9
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 10
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 11
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 12
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 13
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 14
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 15
+2017-05-13 14:13:08|调试:New A Client Connect; Session Count 16
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:13:21|调试:Client Closed
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 7
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 8
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 9
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 10
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 11
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 12
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 13
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 14
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 15
+2017-05-13 14:16:40|调试:New A Client Connect; Session Count 16

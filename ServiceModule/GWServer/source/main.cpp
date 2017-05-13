@@ -10,6 +10,8 @@
 #include "GWServeMan.h"
 
 
+#define CONFIG_PATH			"./cyaGWServer.properties"
+
 int main(int argc, char* argv[])
 {
 	//保存core文件
@@ -23,7 +25,7 @@ int main(int argc, char* argv[])
 #endif
 
 	//初始化配置文件管理
-	InitConfigFileMan();
+	InitConfigFileMan(CONFIG_PATH);
 
 	//初始化转发会话管理
 	InitRelaySessionMan();

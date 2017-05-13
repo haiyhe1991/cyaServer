@@ -5,7 +5,7 @@
 #include "cyaFdk.h"
 #include "ServiceErrorCode.h"
 
-#define CONFIG_FILE_PATH    "./riselinkserver.properties"
+#define CONFIG_FILE_PATH    "./cyaLinkServer.properties"
 #define INVALID_PORT        0
 #define INVALID_ADDR        ""
 /// LINK·þÎñÆ÷Json×Ö¶Î

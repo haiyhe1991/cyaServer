@@ -1,4 +1,3 @@
-#include "StdAfx.h"
 #include "StrHahs.h"
 
 CStrHash::CStrHash()

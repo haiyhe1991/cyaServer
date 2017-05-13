@@ -75,7 +75,6 @@
     <ClCompile Include="source\RandWords.cpp" />
     <ClCompile Include="source\GMProcessDataMan.cpp" />
     <ClCompile Include="source\ServeConnMan.cpp" />
-    <ClCompile Include="source\stdafx.cpp" />
     <ClCompile Include="source\StrHahs.cpp" />
     <ClCompile Include="source\UpdateDataMan.cpp" />
   </ItemGroup>
@@ -93,7 +92,6 @@
     <ClInclude Include="include\OtherServeConnMan.h" />
     <ClInclude Include="include\RandWords.h" />
     <ClInclude Include="include\ServeConnMan.h" />
-    <ClInclude Include="include\stdafx.h" />
     <ClInclude Include="include\StrHahs.h" />
     <ClInclude Include="include\UpdateDataMan.h" />
   </ItemGroup>

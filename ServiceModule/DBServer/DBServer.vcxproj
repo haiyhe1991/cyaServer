@@ -91,7 +91,6 @@
     <ClInclude Include="include\TcpSessionMaker.h" />
     <ClInclude Include="include\Transporter.h" />
     <ClInclude Include="include\UnloadProcess.h" />
-    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\AppendProcess.cpp" />

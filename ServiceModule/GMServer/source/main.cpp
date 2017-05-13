@@ -1,6 +1,5 @@
 // main.cpp : 管理服务器应用程序的入口点。
 //
-#include "stdafx.h"
 #include "GMCfgMan.h"
 #include "GMServeMan.h"
 #include "cyaIpCvt.h"
@@ -17,8 +16,12 @@ int main(int argc, char** argv)
 	///保存core文件
 	SaveExceptionDumpFile();
 
-	///设置日志文件名目录
-	CyaLogSetDir("gmserver");
+	//设置log目录
+#if defined(WIN32)
+	CyaLogSetDir("log\\gmslog");
+#else
+	CyaLogSetDir("log/gmslog");
+#endif
 
 	///设置每隔几行刷新日志文件
 	CyaLogSetFlushLines(2);
