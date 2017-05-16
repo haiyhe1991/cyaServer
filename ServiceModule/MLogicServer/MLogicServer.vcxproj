@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C74DFA2F-455A-47F2-853A-394FB17FCA64}</ProjectGuid>
+    <RootNamespace>MLogicServer</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>./include;./config/include;../../cyaPub/cyaLib/include;../../cyaPub/extra/jsoncpp/include;../../cyaPub/cyaLog/include;../../cyaPub/cyaCore/include;../ServiceHeader;../../cyaSSdk/GWSSDK/include;../../cyaSSDK/DBSSDK/include;../../cyaPub/extra/lua-5.3.3/src;../../cyaPub/cyaLua/include;../../cyaPub/extra/libiconv/include</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>../../Debug/cyaLib.lib;../../Debug/cyaLog.lib;../../Debug/GWSSDK.lib;../../Debug/jsoncpp.lib;../../Debug/DBSSDK.lib;../../Debug/lua-5.3.3.lib;../../Debug/cyaCore.lib;../../Debug/cyaLua.lib;../../Debug/libiconv.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="config\include\AchievementCfg.h" />
+    <ClInclude Include="config\include\ActivityCfg.h" />
+    <ClInclude Include="config\include\ActivityStageCfg.h" />
+    <ClInclude Include="config\include\CfgCom.h" />
+    <ClInclude Include="config\include\ChapterCfg.h" />
+    <ClInclude Include="config\include\DailySignCfg.h" />
+    <ClInclude Include="config\include\EmailCfg.h" />
+    <ClInclude Include="config\include\EquipCfg.h" />
+    <ClInclude Include="config\include\EquipComposeCfg.h" />
+    <ClInclude Include="config\source\ChainSoulFragmentCfg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="config\source\AchievementCfg.cpp" />
+    <ClCompile Include="config\source\ActivityCfg.cpp" />
+    <ClCompile Include="config\source\ActivityStageCfg.cpp" />
+    <ClCompile Include="config\source\CfgCom.cpp" />
+    <ClCompile Include="config\source\ChainSoulFragmentCfg.cpp" />
+    <ClCompile Include="config\source\ChapterCfg.cpp" />
+    <ClCompile Include="config\source\DailySignCfg.cpp" />
+    <ClCompile Include="config\source\EmailCfg.cpp" />
+    <ClCompile Include="config\source\EquipCfg.cpp" />
+    <ClCompile Include="config\source\EquipComposeCfg.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -338,3 +338,35 @@
 2017-05-13 14:16:40|调试:New A Client Connect; Session Count 14
 2017-05-13 14:16:40|调试:New A Client Connect; Session Count 15
 2017-05-13 14:16:40|调试:New A Client Connect; Session Count 16
+2017-05-15 19:59:22|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:22|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-05-15 19:59:22|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:22|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-05-15 19:59:23|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:23|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-05-15 19:59:23|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:23|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-05-15 19:59:23|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:23|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-05-15 19:59:23|调试:SqlSession wait_timeout 28800
+2017-05-15 19:59:23|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-05-15 19:59:31|调试:New A Client Connect; Session Count 1
+2017-05-15 19:59:31|调试:New A Client Connect; Session Count 2
+2017-05-15 19:59:32|调试:New A Client Connect; Session Count 3
+2017-05-15 19:59:32|调试:New A Client Connect; Session Count 4
+2017-05-15 19:59:32|调试:New A Client Connect; Session Count 5
+2017-05-15 19:59:32|调试:New A Client Connect; Session Count 6
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 7
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 8
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 9
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 10
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 11
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 12
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 13
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 14
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 15
+2017-05-15 19:59:44|调试:New A Client Connect; Session Count 16
+2017-05-15 19:59:56|调试:New A Client Connect; Session Count 17
+2017-05-15 19:59:56|调试:New A Client Connect; Session Count 18
+2017-05-15 20:00:14|调试:New A Client Connect; Session Count 19
+2017-05-15 20:00:16|调试:Client Closed

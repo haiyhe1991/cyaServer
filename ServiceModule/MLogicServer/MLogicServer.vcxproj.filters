@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{26a518b2-9535-4637-ba21-5f2a2c448b69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config\Header Files">
+      <UniqueIdentifier>{11953c3a-1a5c-4df2-990a-d28c20df30ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config\Source Files">
+      <UniqueIdentifier>{d98c7791-5b9d-472a-894a-f6eb7f55c1d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="config\include\CfgCom.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\AchievementCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\ActivityCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\ActivityStageCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\source\ChainSoulFragmentCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\ChapterCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\DailySignCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\EmailCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\EquipCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\EquipComposeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="config\source\CfgCom.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\AchievementCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\ActivityCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\ActivityStageCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\ChainSoulFragmentCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\ChapterCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\DailySignCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\EmailCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\EquipCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\EquipComposeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
