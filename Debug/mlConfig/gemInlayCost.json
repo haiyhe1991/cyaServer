@@ -1,0 +1,52 @@
+{
+    "GemInlayCost": [
+        {
+            "ID": 1,
+            "GemLevel": 1,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 0,
+            "UnCombineCost": 0
+        },
+        {
+            "ID": 2,
+            "GemLevel": 2,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 200,
+            "UnCombineCost": 0
+        },
+        {
+            "ID": 3,
+            "GemLevel": 3,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 500,
+            "UnCombineCost": 0
+        },
+        {
+            "ID": 4,
+            "GemLevel": 4,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 1000,
+            "UnCombineCost": 0
+        },
+        {
+            "ID": 5,
+            "GemLevel": 5,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 1500,
+            "UnCombineCost": 0
+        },
+        {
+            "ID": 6,
+            "GemLevel": 6,
+            "InlayCost": 0,
+            "UnlayCost": 0,
+            "CombineCost": 2000,
+            "UnCombineCost": 0
+        }
+    ]
+}

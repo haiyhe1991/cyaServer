@@ -1,0 +1,211 @@
+{
+    "Fashion": [
+        {
+            "ID": 55101,
+            "Name": "异域风情",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 55101,
+            "ModelID": [
+                {
+                    "BelongTo": 1,
+                    "ModelID": 8,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 200
+                },
+                {
+                    "Type": 3,
+                    "Value": 30
+                }
+            ]
+        },
+        {
+            "ID": 55102,
+            "Name": "天空之恋",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 55102,
+            "ModelID": [
+                {
+                    "BelongTo": 1,
+                    "ModelID": 9,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 400
+                },
+                {
+                    "Type": 3,
+                    "Value": 45
+                }
+            ]
+        },
+        {
+            "ID": 55103,
+            "Name": "芳香绝伦",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 55103,
+            "ModelID": [
+                {
+                    "BelongTo": 1,
+                    "ModelID": 7,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 600
+                },
+                {
+                    "Type": 3,
+                    "Value": 60
+                }
+            ]
+        },
+        {
+            "ID": 55104,
+            "Name": "少女情怀",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 55104,
+            "ModelID": [
+                {
+                    "BelongTo": 1,
+                    "ModelID": 5,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 800
+                },
+                {
+                    "Type": 3,
+                    "Value": 80
+                }
+            ]
+        },
+        {
+            "ID": 55105,
+            "Name": "暗夜呈现",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 55105,
+            "ModelID": [
+                {
+                    "BelongTo": 1,
+                    "ModelID": 6,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 1000
+                },
+                {
+                    "Type": 3,
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "ID": 55201,
+            "Name": "热情似火",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 65101,
+            "ModelID": [
+                {
+                    "BelongTo": 2,
+                    "ModelID": 55201,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 1000
+                },
+                {
+                    "Type": 3,
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "ID": 55301,
+            "Name": "红色热恋",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 75101,
+            "ModelID": [
+                {
+                    "BelongTo": 3,
+                    "ModelID": 55301,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 1000
+                },
+                {
+                    "Type": 3,
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "ID": 55202,
+            "Name": "暗夜呈现",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 65102,
+            "ModelID": [
+                {
+                    "BelongTo": 2,
+                    "ModelID": 55202,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 1000
+                },
+                {
+                    "Type": 3,
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "ID": 55302,
+            "Name": "暗夜呈现",
+            "Desc": "此时装无限制无折扣",
+            "IconID": 75102,
+            "ModelID": [
+                {
+                    "BelongTo": 3,
+                    "ModelID": 55302,
+                    "Sex": 0
+                }
+            ],
+            "Attr": [
+                {
+                    "Type": 1,
+                    "Value": 1000
+                },
+                {
+                    "Type": 3,
+                    "Value": 100
+                }
+            ]
+        }
+    ]
+}

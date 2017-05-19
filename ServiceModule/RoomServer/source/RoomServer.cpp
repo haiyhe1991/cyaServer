@@ -8,6 +8,7 @@
 
 #include "miniDump.h"
 #include "mainLoop.h"
+#include "cyaLog.h"
 
 CRoomConfig* g_daemonConfig = NULL;
 CRoomClient* g_roomClient = NULL;
@@ -60,7 +61,7 @@ int main()
 	if (NULL != g_gwClient)
 		g_gwClient->GateWayClientStart();
 
-	//RegistService("RoomDaemon", TestServiceStopCallback, NULL);
+	LogInfo(("===========房间管理服务器服务器启动成功=========!"));
 
 	RunMainLoop(NULL);
 

@@ -1,0 +1,504 @@
+{
+    "EverydayTasks": [
+        {
+            "RoleLv": 1,
+            "MissionExp": 480,
+            "MissionGold": 50400
+        },
+        {
+            "RoleLv": 2,
+            "MissionExp": 960,
+            "MissionGold": 52800
+        },
+        {
+            "RoleLv": 3,
+            "MissionExp": 1728,
+            "MissionGold": 55200
+        },
+        {
+            "RoleLv": 4,
+            "MissionExp": 1920,
+            "MissionGold": 57600
+        },
+        {
+            "RoleLv": 5,
+            "MissionExp": 2400,
+            "MissionGold": 60000
+        },
+        {
+            "RoleLv": 6,
+            "MissionExp": 2880,
+            "MissionGold": 62400
+        },
+        {
+            "RoleLv": 7,
+            "MissionExp": 3360,
+            "MissionGold": 64800
+        },
+        {
+            "RoleLv": 8,
+            "MissionExp": 3840,
+            "MissionGold": 67200
+        },
+        {
+            "RoleLv": 9,
+            "MissionExp": 4320,
+            "MissionGold": 69600
+        },
+        {
+            "RoleLv": 10,
+            "MissionExp": 4800,
+            "MissionGold": 72000
+        },
+        {
+            "RoleLv": 11,
+            "MissionExp": 5280,
+            "MissionGold": 74400
+        },
+        {
+            "RoleLv": 12,
+            "MissionExp": 5760,
+            "MissionGold": 76800
+        },
+        {
+            "RoleLv": 13,
+            "MissionExp": 6240,
+            "MissionGold": 79200
+        },
+        {
+            "RoleLv": 14,
+            "MissionExp": 6720,
+            "MissionGold": 81600
+        },
+        {
+            "RoleLv": 15,
+            "MissionExp": 7200,
+            "MissionGold": 84000
+        },
+        {
+            "RoleLv": 16,
+            "MissionExp": 7680,
+            "MissionGold": 86400
+        },
+        {
+            "RoleLv": 17,
+            "MissionExp": 8160,
+            "MissionGold": 88800
+        },
+        {
+            "RoleLv": 18,
+            "MissionExp": 8640,
+            "MissionGold": 91200
+        },
+        {
+            "RoleLv": 19,
+            "MissionExp": 9120,
+            "MissionGold": 93600
+        },
+        {
+            "RoleLv": 20,
+            "MissionExp": 9600,
+            "MissionGold": 96000
+        },
+        {
+            "RoleLv": 21,
+            "MissionExp": 10080,
+            "MissionGold": 98400
+        },
+        {
+            "RoleLv": 22,
+            "MissionExp": 10560,
+            "MissionGold": 100800
+        },
+        {
+            "RoleLv": 23,
+            "MissionExp": 11040,
+            "MissionGold": 103200
+        },
+        {
+            "RoleLv": 24,
+            "MissionExp": 11520,
+            "MissionGold": 105600
+        },
+        {
+            "RoleLv": 25,
+            "MissionExp": 12000,
+            "MissionGold": 108000
+        },
+        {
+            "RoleLv": 26,
+            "MissionExp": 12480,
+            "MissionGold": 110400
+        },
+        {
+            "RoleLv": 27,
+            "MissionExp": 12960,
+            "MissionGold": 112800
+        },
+        {
+            "RoleLv": 28,
+            "MissionExp": 13440,
+            "MissionGold": 115200
+        },
+        {
+            "RoleLv": 29,
+            "MissionExp": 13920,
+            "MissionGold": 117600
+        },
+        {
+            "RoleLv": 30,
+            "MissionExp": 14400,
+            "MissionGold": 120000
+        },
+        {
+            "RoleLv": 31,
+            "MissionExp": 14880,
+            "MissionGold": 122400
+        },
+        {
+            "RoleLv": 32,
+            "MissionExp": 15360,
+            "MissionGold": 124800
+        },
+        {
+            "RoleLv": 33,
+            "MissionExp": 15840,
+            "MissionGold": 127200
+        },
+        {
+            "RoleLv": 34,
+            "MissionExp": 16320,
+            "MissionGold": 129600
+        },
+        {
+            "RoleLv": 35,
+            "MissionExp": 16800,
+            "MissionGold": 132000
+        },
+        {
+            "RoleLv": 36,
+            "MissionExp": 17280,
+            "MissionGold": 134400
+        },
+        {
+            "RoleLv": 37,
+            "MissionExp": 17760,
+            "MissionGold": 136800
+        },
+        {
+            "RoleLv": 38,
+            "MissionExp": 18240,
+            "MissionGold": 139200
+        },
+        {
+            "RoleLv": 39,
+            "MissionExp": 18720,
+            "MissionGold": 141600
+        },
+        {
+            "RoleLv": 40,
+            "MissionExp": 19200,
+            "MissionGold": 144000
+        },
+        {
+            "RoleLv": 41,
+            "MissionExp": 19680,
+            "MissionGold": 146400
+        },
+        {
+            "RoleLv": 42,
+            "MissionExp": 20160,
+            "MissionGold": 148800
+        },
+        {
+            "RoleLv": 43,
+            "MissionExp": 20640,
+            "MissionGold": 151200
+        },
+        {
+            "RoleLv": 44,
+            "MissionExp": 21120,
+            "MissionGold": 153600
+        },
+        {
+            "RoleLv": 45,
+            "MissionExp": 21600,
+            "MissionGold": 156000
+        },
+        {
+            "RoleLv": 46,
+            "MissionExp": 0,
+            "MissionGold": 158400
+        },
+        {
+            "RoleLv": 47,
+            "MissionExp": 0,
+            "MissionGold": 160800
+        },
+        {
+            "RoleLv": 48,
+            "MissionExp": 0,
+            "MissionGold": 163200
+        },
+        {
+            "RoleLv": 49,
+            "MissionExp": 0,
+            "MissionGold": 165600
+        },
+        {
+            "RoleLv": 50,
+            "MissionExp": 0,
+            "MissionGold": 168000
+        },
+        {
+            "RoleLv": 51,
+            "MissionExp": 0,
+            "MissionGold": 170400
+        },
+        {
+            "RoleLv": 52,
+            "MissionExp": 0,
+            "MissionGold": 172800
+        },
+        {
+            "RoleLv": 53,
+            "MissionExp": 0,
+            "MissionGold": 175200
+        },
+        {
+            "RoleLv": 54,
+            "MissionExp": 0,
+            "MissionGold": 177600
+        },
+        {
+            "RoleLv": 55,
+            "MissionExp": 0,
+            "MissionGold": 180000
+        },
+        {
+            "RoleLv": 56,
+            "MissionExp": 0,
+            "MissionGold": 182400
+        },
+        {
+            "RoleLv": 57,
+            "MissionExp": 0,
+            "MissionGold": 184800
+        },
+        {
+            "RoleLv": 58,
+            "MissionExp": 0,
+            "MissionGold": 187200
+        },
+        {
+            "RoleLv": 59,
+            "MissionExp": 0,
+            "MissionGold": 189600
+        },
+        {
+            "RoleLv": 60,
+            "MissionExp": 0,
+            "MissionGold": 192000
+        },
+        {
+            "RoleLv": 61,
+            "MissionExp": 0,
+            "MissionGold": 194400
+        },
+        {
+            "RoleLv": 62,
+            "MissionExp": 0,
+            "MissionGold": 196800
+        },
+        {
+            "RoleLv": 63,
+            "MissionExp": 0,
+            "MissionGold": 199200
+        },
+        {
+            "RoleLv": 64,
+            "MissionExp": 0,
+            "MissionGold": 201600
+        },
+        {
+            "RoleLv": 65,
+            "MissionExp": 0,
+            "MissionGold": 204000
+        },
+        {
+            "RoleLv": 66,
+            "MissionExp": 0,
+            "MissionGold": 206400
+        },
+        {
+            "RoleLv": 67,
+            "MissionExp": 0,
+            "MissionGold": 208800
+        },
+        {
+            "RoleLv": 68,
+            "MissionExp": 0,
+            "MissionGold": 211200
+        },
+        {
+            "RoleLv": 69,
+            "MissionExp": 0,
+            "MissionGold": 213600
+        },
+        {
+            "RoleLv": 70,
+            "MissionExp": 0,
+            "MissionGold": 216000
+        },
+        {
+            "RoleLv": 71,
+            "MissionExp": 0,
+            "MissionGold": 218400
+        },
+        {
+            "RoleLv": 72,
+            "MissionExp": 0,
+            "MissionGold": 220800
+        },
+        {
+            "RoleLv": 73,
+            "MissionExp": 0,
+            "MissionGold": 223200
+        },
+        {
+            "RoleLv": 74,
+            "MissionExp": 0,
+            "MissionGold": 225600
+        },
+        {
+            "RoleLv": 75,
+            "MissionExp": 0,
+            "MissionGold": 228000
+        },
+        {
+            "RoleLv": 76,
+            "MissionExp": 0,
+            "MissionGold": 230400
+        },
+        {
+            "RoleLv": 77,
+            "MissionExp": 0,
+            "MissionGold": 232800
+        },
+        {
+            "RoleLv": 78,
+            "MissionExp": 0,
+            "MissionGold": 235200
+        },
+        {
+            "RoleLv": 79,
+            "MissionExp": 0,
+            "MissionGold": 237600
+        },
+        {
+            "RoleLv": 80,
+            "MissionExp": 0,
+            "MissionGold": 240000
+        },
+        {
+            "RoleLv": 81,
+            "MissionExp": 0,
+            "MissionGold": 242400
+        },
+        {
+            "RoleLv": 82,
+            "MissionExp": 0,
+            "MissionGold": 244800
+        },
+        {
+            "RoleLv": 83,
+            "MissionExp": 0,
+            "MissionGold": 247200
+        },
+        {
+            "RoleLv": 84,
+            "MissionExp": 0,
+            "MissionGold": 249600
+        },
+        {
+            "RoleLv": 85,
+            "MissionExp": 0,
+            "MissionGold": 252000
+        },
+        {
+            "RoleLv": 86,
+            "MissionExp": 0,
+            "MissionGold": 254400
+        },
+        {
+            "RoleLv": 87,
+            "MissionExp": 0,
+            "MissionGold": 256800
+        },
+        {
+            "RoleLv": 88,
+            "MissionExp": 0,
+            "MissionGold": 259200
+        },
+        {
+            "RoleLv": 89,
+            "MissionExp": 0,
+            "MissionGold": 261600
+        },
+        {
+            "RoleLv": 90,
+            "MissionExp": 0,
+            "MissionGold": 264000
+        },
+        {
+            "RoleLv": 91,
+            "MissionExp": 0,
+            "MissionGold": 266400
+        },
+        {
+            "RoleLv": 92,
+            "MissionExp": 0,
+            "MissionGold": 268800
+        },
+        {
+            "RoleLv": 93,
+            "MissionExp": 0,
+            "MissionGold": 271200
+        },
+        {
+            "RoleLv": 94,
+            "MissionExp": 0,
+            "MissionGold": 273600
+        },
+        {
+            "RoleLv": 95,
+            "MissionExp": 0,
+            "MissionGold": 276000
+        },
+        {
+            "RoleLv": 96,
+            "MissionExp": 0,
+            "MissionGold": 278400
+        },
+        {
+            "RoleLv": 97,
+            "MissionExp": 0,
+            "MissionGold": 280800
+        },
+        {
+            "RoleLv": 98,
+            "MissionExp": 0,
+            "MissionGold": 283200
+        },
+        {
+            "RoleLv": 99,
+            "MissionExp": 0,
+            "MissionGold": 285600
+        },
+        {
+            "RoleLv": 100,
+            "MissionExp": 0,
+            "MissionGold": 288000
+        }
+    ]
+}

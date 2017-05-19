@@ -1,0 +1,2102 @@
+{
+    "Equipment": [
+        {
+            "ID": 10000,
+            "Name": "GM之剑",
+            "IconID": 11111,
+            "Desc": "GM神赐装备，测试专用",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 999999,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 25,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10001,
+            "Name": "GM胸甲",
+            "IconID": 11112,
+            "Desc": "GM神赐装备，测试专用",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 999999,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 999999,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10111,
+            "Name": "铁腾之剑",
+            "IconID": 11111,
+            "Desc": "骑士团训练用武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 36,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 22,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 52,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10112,
+            "Name": "铁藤胸甲",
+            "IconID": 11112,
+            "Desc": "骑士团训练用防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 22,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 443,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 48,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10113,
+            "Name": "铁藤护手",
+            "IconID": 11113,
+            "Desc": "骑士团训练用护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 13,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 177,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 24,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10114,
+            "Name": "铁藤之靴",
+            "IconID": 11114,
+            "Desc": "骑士团训练用布靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 9,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 265,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 24,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10115,
+            "Name": "铁藤之戒",
+            "IconID": 11115,
+            "Desc": "骑士团新人之戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 21,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 90,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 26,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10116,
+            "Name": "铁藤项链",
+            "IconID": 11116,
+            "Desc": "刻有骑士团新兵名字的挂坠",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 14,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 94,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 26,
+            "QualityID": 1,
+            "AccessWay": [],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10211,
+            "Name": "精钢之剑",
+            "IconID": 11211,
+            "Desc": "骑士团的专用武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 42,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 25,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10212,
+            "Name": "精钢铠甲",
+            "IconID": 11212,
+            "Desc": "骑士团的专用防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 26,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 516,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10213,
+            "Name": "精钢护手",
+            "IconID": 11213,
+            "Desc": "骑士团专用护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 15,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 206,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10214,
+            "Name": "精钢战靴",
+            "IconID": 11214,
+            "Desc": "骑士团专用战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 10,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 309,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10215,
+            "Name": "精钢戒指",
+            "IconID": 11215,
+            "Desc": "骑士团徽章的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 25,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 102,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10216,
+            "Name": "精钢项链",
+            "IconID": 11216,
+            "Desc": "刻有骑士团队员名字的挂坠",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 17,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 111,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 1,
+            "AccessWay": [
+                6
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20101,
+            "Name": "破碎的轻骑之剑",
+            "IconID": 11311,
+            "Desc": "残破不全的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 36,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 20,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 520,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20102,
+            "Name": "破碎的轻骑藤甲",
+            "IconID": 11312,
+            "Desc": "残破不全的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 22,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 439,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 480,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20103,
+            "Name": "破碎的轻骑护手",
+            "IconID": 11313,
+            "Desc": "残破不全的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 13,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 175,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 240,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20104,
+            "Name": "破碎的轻骑战靴",
+            "IconID": 11314,
+            "Desc": "残破不全的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 9,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 263,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 240,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20105,
+            "Name": "破碎的轻骑之戒",
+            "IconID": 11315,
+            "Desc": "残破不全的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 21,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 81,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 260,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20106,
+            "Name": "破碎的轻骑项链",
+            "IconID": 11316,
+            "Desc": "残破不全的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 14,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 96,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 260,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20201,
+            "Name": "劣质的轻骑之剑",
+            "IconID": 11311,
+            "Desc": "劣质材料打造的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 66,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 35,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 1040,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20202,
+            "Name": "劣质的轻骑藤甲",
+            "IconID": 11312,
+            "Desc": "劣质材料打造的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 41,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 803,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 960,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20203,
+            "Name": "劣质的轻骑护手",
+            "IconID": 11313,
+            "Desc": "劣质材料打造的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 24,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 321,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 480,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20204,
+            "Name": "劣质的轻骑战靴",
+            "IconID": 11314,
+            "Desc": "劣质材料打造的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 16,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 482,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 480,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20205,
+            "Name": "劣质的轻骑之戒",
+            "IconID": 11315,
+            "Desc": "镶嵌了玻璃的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 39,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 141,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 520,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20206,
+            "Name": "劣质的轻骑项链",
+            "IconID": 11316,
+            "Desc": "造型粗糙的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 26,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 179,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 520,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20301,
+            "Name": "崭新的轻骑之剑",
+            "IconID": 11311,
+            "Desc": "尚未使用过的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 96,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 50,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 1560,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20302,
+            "Name": "崭新的轻骑藤甲",
+            "IconID": 11312,
+            "Desc": "尚未使用过的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 60,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1167,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 1440,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20303,
+            "Name": "崭新的轻骑护手",
+            "IconID": 11313,
+            "Desc": "尚未使用过的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 36,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 466,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 720,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20304,
+            "Name": "崭新的轻骑战靴",
+            "IconID": 11314,
+            "Desc": "尚未使用过的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 24,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 700,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 720,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20305,
+            "Name": "崭新的轻骑之戒",
+            "IconID": 11315,
+            "Desc": "尚未佩戴过的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 57,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 201,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 780,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20306,
+            "Name": "崭新的轻骑项链",
+            "IconID": 11316,
+            "Desc": "尚未佩戴过的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 38,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 261,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 780,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20401,
+            "Name": "优良的轻骑之剑",
+            "IconID": 11311,
+            "Desc": "打磨锋利的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 126,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 65,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 2080,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20402,
+            "Name": "优良的轻骑藤甲",
+            "IconID": 11312,
+            "Desc": "经久耐用的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 78,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1531,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 1920,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20403,
+            "Name": "优良的轻骑护手",
+            "IconID": 11313,
+            "Desc": "经久耐用的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 47,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 612,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 960,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20404,
+            "Name": "优良的轻骑战靴",
+            "IconID": 11314,
+            "Desc": "经久耐用的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 31,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 918,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 960,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20405,
+            "Name": "优良的轻骑之戒",
+            "IconID": 11315,
+            "Desc": "镶嵌了珠宝的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 75,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 261,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 1040,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 20406,
+            "Name": "优良的轻骑项链",
+            "IconID": 11316,
+            "Desc": "造型别致的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 50,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 344,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 1040,
+            "QualityID": 1,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10121,
+            "Name": "贵族之剑",
+            "IconID": 11121,
+            "Desc": "锋利而别致的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 72,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 40,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10121
+        },
+        {
+            "ID": 10122,
+            "Name": "贵族胸甲",
+            "IconID": 11122,
+            "Desc": "优雅而精巧的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 45,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 879,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10122
+        },
+        {
+            "ID": 10123,
+            "Name": "贵族护手",
+            "IconID": 11123,
+            "Desc": "优雅而精巧的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 27,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 351,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10123
+        },
+        {
+            "ID": 10124,
+            "Name": "贵族靴子",
+            "IconID": 11124,
+            "Desc": "优雅而精巧的皮靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 18,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 527,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10124
+        },
+        {
+            "ID": 10125,
+            "Name": "贵族戒指",
+            "IconID": 11125,
+            "Desc": "镶嵌琉璃石的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 43,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 162,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10125
+        },
+        {
+            "ID": 10126,
+            "Name": "贵族项链",
+            "IconID": 11126,
+            "Desc": "雕刻精美的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 29,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 193,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 1,
+            "LevelLimit": 10,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 2,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10126
+        },
+        {
+            "ID": 10221,
+            "Name": "领主之剑",
+            "IconID": 11221,
+            "Desc": "彰显身份的配剑",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 132,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 70,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 1560,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10222,
+            "Name": "领主软甲",
+            "IconID": 11222,
+            "Desc": "彰显身份的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 82,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1607,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 1440,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10223,
+            "Name": "领主护手",
+            "IconID": 11223,
+            "Desc": "彰显身份的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 49,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 642,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 720,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10224,
+            "Name": "领主软靴",
+            "IconID": 11224,
+            "Desc": "彰显身份的软靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 33,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 964,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 720,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10225,
+            "Name": "领主戒指",
+            "IconID": 11225,
+            "Desc": "镶嵌玉石的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 79,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 282,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 780,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10226,
+            "Name": "领主项链",
+            "IconID": 11226,
+            "Desc": "雕刻了家徽的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 53,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 358,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 1,
+            "ModelID": 0,
+            "Price": 780,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10131,
+            "Name": "蔷薇之剑",
+            "IconID": 11131,
+            "Desc": "锐利而轻巧的女性专用武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 132,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 70,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10131
+        },
+        {
+            "ID": 10132,
+            "Name": "蔷薇胸甲",
+            "IconID": 11132,
+            "Desc": "印有蔷薇花纹的女性专用防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 82,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1607,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10132
+        },
+        {
+            "ID": 10133,
+            "Name": "蔷薇护手",
+            "IconID": 11133,
+            "Desc": "印有蔷薇花纹的女性专用防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 49,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 642,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10133
+        },
+        {
+            "ID": 10134,
+            "Name": "蔷薇之靴",
+            "IconID": 11134,
+            "Desc": "印有蔷薇花纹的女性专用防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 33,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 964,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10134
+        },
+        {
+            "ID": 10135,
+            "Name": "蔷薇戒指",
+            "IconID": 11135,
+            "Desc": "镶嵌了蔷薇石的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 79,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 282,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10135
+        },
+        {
+            "ID": 10136,
+            "Name": "蔷薇项链",
+            "IconID": 11136,
+            "Desc": "雕刻刻有蔷薇花的挂坠",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 53,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 358,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 2,
+            "LevelLimit": 20,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10136
+        },
+        {
+            "ID": 10231,
+            "Name": "万灵之剑",
+            "IconID": 11231,
+            "Desc": "天灾军团使用过的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 252,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 130,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10231
+        },
+        {
+            "ID": 10232,
+            "Name": "万灵之甲",
+            "IconID": 11232,
+            "Desc": "天灾军团佩戴过的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 157,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 3062,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10232
+        },
+        {
+            "ID": 10233,
+            "Name": "万灵护手",
+            "IconID": 11233,
+            "Desc": "天灾军团佩戴过的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 94,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1224,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10233
+        },
+        {
+            "ID": 10234,
+            "Name": "万灵战靴",
+            "IconID": 11234,
+            "Desc": "天灾军团佩戴过的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 63,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1837,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10234
+        },
+        {
+            "ID": 10235,
+            "Name": "万灵之戒",
+            "IconID": 11235,
+            "Desc": "镶嵌邪教徽章的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 151,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 522,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10235
+        },
+        {
+            "ID": 10236,
+            "Name": "万灵项链",
+            "IconID": 11236,
+            "Desc": "由奇怪符号组成的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 101,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 688,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 4,
+            "LevelLimit": 40,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 3,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 10236
+        },
+        {
+            "ID": 10141,
+            "Name": "冰霜之剑",
+            "IconID": 11141,
+            "Desc": "千年寒铁打造的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 192,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 100,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10141
+        },
+        {
+            "ID": 10142,
+            "Name": "冰霜胸甲",
+            "IconID": 11142,
+            "Desc": "千年寒铁打造的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 120,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 2334,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10142
+        },
+        {
+            "ID": 10143,
+            "Name": "冰霜护手",
+            "IconID": 11143,
+            "Desc": "千年寒铁打造的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 72,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 933,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10143
+        },
+        {
+            "ID": 10144,
+            "Name": "冰霜战靴",
+            "IconID": 11144,
+            "Desc": "千年寒铁打造的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 48,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 1400,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10144
+        },
+        {
+            "ID": 10145,
+            "Name": "冰霜之戒",
+            "IconID": 11145,
+            "Desc": "镶嵌了白霜石的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 115,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 402,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10145
+        },
+        {
+            "ID": 10146,
+            "Name": "冰霜项链",
+            "IconID": 11146,
+            "Desc": "洁白如雪的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 77,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 523,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 3,
+            "LevelLimit": 30,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                5
+            ],
+            "CompoundID": 10146
+        },
+        {
+            "ID": 10241,
+            "Name": "弑君之剑",
+            "IconID": 11241,
+            "Desc": "沾满鲜血的武器",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 606,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 307,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 1,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10242,
+            "Name": "弑君重铠",
+            "IconID": 11242,
+            "Desc": "充满怨念的防具",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 378,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 7354,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 2,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10243,
+            "Name": "弑君护手",
+            "IconID": 11243,
+            "Desc": "充满怨念的护手",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 227,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 2941,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 3,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10244,
+            "Name": "弑君战靴",
+            "IconID": 11244,
+            "Desc": "充满怨念的战靴",
+            "Attributes": [
+                {
+                    "Type": 4,
+                    "AttrVal": 151,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 1,
+                    "AttrVal": 4412,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 4,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10245,
+            "Name": "弑君之戒",
+            "IconID": 11245,
+            "Desc": "被不详附身的戒指",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 363,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 6,
+                    "AttrVal": 1230,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 5,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        },
+        {
+            "ID": 10246,
+            "Name": "弑君项链",
+            "IconID": 11246,
+            "Desc": "被不详附身的项链",
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 242,
+                    "IsMainAttr": 1
+                },
+                {
+                    "Type": 2,
+                    "AttrVal": 1662,
+                    "IsMainAttr": 0
+                }
+            ],
+            "EquipSocket": 6,
+            "SuitId": 0,
+            "LevelLimit": 5,
+            "ModelID": 0,
+            "Price": 0,
+            "QualityID": 4,
+            "AccessWay": [
+                1,
+                2
+            ],
+            "CompoundID": 0
+        }
+    ]
+}

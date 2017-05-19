@@ -1,0 +1,46 @@
+{
+   "ObjectsConfig" : [
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 1,
+         "Modelid" : 1,
+         "Type" : 0,
+         "Weight" : 0
+      },
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 2,
+         "Modelid" : 2,
+         "Type" : 0,
+         "Weight" : 0
+      },
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 3,
+         "Modelid" : 3,
+         "Type" : 0,
+         "Weight" : 0
+      },
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 4,
+         "Modelid" : 4,
+         "Type" : 0,
+         "Weight" : 0
+      },
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 5,
+         "Modelid" : 10,
+         "Type" : 0,
+         "Weight" : 0
+      },
+      {
+         "Effectids" : [ 1, 2, 3 ],
+         "ID" : 6,
+         "Modelid" : 11,
+         "Type" : 0,
+         "Weight" : 0
+      }
+   ]
+}

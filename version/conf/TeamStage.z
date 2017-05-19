@@ -1,0 +1,232 @@
+{
+    "TeamStage": [
+        {
+            "ID": 6001,
+            "Name": "赫特兰山道(组队)",
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "TeamStageType": 1,
+            "TeamStageCondition": [
+                {
+                    "ID": 6001,
+                    "Condition": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "ID": 6002,
+                    "Condition": [
+                        6,
+                        10
+                    ]
+                },
+                {
+                    "ID": 6003,
+                    "Condition": [
+                        11,
+                        15
+                    ]
+                },
+                {
+                    "ID": 6004,
+                    "Condition": [
+                        16,
+                        20
+                    ]
+                },
+                {
+                    "ID": 6005,
+                    "Condition": [
+                        21,
+                        25
+                    ]
+                },
+                {
+                    "ID": 6006,
+                    "Condition": [
+                        26,
+                        30
+                    ]
+                },
+                {
+                    "ID": 6007,
+                    "Condition": [
+                        31,
+                        35
+                    ]
+                },
+                {
+                    "ID": 6008,
+                    "Condition": [
+                        36,
+                        40
+                    ]
+                },
+                {
+                    "ID": 6009,
+                    "Condition": [
+                        41,
+                        45
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 6010,
+            "Name": "弗洛斯断桥(组队)",
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "TeamStageType": 1,
+            "TeamStageCondition": [
+                {
+                    "ID": 6010,
+                    "Condition": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "ID": 6011,
+                    "Condition": [
+                        6,
+                        10
+                    ]
+                },
+                {
+                    "ID": 6012,
+                    "Condition": [
+                        11,
+                        15
+                    ]
+                },
+                {
+                    "ID": 6013,
+                    "Condition": [
+                        16,
+                        20
+                    ]
+                },
+                {
+                    "ID": 6014,
+                    "Condition": [
+                        21,
+                        25
+                    ]
+                },
+                {
+                    "ID": 6015,
+                    "Condition": [
+                        26,
+                        30
+                    ]
+                },
+                {
+                    "ID": 6016,
+                    "Condition": [
+                        31,
+                        35
+                    ]
+                },
+                {
+                    "ID": 6017,
+                    "Condition": [
+                        36,
+                        40
+                    ]
+                },
+                {
+                    "ID": 6018,
+                    "Condition": [
+                        41,
+                        45
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 6019,
+            "Name": "迷雾平原(组队)",
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "TeamStageType": 1,
+            "TeamStageCondition": [
+                {
+                    "ID": 6019,
+                    "Condition": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "ID": 6020,
+                    "Condition": [
+                        6,
+                        10
+                    ]
+                },
+                {
+                    "ID": 6021,
+                    "Condition": [
+                        11,
+                        15
+                    ]
+                },
+                {
+                    "ID": 6022,
+                    "Condition": [
+                        16,
+                        20
+                    ]
+                },
+                {
+                    "ID": 6023,
+                    "Condition": [
+                        21,
+                        25
+                    ]
+                },
+                {
+                    "ID": 6024,
+                    "Condition": [
+                        26,
+                        30
+                    ]
+                },
+                {
+                    "ID": 6025,
+                    "Condition": [
+                        31,
+                        35
+                    ]
+                },
+                {
+                    "ID": 6026,
+                    "Condition": [
+                        36,
+                        40
+                    ]
+                },
+                {
+                    "ID": 6027,
+                    "Condition": [
+                        41,
+                        45
+                    ]
+                }
+            ]
+        }
+    ]
+}

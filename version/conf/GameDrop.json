@@ -1,0 +1,1225 @@
+{
+    "GameDrop": [
+        {
+            "DropID": 1001,
+            "Desc": "破坏物掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 1,
+                    "Num": 1,
+                    "Chance": 600
+                },
+                {
+                    "ID": 31901,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 1,
+                    "Num": 1,
+                    "Chance": 200
+                },
+                {
+                    "ID": 31902,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 1,
+                    "Num": 1,
+                    "Chance": 200
+                }
+            ]
+        },
+        {
+            "DropID": 2001,
+            "Desc": "宝箱掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 1,
+                    "Num": 1,
+                    "Chance": 900
+                },
+                {
+                    "ID": 3001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 1,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 3001,
+            "Desc": "宝石掉落组(精英)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 4101,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4201,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 4301,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4401,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4501,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 4601,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 180
+                }
+            ]
+        },
+        {
+            "DropID": 3002,
+            "Desc": "宝石掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 4101,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4201,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 4301,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4401,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 4501,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 4601,
+                    "Type": 2,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 180
+                }
+            ]
+        },
+        {
+            "DropID": 4001,
+            "Desc": "10级装备掉落组(精英)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10121,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10122,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10123,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10124,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10125,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10126,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4002,
+            "Desc": "10级装备掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10121,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10122,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10123,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10124,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10125,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10126,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4003,
+            "Desc": "20级装备掉落组(精英)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10131,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10132,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10133,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10134,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10135,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10136,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4004,
+            "Desc": "20级装备掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10131,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10132,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10133,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10134,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10135,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10136,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4005,
+            "Desc": "30级装备掉落组(精英)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10141,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10142,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10143,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10144,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10145,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10146,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4006,
+            "Desc": "30级装备掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10141,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10142,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10143,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10144,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10145,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10146,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4007,
+            "Desc": "40级装备掉落组(精英)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10231,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10232,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10233,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10234,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10235,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10236,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4008,
+            "Desc": "40级装备掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10231,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10232,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10233,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10234,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10235,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10236,
+                    "Type": 4,
+                    "IsReGet": 1,
+                    "IsShow": 1,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4009,
+            "Desc": "10级散装掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10311,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10312,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10313,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10314,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10315,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10316,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4010,
+            "Desc": "20级散装掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10311,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10312,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10313,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10314,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10315,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10316,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4011,
+            "Desc": "30级散装掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10311,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10312,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10313,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10314,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10315,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10316,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 4012,
+            "Desc": "40级散装掉落组(BOSS)",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 10311,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10312,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 160
+                },
+                {
+                    "ID": 10313,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10314,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10315,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                },
+                {
+                    "ID": 10316,
+                    "Type": 1,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 170
+                }
+            ]
+        },
+        {
+            "DropID": 5001,
+            "Desc": "10级精英掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 800
+                },
+                {
+                    "ID": 3001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 5002,
+            "Desc": "20级精英掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 800
+                },
+                {
+                    "ID": 3001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4003,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 5003,
+            "Desc": "30级精英掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 800
+                },
+                {
+                    "ID": 3001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4005,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 5004,
+            "Desc": "40级精英掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 800
+                },
+                {
+                    "ID": 3001,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4007,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 2,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 6001,
+            "Desc": "10级BOSS掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 700
+                },
+                {
+                    "ID": 3002,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4002,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4009,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 6002,
+            "Desc": "20级BOSS掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 700
+                },
+                {
+                    "ID": 3002,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4004,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4010,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 6003,
+            "Desc": "30级BOSS掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 700
+                },
+                {
+                    "ID": 3002,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4006,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4011,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        },
+        {
+            "DropID": 6004,
+            "Desc": "40级BOSS掉落组",
+            "DropName": null,
+            "Items": [
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 700
+                },
+                {
+                    "ID": 3002,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4008,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                },
+                {
+                    "ID": 4012,
+                    "Type": 10,
+                    "IsReGet": 1,
+                    "IsShow": 0,
+                    "LV": 3,
+                    "Num": 1,
+                    "Chance": 100
+                }
+            ]
+        }
+    ]
+}

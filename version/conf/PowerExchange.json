@@ -1,0 +1,12 @@
+{
+    "PowerExchange": {
+        "BasePower": [
+            100
+        ],
+        "TokenExpend": [
+            50
+        ],
+        "BaseNum": 2,
+        "VIPLvLimit": 0
+    }
+}

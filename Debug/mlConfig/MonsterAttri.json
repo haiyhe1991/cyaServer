@@ -1,0 +1,804 @@
+{
+    "MonterAttri": [
+        {
+            "Level": 1,
+            "HP": 450,
+            "PhyAttack": 100,
+            "PhyDef": 15,
+            "Crit": 14,
+            "Strong": 190
+        },
+        {
+            "Level": 2,
+            "HP": 800,
+            "PhyAttack": 145,
+            "PhyDef": 20,
+            "Crit": 17,
+            "Strong": 232
+        },
+        {
+            "Level": 3,
+            "HP": 1150,
+            "PhyAttack": 190,
+            "PhyDef": 25,
+            "Crit": 20,
+            "Strong": 274
+        },
+        {
+            "Level": 4,
+            "HP": 1500,
+            "PhyAttack": 235,
+            "PhyDef": 30,
+            "Crit": 23,
+            "Strong": 316
+        },
+        {
+            "Level": 5,
+            "HP": 1850,
+            "PhyAttack": 280,
+            "PhyDef": 35,
+            "Crit": 26,
+            "Strong": 358
+        },
+        {
+            "Level": 6,
+            "HP": 2200,
+            "PhyAttack": 325,
+            "PhyDef": 40,
+            "Crit": 29,
+            "Strong": 400
+        },
+        {
+            "Level": 7,
+            "HP": 2550,
+            "PhyAttack": 370,
+            "PhyDef": 45,
+            "Crit": 32,
+            "Strong": 442
+        },
+        {
+            "Level": 8,
+            "HP": 2900,
+            "PhyAttack": 415,
+            "PhyDef": 50,
+            "Crit": 35,
+            "Strong": 484
+        },
+        {
+            "Level": 9,
+            "HP": 3250,
+            "PhyAttack": 460,
+            "PhyDef": 55,
+            "Crit": 38,
+            "Strong": 526
+        },
+        {
+            "Level": 10,
+            "HP": 3600,
+            "PhyAttack": 505,
+            "PhyDef": 60,
+            "Crit": 41,
+            "Strong": 568
+        },
+        {
+            "Level": 11,
+            "HP": 3950,
+            "PhyAttack": 550,
+            "PhyDef": 65,
+            "Crit": 44,
+            "Strong": 610
+        },
+        {
+            "Level": 12,
+            "HP": 4300,
+            "PhyAttack": 595,
+            "PhyDef": 70,
+            "Crit": 47,
+            "Strong": 652
+        },
+        {
+            "Level": 13,
+            "HP": 4650,
+            "PhyAttack": 640,
+            "PhyDef": 75,
+            "Crit": 50,
+            "Strong": 694
+        },
+        {
+            "Level": 14,
+            "HP": 5000,
+            "PhyAttack": 685,
+            "PhyDef": 80,
+            "Crit": 53,
+            "Strong": 736
+        },
+        {
+            "Level": 15,
+            "HP": 5350,
+            "PhyAttack": 730,
+            "PhyDef": 85,
+            "Crit": 56,
+            "Strong": 778
+        },
+        {
+            "Level": 16,
+            "HP": 5700,
+            "PhyAttack": 775,
+            "PhyDef": 90,
+            "Crit": 59,
+            "Strong": 820
+        },
+        {
+            "Level": 17,
+            "HP": 6050,
+            "PhyAttack": 820,
+            "PhyDef": 95,
+            "Crit": 62,
+            "Strong": 862
+        },
+        {
+            "Level": 18,
+            "HP": 6400,
+            "PhyAttack": 865,
+            "PhyDef": 100,
+            "Crit": 65,
+            "Strong": 904
+        },
+        {
+            "Level": 19,
+            "HP": 6750,
+            "PhyAttack": 910,
+            "PhyDef": 105,
+            "Crit": 68,
+            "Strong": 946
+        },
+        {
+            "Level": 20,
+            "HP": 7100,
+            "PhyAttack": 955,
+            "PhyDef": 110,
+            "Crit": 71,
+            "Strong": 988
+        },
+        {
+            "Level": 21,
+            "HP": 7450,
+            "PhyAttack": 1000,
+            "PhyDef": 115,
+            "Crit": 74,
+            "Strong": 1030
+        },
+        {
+            "Level": 22,
+            "HP": 7800,
+            "PhyAttack": 1045,
+            "PhyDef": 120,
+            "Crit": 77,
+            "Strong": 1072
+        },
+        {
+            "Level": 23,
+            "HP": 8150,
+            "PhyAttack": 1090,
+            "PhyDef": 125,
+            "Crit": 80,
+            "Strong": 1114
+        },
+        {
+            "Level": 24,
+            "HP": 8500,
+            "PhyAttack": 1135,
+            "PhyDef": 130,
+            "Crit": 83,
+            "Strong": 1156
+        },
+        {
+            "Level": 25,
+            "HP": 8850,
+            "PhyAttack": 1180,
+            "PhyDef": 135,
+            "Crit": 86,
+            "Strong": 1198
+        },
+        {
+            "Level": 26,
+            "HP": 9200,
+            "PhyAttack": 1225,
+            "PhyDef": 140,
+            "Crit": 89,
+            "Strong": 1240
+        },
+        {
+            "Level": 27,
+            "HP": 9550,
+            "PhyAttack": 1270,
+            "PhyDef": 145,
+            "Crit": 92,
+            "Strong": 1282
+        },
+        {
+            "Level": 28,
+            "HP": 9900,
+            "PhyAttack": 1315,
+            "PhyDef": 150,
+            "Crit": 95,
+            "Strong": 1324
+        },
+        {
+            "Level": 29,
+            "HP": 10250,
+            "PhyAttack": 1360,
+            "PhyDef": 155,
+            "Crit": 98,
+            "Strong": 1366
+        },
+        {
+            "Level": 30,
+            "HP": 10600,
+            "PhyAttack": 1405,
+            "PhyDef": 160,
+            "Crit": 101,
+            "Strong": 1408
+        },
+        {
+            "Level": 31,
+            "HP": 10950,
+            "PhyAttack": 1450,
+            "PhyDef": 165,
+            "Crit": 104,
+            "Strong": 1450
+        },
+        {
+            "Level": 32,
+            "HP": 11300,
+            "PhyAttack": 1495,
+            "PhyDef": 170,
+            "Crit": 107,
+            "Strong": 1492
+        },
+        {
+            "Level": 33,
+            "HP": 11650,
+            "PhyAttack": 1540,
+            "PhyDef": 175,
+            "Crit": 110,
+            "Strong": 1534
+        },
+        {
+            "Level": 34,
+            "HP": 12000,
+            "PhyAttack": 1585,
+            "PhyDef": 180,
+            "Crit": 113,
+            "Strong": 1576
+        },
+        {
+            "Level": 35,
+            "HP": 12350,
+            "PhyAttack": 1630,
+            "PhyDef": 185,
+            "Crit": 116,
+            "Strong": 1618
+        },
+        {
+            "Level": 36,
+            "HP": 12700,
+            "PhyAttack": 1675,
+            "PhyDef": 190,
+            "Crit": 119,
+            "Strong": 1660
+        },
+        {
+            "Level": 37,
+            "HP": 13050,
+            "PhyAttack": 1720,
+            "PhyDef": 195,
+            "Crit": 122,
+            "Strong": 1702
+        },
+        {
+            "Level": 38,
+            "HP": 13400,
+            "PhyAttack": 1765,
+            "PhyDef": 200,
+            "Crit": 125,
+            "Strong": 1744
+        },
+        {
+            "Level": 39,
+            "HP": 13750,
+            "PhyAttack": 1810,
+            "PhyDef": 205,
+            "Crit": 128,
+            "Strong": 1786
+        },
+        {
+            "Level": 40,
+            "HP": 14100,
+            "PhyAttack": 1855,
+            "PhyDef": 210,
+            "Crit": 131,
+            "Strong": 1828
+        },
+        {
+            "Level": 41,
+            "HP": 14450,
+            "PhyAttack": 1900,
+            "PhyDef": 215,
+            "Crit": 134,
+            "Strong": 1870
+        },
+        {
+            "Level": 42,
+            "HP": 14800,
+            "PhyAttack": 1945,
+            "PhyDef": 220,
+            "Crit": 137,
+            "Strong": 1912
+        },
+        {
+            "Level": 43,
+            "HP": 15150,
+            "PhyAttack": 1990,
+            "PhyDef": 225,
+            "Crit": 140,
+            "Strong": 1954
+        },
+        {
+            "Level": 44,
+            "HP": 15500,
+            "PhyAttack": 2035,
+            "PhyDef": 230,
+            "Crit": 143,
+            "Strong": 1996
+        },
+        {
+            "Level": 45,
+            "HP": 15850,
+            "PhyAttack": 2080,
+            "PhyDef": 235,
+            "Crit": 146,
+            "Strong": 2038
+        },
+        {
+            "Level": 46,
+            "HP": 16200,
+            "PhyAttack": 2125,
+            "PhyDef": 240,
+            "Crit": 149,
+            "Strong": 2080
+        },
+        {
+            "Level": 47,
+            "HP": 16550,
+            "PhyAttack": 2170,
+            "PhyDef": 245,
+            "Crit": 152,
+            "Strong": 2122
+        },
+        {
+            "Level": 48,
+            "HP": 16900,
+            "PhyAttack": 2215,
+            "PhyDef": 250,
+            "Crit": 155,
+            "Strong": 2164
+        },
+        {
+            "Level": 49,
+            "HP": 17250,
+            "PhyAttack": 2260,
+            "PhyDef": 255,
+            "Crit": 158,
+            "Strong": 2206
+        },
+        {
+            "Level": 50,
+            "HP": 17600,
+            "PhyAttack": 2305,
+            "PhyDef": 260,
+            "Crit": 161,
+            "Strong": 2248
+        },
+        {
+            "Level": 51,
+            "HP": 17950,
+            "PhyAttack": 2350,
+            "PhyDef": 265,
+            "Crit": 164,
+            "Strong": 2290
+        },
+        {
+            "Level": 52,
+            "HP": 18300,
+            "PhyAttack": 2395,
+            "PhyDef": 270,
+            "Crit": 167,
+            "Strong": 2332
+        },
+        {
+            "Level": 53,
+            "HP": 18650,
+            "PhyAttack": 2440,
+            "PhyDef": 275,
+            "Crit": 170,
+            "Strong": 2374
+        },
+        {
+            "Level": 54,
+            "HP": 19000,
+            "PhyAttack": 2485,
+            "PhyDef": 280,
+            "Crit": 173,
+            "Strong": 2416
+        },
+        {
+            "Level": 55,
+            "HP": 19350,
+            "PhyAttack": 2530,
+            "PhyDef": 285,
+            "Crit": 176,
+            "Strong": 2458
+        },
+        {
+            "Level": 56,
+            "HP": 19700,
+            "PhyAttack": 2575,
+            "PhyDef": 290,
+            "Crit": 179,
+            "Strong": 2500
+        },
+        {
+            "Level": 57,
+            "HP": 20050,
+            "PhyAttack": 2620,
+            "PhyDef": 295,
+            "Crit": 182,
+            "Strong": 2542
+        },
+        {
+            "Level": 58,
+            "HP": 20400,
+            "PhyAttack": 2665,
+            "PhyDef": 300,
+            "Crit": 185,
+            "Strong": 2584
+        },
+        {
+            "Level": 59,
+            "HP": 20750,
+            "PhyAttack": 2710,
+            "PhyDef": 305,
+            "Crit": 188,
+            "Strong": 2626
+        },
+        {
+            "Level": 60,
+            "HP": 21100,
+            "PhyAttack": 2755,
+            "PhyDef": 310,
+            "Crit": 191,
+            "Strong": 2668
+        },
+        {
+            "Level": 61,
+            "HP": 21450,
+            "PhyAttack": 2800,
+            "PhyDef": 315,
+            "Crit": 194,
+            "Strong": 2710
+        },
+        {
+            "Level": 62,
+            "HP": 21800,
+            "PhyAttack": 2845,
+            "PhyDef": 320,
+            "Crit": 197,
+            "Strong": 2752
+        },
+        {
+            "Level": 63,
+            "HP": 22150,
+            "PhyAttack": 2890,
+            "PhyDef": 325,
+            "Crit": 200,
+            "Strong": 2794
+        },
+        {
+            "Level": 64,
+            "HP": 22500,
+            "PhyAttack": 2935,
+            "PhyDef": 330,
+            "Crit": 203,
+            "Strong": 2836
+        },
+        {
+            "Level": 65,
+            "HP": 22850,
+            "PhyAttack": 2980,
+            "PhyDef": 335,
+            "Crit": 206,
+            "Strong": 2878
+        },
+        {
+            "Level": 66,
+            "HP": 23200,
+            "PhyAttack": 3025,
+            "PhyDef": 340,
+            "Crit": 209,
+            "Strong": 2920
+        },
+        {
+            "Level": 67,
+            "HP": 23550,
+            "PhyAttack": 3070,
+            "PhyDef": 345,
+            "Crit": 212,
+            "Strong": 2962
+        },
+        {
+            "Level": 68,
+            "HP": 23900,
+            "PhyAttack": 3115,
+            "PhyDef": 350,
+            "Crit": 215,
+            "Strong": 3004
+        },
+        {
+            "Level": 69,
+            "HP": 24250,
+            "PhyAttack": 3160,
+            "PhyDef": 355,
+            "Crit": 218,
+            "Strong": 3046
+        },
+        {
+            "Level": 70,
+            "HP": 24600,
+            "PhyAttack": 3205,
+            "PhyDef": 360,
+            "Crit": 221,
+            "Strong": 3088
+        },
+        {
+            "Level": 71,
+            "HP": 24950,
+            "PhyAttack": 3250,
+            "PhyDef": 365,
+            "Crit": 224,
+            "Strong": 3130
+        },
+        {
+            "Level": 72,
+            "HP": 25300,
+            "PhyAttack": 3295,
+            "PhyDef": 370,
+            "Crit": 227,
+            "Strong": 3172
+        },
+        {
+            "Level": 73,
+            "HP": 25650,
+            "PhyAttack": 3340,
+            "PhyDef": 375,
+            "Crit": 230,
+            "Strong": 3214
+        },
+        {
+            "Level": 74,
+            "HP": 26000,
+            "PhyAttack": 3385,
+            "PhyDef": 380,
+            "Crit": 233,
+            "Strong": 3256
+        },
+        {
+            "Level": 75,
+            "HP": 26350,
+            "PhyAttack": 3430,
+            "PhyDef": 385,
+            "Crit": 236,
+            "Strong": 3298
+        },
+        {
+            "Level": 76,
+            "HP": 26700,
+            "PhyAttack": 3475,
+            "PhyDef": 390,
+            "Crit": 239,
+            "Strong": 3340
+        },
+        {
+            "Level": 77,
+            "HP": 27050,
+            "PhyAttack": 3520,
+            "PhyDef": 395,
+            "Crit": 242,
+            "Strong": 3382
+        },
+        {
+            "Level": 78,
+            "HP": 27400,
+            "PhyAttack": 3565,
+            "PhyDef": 400,
+            "Crit": 245,
+            "Strong": 3424
+        },
+        {
+            "Level": 79,
+            "HP": 27750,
+            "PhyAttack": 3610,
+            "PhyDef": 405,
+            "Crit": 248,
+            "Strong": 3466
+        },
+        {
+            "Level": 80,
+            "HP": 28100,
+            "PhyAttack": 3655,
+            "PhyDef": 410,
+            "Crit": 251,
+            "Strong": 3508
+        },
+        {
+            "Level": 81,
+            "HP": 28450,
+            "PhyAttack": 3700,
+            "PhyDef": 415,
+            "Crit": 254,
+            "Strong": 3550
+        },
+        {
+            "Level": 82,
+            "HP": 28800,
+            "PhyAttack": 3745,
+            "PhyDef": 420,
+            "Crit": 257,
+            "Strong": 3592
+        },
+        {
+            "Level": 83,
+            "HP": 29150,
+            "PhyAttack": 3790,
+            "PhyDef": 425,
+            "Crit": 260,
+            "Strong": 3634
+        },
+        {
+            "Level": 84,
+            "HP": 29500,
+            "PhyAttack": 3835,
+            "PhyDef": 430,
+            "Crit": 263,
+            "Strong": 3676
+        },
+        {
+            "Level": 85,
+            "HP": 29850,
+            "PhyAttack": 3880,
+            "PhyDef": 435,
+            "Crit": 266,
+            "Strong": 3718
+        },
+        {
+            "Level": 86,
+            "HP": 30200,
+            "PhyAttack": 3925,
+            "PhyDef": 440,
+            "Crit": 269,
+            "Strong": 3760
+        },
+        {
+            "Level": 87,
+            "HP": 30550,
+            "PhyAttack": 3970,
+            "PhyDef": 445,
+            "Crit": 272,
+            "Strong": 3802
+        },
+        {
+            "Level": 88,
+            "HP": 30900,
+            "PhyAttack": 4015,
+            "PhyDef": 450,
+            "Crit": 275,
+            "Strong": 3844
+        },
+        {
+            "Level": 89,
+            "HP": 31250,
+            "PhyAttack": 4060,
+            "PhyDef": 455,
+            "Crit": 278,
+            "Strong": 3886
+        },
+        {
+            "Level": 90,
+            "HP": 31600,
+            "PhyAttack": 4105,
+            "PhyDef": 460,
+            "Crit": 281,
+            "Strong": 3928
+        },
+        {
+            "Level": 91,
+            "HP": 31950,
+            "PhyAttack": 4150,
+            "PhyDef": 465,
+            "Crit": 284,
+            "Strong": 3970
+        },
+        {
+            "Level": 92,
+            "HP": 32300,
+            "PhyAttack": 4195,
+            "PhyDef": 470,
+            "Crit": 287,
+            "Strong": 4012
+        },
+        {
+            "Level": 93,
+            "HP": 32650,
+            "PhyAttack": 4240,
+            "PhyDef": 475,
+            "Crit": 290,
+            "Strong": 4054
+        },
+        {
+            "Level": 94,
+            "HP": 33000,
+            "PhyAttack": 4285,
+            "PhyDef": 480,
+            "Crit": 293,
+            "Strong": 4096
+        },
+        {
+            "Level": 95,
+            "HP": 33350,
+            "PhyAttack": 4330,
+            "PhyDef": 485,
+            "Crit": 296,
+            "Strong": 4138
+        },
+        {
+            "Level": 96,
+            "HP": 33700,
+            "PhyAttack": 4375,
+            "PhyDef": 490,
+            "Crit": 299,
+            "Strong": 4180
+        },
+        {
+            "Level": 97,
+            "HP": 34050,
+            "PhyAttack": 4420,
+            "PhyDef": 495,
+            "Crit": 302,
+            "Strong": 4222
+        },
+        {
+            "Level": 98,
+            "HP": 34400,
+            "PhyAttack": 4465,
+            "PhyDef": 500,
+            "Crit": 305,
+            "Strong": 4264
+        },
+        {
+            "Level": 99,
+            "HP": 34750,
+            "PhyAttack": 4510,
+            "PhyDef": 505,
+            "Crit": 308,
+            "Strong": 4306
+        },
+        {
+            "Level": 100,
+            "HP": 35100,
+            "PhyAttack": 4555,
+            "PhyDef": 510,
+            "Crit": 311,
+            "Strong": 4348
+        }
+    ]
+}

@@ -1,0 +1,652 @@
+{
+   "ErrorCode" : [
+      {
+         "Caption" : "操作成功",
+         "ErrCode" : 0
+      },
+      {
+         "Caption" : "未知错误",
+         "ErrCode" : 1
+      },
+      {
+         "Caption" : "参数错误",
+         "ErrCode" : 1001
+      },
+      {
+         "Caption" : "连接数据服务器超时",
+         "ErrCode" : 1002
+      },
+      {
+         "Caption" : "数据服务器连接断开",
+         "ErrCode" : 1003
+      },
+      {
+         "Caption" : "接收数据超时",
+         "ErrCode" : 1004
+      },
+      {
+         "Caption" : "收到不能识别的数据格式",
+         "ErrCode" : 1005
+      },
+      {
+         "Caption" : "分配内存失败",
+         "ErrCode" : 1006
+      },
+      {
+         "Caption" : "参数错误",
+         "ErrCode" : 2000
+      },
+      {
+         "Caption" : "不支持的命令",
+         "ErrCode" : 2001
+      },
+      {
+         "Caption" : "sql语句执行失败",
+         "ErrCode" : 2002
+      },
+      {
+         "Caption" : "Table不存在",
+         "ErrCode" : 2003
+      },
+      {
+         "Caption" : "Key不存在",
+         "ErrCode" : 2004
+      },
+      {
+         "Caption" : "Field不存在",
+         "ErrCode" : 2005
+      },
+      {
+         "Caption" : "mysql繁忙",
+         "ErrCode" : 2006
+      },
+      {
+         "Caption" : "参数错误",
+         "ErrCode" : 3001
+      },
+      {
+         "Caption" : "连接超时",
+         "ErrCode" : 3002
+      },
+      {
+         "Caption" : "服务器断线",
+         "ErrCode" : 3003
+      },
+      {
+         "Caption" : "接收数据超时",
+         "ErrCode" : 3004
+      },
+      {
+         "Caption" : "发送数据超时",
+         "ErrCode" : 3005
+      },
+      {
+         "Caption" : "收到不能识别的数据格式",
+         "ErrCode" : 3006
+      },
+      {
+         "Caption" : "分配内存失败",
+         "ErrCode" : 3007
+      },
+      {
+         "Caption" : "对端不在线",
+         "ErrCode" : 4001
+      },
+      {
+         "Caption" : "不能识别的服务器编号",
+         "ErrCode" : 4002
+      },
+      {
+         "Caption" : "不能识别的包类型",
+         "ErrCode" : 4003
+      },
+      {
+         "Caption" : "会话id已存在",
+         "ErrCode" : 4004
+      },
+      {
+         "Caption" : "会话不存在",
+         "ErrCode" : 4005
+      },
+      {
+         "Caption" : "请求的服务器不存在",
+         "ErrCode" : 5001
+      },
+      {
+         "Caption" : "命令码错误",
+         "ErrCode" : 5002
+      },
+      {
+         "Caption" : "用户重复",
+         "ErrCode" : 5003
+      },
+      {
+         "Caption" : "登录网关失败",
+         "ErrCode" : 5004
+      },
+      {
+         "Caption" : "启动服务失败",
+         "ErrCode" : 5005
+      },
+      {
+         "Caption" : "初始化配置信息失败",
+         "ErrCode" : 5006
+      },
+      {
+         "Caption" : "账户没有验证",
+         "ErrCode" : 5007
+      },
+      {
+         "Caption" : "账户Token无效或不存在",
+         "ErrCode" : 5008
+      },
+      {
+         "Caption" : "用户数据包过大",
+         "ErrCode" : 5009
+      },
+      {
+         "Caption" : "连接验证服务器失败",
+         "ErrCode" : 50010
+      },
+      {
+         "Caption" : "登录验证服务器失败",
+         "ErrCode" : 50011
+      },
+      {
+         "Caption" : "SOCKET读错误",
+         "ErrCode" : 50012
+      },
+      {
+         "Caption" : "SOCKET写错误",
+         "ErrCode" : 50013
+      },
+      {
+         "Caption" : "申请内存失败",
+         "ErrCode" : 50014
+      },
+      {
+         "Caption" : "启动失败",
+         "ErrCode" : 50015
+      },
+      {
+         "Caption" : "停止失败",
+         "ErrCode" : 50016
+      },
+      {
+         "Caption" : "获取服务器状态失败",
+         "ErrCode" : 50017
+      },
+      {
+         "Caption" : "没有进入角色",
+         "ErrCode" : 50018
+      },
+      {
+         "Caption" : "无效的用户",
+         "ErrCode" : 50019
+      },
+      {
+         "Caption" : "无效的角色",
+         "ErrCode" : 50020
+      },
+      {
+         "Caption" : "登录网关服务器失败",
+         "ErrCode" : 6001
+      },
+      {
+         "Caption" : "登录数据服务器失败",
+         "ErrCode" : 6002
+      },
+      {
+         "Caption" : "id在频道内已存在",
+         "ErrCode" : 6003
+      },
+      {
+         "Caption" : "id在频道内不存在",
+         "ErrCode" : 6004
+      },
+      {
+         "Caption" : "该频道成员为空",
+         "ErrCode" : 6005
+      },
+      {
+         "Caption" : "该频道类型不允许进入或离开",
+         "ErrCode" : 6006
+      },
+      {
+         "Caption" : "非法的命令数据包",
+         "ErrCode" : 6007
+      },
+      {
+         "Caption" : "未知的命令码",
+         "ErrCode" : 6008
+      },
+      {
+         "Caption" : "登录数据服务器失败",
+         "ErrCode" : 7001
+      },
+      {
+         "Caption" : "非法的令牌",
+         "ErrCode" : 7002
+      },
+      {
+         "Caption" : "不能识别的命令码",
+         "ErrCode" : 7003
+      },
+      {
+         "Caption" : "link服务器重复登陆",
+         "ErrCode" : 7004
+      },
+      {
+         "Caption" : "不存在的分区",
+         "ErrCode" : 7005
+      },
+      {
+         "Caption" : "该link服务器未登陆",
+         "ErrCode" : 7006
+      },
+      {
+         "Caption" : "外部管理服务器重复登录",
+         "ErrCode" : 7007
+      },
+      {
+         "Caption" : "不存在的用户",
+         "ErrCode" : 7008
+      },
+      {
+         "Caption" : "用户重复登录",
+         "ErrCode" : 7009
+      },
+      {
+         "Caption" : "用户未登录",
+         "ErrCode" : 7010
+      },
+      {
+         "Caption" : "读取数据库失败",
+         "ErrCode" : 7011
+      },
+      {
+         "Caption" : "账号密码错误",
+         "ErrCode" : 7012
+      },
+      {
+         "Caption" : "非法会话数据包",
+         "ErrCode" : 7013
+      },
+      {
+         "Caption" : "分区信息表为空",
+         "ErrCode" : 7014
+      },
+      {
+         "Caption" : "错误的逻辑调用",
+         "ErrCode" : 7015
+      },
+      {
+         "Caption" : "已经存在的分区",
+         "ErrCode" : 7016
+      },
+      {
+         "Caption" : "非法的命令数据包",
+         "ErrCode" : 7017
+      },
+      {
+         "Caption" : "超过最大用户负载",
+         "ErrCode" : 7018
+      },
+      {
+         "Caption" : "不存在的数据服务器id",
+         "ErrCode" : 7019
+      },
+      {
+         "Caption" : "读取数据库失败",
+         "ErrCode" : 8001
+      },
+      {
+         "Caption" : "角色不存在",
+         "ErrCode" : 8002
+      },
+      {
+         "Caption" : "角色已经存在",
+         "ErrCode" : 8003
+      },
+      {
+         "Caption" : "系统资源不足",
+         "ErrCode" : 8004
+      },
+      {
+         "Caption" : "好友已存在",
+         "ErrCode" : 8005
+      },
+      {
+         "Caption" : "好友不存在",
+         "ErrCode" : 8006
+      },
+      {
+         "Caption" : "好友失败",
+         "ErrCode" : 8007
+      },
+      {
+         "Caption" : "该id不存在 ",
+         "ErrCode" : 8008
+      },
+      {
+         "Caption" : "不能识别的命令码 ",
+         "ErrCode" : 8009
+      },
+      {
+         "Caption" : "角色昵称已存在",
+         "ErrCode" : 8010
+      },
+      {
+         "Caption" : "脚本执行失败",
+         "ErrCode" : 8011
+      },
+      {
+         "Caption" : "脚本返回值不合法",
+         "ErrCode" : 8012
+      },
+      {
+         "Caption" : "该邮件不存在",
+         "ErrCode" : 8013
+      },
+      {
+         "Caption" : "账号不存在",
+         "ErrCode" : 8014
+      },
+      {
+         "Caption" : "背包已满",
+         "ErrCode" : 8015
+      },
+      {
+         "Caption" : "非法的数据包",
+         "ErrCode" : 8016
+      },
+      {
+         "Caption" : "角色处于在线状态不能被删除",
+         "ErrCode" : 8017
+      },
+      {
+         "Caption" : "获取角色id失败",
+         "ErrCode" : 8018
+      },
+      {
+         "Caption" : "未知的角色类型",
+         "ErrCode" : 8019
+      },
+      {
+         "Caption" : "宝石片不能镶嵌",
+         "ErrCode" : 8020
+      },
+      {
+         "Caption" : "宝石孔已镶嵌宝石",
+         "ErrCode" : 8021
+      },
+      {
+         "Caption" : "物品不存在",
+         "ErrCode" : 8022
+      },
+      {
+         "Caption" : "宝石未镶嵌",
+         "ErrCode" : 8023
+      },
+      {
+         "Caption" : "公会不存在",
+         "ErrCode" : 8024
+      },
+      {
+         "Caption" : "角色个数超过最大阀值",
+         "ErrCode" : 8025
+      },
+      {
+         "Caption" : "超过角色的最大等级",
+         "ErrCode" : 8026
+      },
+      {
+         "Caption" : "该技能不存在",
+         "ErrCode" : 8027
+      },
+      {
+         "Caption" : "超过该技能最大等级",
+         "ErrCode" : 8028
+      },
+      {
+         "Caption" : "体力不足",
+         "ErrCode" : 8029
+      },
+      {
+         "Caption" : "金币不足",
+         "ErrCode" : 8030
+      },
+      {
+         "Caption" : "不存在的副本",
+         "ErrCode" : 8031
+      },
+      {
+         "Caption" : "低于副本限制角色等级",
+         "ErrCode" : 8032
+      },
+      {
+         "Caption" : "物品等级高于角色等级",
+         "ErrCode" : 8033
+      },
+      {
+         "Caption" : "超过当前副本最大进入次数",
+         "ErrCode" : 8034
+      },
+      {
+         "Caption" : "未进入的副本",
+         "ErrCode" : 8035
+      },
+      {
+         "Caption" : "HP不足",
+         "ErrCode" : 8036
+      },
+      {
+         "Caption" : "MP不足",
+         "ErrCode" : 8037
+      },
+      {
+         "Caption" : "角色没有该种技能",
+         "ErrCode" : 8038
+      },
+      {
+         "Caption" : "不存在的职业",
+         "ErrCode" : 8039
+      },
+      {
+         "Caption" : "低于技能限制角色等级",
+         "ErrCode" : 8040
+      },
+      {
+         "Caption" : "不存在的任务",
+         "ErrCode" : 8041
+      },
+      {
+         "Caption" : "低于任务限制角色等级",
+         "ErrCode" : 8042
+      },
+      {
+         "Caption" : "超过当前最大任务接收数量",
+         "ErrCode" : 8043
+      },
+      {
+         "Caption" : "该任务已存在接收任务队列中",
+         "ErrCode" : 8044
+      },
+      {
+         "Caption" : "任务完成失败",
+         "ErrCode" : 8045
+      },
+      {
+         "Caption" : "副本完成失败",
+         "ErrCode" : 8046
+      },
+      {
+         "Caption" : "已经是最高强化等级",
+         "ErrCode" : 8047
+      },
+      {
+         "Caption" : "材料不足",
+         "ErrCode" : 8048
+      },
+      {
+         "Caption" : "强化失败",
+         "ErrCode" : 8049
+      },
+      {
+         "Caption" : "装备达到最高星级",
+         "ErrCode" : 8050
+      },
+      {
+         "Caption" : "低于升星角色限制等级",
+         "ErrCode" : 8051
+      },
+      {
+         "Caption" : "物品不允许出售",
+         "ErrCode" : 8052
+      },
+      {
+         "Caption" : "不能合成",
+         "ErrCode" : 8053
+      },
+      {
+         "Caption" : "合成失败",
+         "ErrCode" : 8054
+      },
+      {
+         "Caption" : "该位置已穿戴有装备",
+         "ErrCode" : 8055
+      },
+      {
+         "Caption" : "穿戴位置不匹配",
+         "ErrCode" : 8056
+      },
+      {
+         "Caption" : "不允许继承",
+         "ErrCode" : 8057
+      },
+      {
+         "Caption" : "宝石孔未打开",
+         "ErrCode" : 8058
+      },
+      {
+         "Caption" : "宝石和宝石孔不匹配",
+         "ErrCode" : 8059
+      },
+      {
+         "Caption" : "宝石孔号不合法",
+         "ErrCode" : 8060
+      },
+      {
+         "Caption" : "宝石合成材料不匹配",
+         "ErrCode" : 8061
+      },
+      {
+         "Caption" : "装备合成品质不存在",
+         "ErrCode" : 8062
+      },
+      {
+         "Caption" : "宝箱不存在",
+         "ErrCode" : 8063
+      },
+      {
+         "Caption" : "昵称不允许为空",
+         "ErrCode" : 8064
+      },
+      {
+         "Caption" : "无物品出售记录",
+         "ErrCode" : 8065
+      },
+      {
+         "Caption" : "物品属性已满",
+         "ErrCode" : 8066
+      },
+      {
+         "Caption" : "商品不存在",
+         "ErrCode" : 8067
+      },
+      {
+         "Caption" : "代币不足",
+         "ErrCode" : 8068
+      },
+      {
+         "Caption" : "超过拥有最大时装数量限制",
+         "ErrCode" : 8069
+      },
+      {
+         "Caption" : "时装不存在",
+         "ErrCode" : 8070
+      },
+      {
+         "Caption" : "时装过期",
+         "ErrCode" : 8071
+      },
+      {
+         "Caption" : "职业",
+         "ErrCode" : 8072
+      },
+      {
+         "Caption" : "VIP等级不够",
+         "ErrCode" : 8073
+      },
+      {
+         "Caption" : "非法的充值id",
+         "ErrCode" : 8074
+      },
+      {
+         "Caption" : "装备强化等级为0不能消除",
+         "ErrCode" : 8075
+      },
+      {
+         "Caption" : "装备星级为0不能消除",
+         "ErrCode" : 8076
+      },
+      {
+         "Caption" : "非法的数据包",
+         "ErrCode" : 9001
+      },
+      {
+         "Caption" : "不能识别的命令码",
+         "ErrCode" : 9002
+      },
+      {
+         "Caption" : "连接服务器超时",
+         "ErrCode" : 9201
+      },
+      {
+         "Caption" : "读取数据超时",
+         "ErrCode" : 9202
+      },
+      {
+         "Caption" : "发送数据超时",
+         "ErrCode" : 9203
+      },
+      {
+         "Caption" : "命令码错误",
+         "ErrCode" : 9204
+      },
+      {
+         "Caption" : "登录失败",
+         "ErrCode" : 9205
+      },
+      {
+         "Caption" : "重复登录",
+         "ErrCode" : 9206
+      },
+      {
+         "Caption" : "账号格式不正确",
+         "ErrCode" : 9207
+      },
+      {
+         "Caption" : "没有登陆",
+         "ErrCode" : 9208
+      },
+      {
+         "Caption" : "配置文件格式不正确",
+         "ErrCode" : 9209
+      },
+      {
+         "Caption" : "打开配置文件失败",
+         "ErrCode" : 9210
+      }
+   ]
+}

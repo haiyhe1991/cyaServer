@@ -1,0 +1,184 @@
+{
+    "Chapter": [
+        {
+            "ID": 1,
+            "Name": "第一章:赫特兰山道",
+            "Desc": "赫特兰山道",
+            "Next": 2,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "Name": "第二章:伯爵辖地",
+            "Desc": "伯爵辖地",
+            "Next": 3,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "Name": "第三章:沙骨之地",
+            "Desc": "沙骨之地",
+            "Next": 4,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "Name": "第四章:精灵之森",
+            "Desc": "精灵之森",
+            "Next": 5,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "Name": "第五章:赛维提亚王城",
+            "Desc": "赛维提亚王城",
+            "Next": 6,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "Name": "第六章:安纳普尔雪域",
+            "Desc": "安纳普尔雪域",
+            "Next": 7,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "Name": "第七章:禁锢深渊",
+            "Desc": "禁锢深渊",
+            "Next": 8,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "Name": "第八章:圣海伦斯火山",
+            "Desc": "圣海伦斯火山",
+            "Next": 9,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "Name": "第九章:诡秘岛",
+            "Desc": "诡秘岛",
+            "Next": 0,
+            "IconID": 0,
+            "RewardStarNum": 20,
+            "Reward": [
+                {
+                    "ID": 31001,
+                    "Type": 3,
+                    "Num": 10
+                },
+                {
+                    "ID": 31002,
+                    "Type": 3,
+                    "Num": 10
+                }
+            ]
+        }
+    ]
+}

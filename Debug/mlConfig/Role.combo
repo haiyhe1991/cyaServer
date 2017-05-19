@@ -1,0 +1,2402 @@
+{
+    "Skill": [
+        {
+            "ID": 11101,
+            "OrderID": 1,
+            "BelongTo": 1,
+            "Name": "战刃·断魔斩",
+            "Desc": "地面，普通连续攻击，一段击",
+            "Description": "充满力量的迅猛斩击，沉重的武器如同山岳砸向对方",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004
+            ],
+            "Keys": [
+                3
+            ],
+            "IconID": 6101,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 104,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 11102,
+            "OrderID": 2,
+            "BelongTo": 1,
+            "Name": "战刃·狂风爆裂",
+            "Desc": "地面，普通连续攻击，二段击",
+            "Description": "强有力的向上挥击，剑刃如同狂风一般劈向敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3
+            ],
+            "IconID": 6102,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 109,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11103,
+            "OrderID": 3,
+            "BelongTo": 1,
+            "Name": "战刃·战神威怒",
+            "Desc": "地面，普通连续攻击，三段击",
+            "Description": "压制打击是强大而有力的横向挥砍，是在战斗中占取上风的重要招数",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3
+            ],
+            "IconID": 6103,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 9,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 96,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11104,
+            "OrderID": 4,
+            "BelongTo": 1,
+            "Name": "战刃·暴风撕裂斩",
+            "Desc": "地面，普通连续攻击，四段击",
+            "Description": "前方蜂拥而上的敌人会在重剑士大范围的正面横扫下闻风丧胆",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6104,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 12,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 124,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11105,
+            "OrderID": 5,
+            "BelongTo": 1,
+            "Name": "战刃·神剑强袭",
+            "Desc": "地面，普通连续攻击，五段击",
+            "Description": "挥舞巨剑释放出一道冲击波，强大的威力将斩断所有敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6105,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 126,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 11106,
+            "OrderID": 6,
+            "BelongTo": 1,
+            "Name": "战争之舞·女武神降临",
+            "Desc": "空中，普通连续攻击，一段击",
+            "Description": "姿态优美而致命的横向斩击，如同传说中的女武神，在空中释放出难以言喻的美丽。",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3
+            ],
+            "IconID": 6106,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 2,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 118,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 11107,
+            "OrderID": 7,
+            "BelongTo": 1,
+            "Name": "战争之舞·不灭英勇",
+            "Desc": "空中，普通连续攻击，二段击",
+            "Description": "在空中强力挥砍，其身姿正是重剑士英勇的最好印证",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3
+            ],
+            "IconID": 6107,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 4,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 107,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11108,
+            "OrderID": 8,
+            "BelongTo": 1,
+            "Name": "战争之舞·神力暴怒斩",
+            "Desc": "空中，普通连续攻击，三段击",
+            "Description": "巨剑上汇聚更多力量，在空中释放强力又残酷挥砍",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6108,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 99,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11109,
+            "OrderID": 9,
+            "BelongTo": 1,
+            "Name": "战争之舞·钢铁意志击",
+            "Desc": "空中，普通连续攻击，四段击",
+            "Description": "充满气势的横向斩击展示出了重战士强大的战斗意志，在这招式面前，敌人就像尘埃一般渺小",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6109,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 8,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 107,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 11110,
+            "OrderID": 10,
+            "BelongTo": 1,
+            "Name": "战争之舞·永恒荣耀",
+            "Desc": "空中，普通连续攻击，五段击",
+            "Description": "空中连击最后的招式，用剑奋力上挑。动作强健有力，充满了重战士的荣誉感以及对战斗的渴望",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6110,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 162,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 11301,
+            "OrderID": 18,
+            "BelongTo": 1,
+            "Name": "大气断破剑",
+            "Desc": "地面上挑攻击，跳跃同时将敌人挑向空中！",
+            "Description": "挥舞重剑将敌人挑至空中的奋力一击，如同空气都被斩断一般威力强劲",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1
+            ],
+            "IconID": 6111,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 94,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 11302,
+            "OrderID": 19,
+            "BelongTo": 1,
+            "Name": "苍穹裂空斩",
+            "Desc": "空中上挑攻击（*需解锁妖精羽翼魔导器）",
+            "Description": "高高跃起，强力上挑，然后天空就这样被撕裂了",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                1
+            ],
+            "IconID": 6112,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 79,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 11201,
+            "OrderID": 16,
+            "BelongTo": 1,
+            "Name": "魔法箭·地狱引路者",
+            "Desc": "地面，消耗MP释放远程攻击",
+            "Description": "重剑士射出烈风般强力魔法箭会摧毁一切阻挡",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5003
+            ],
+            "Keys": [
+                4
+            ],
+            "IconID": 6113,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 3,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 10,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 11202,
+            "OrderID": 17,
+            "BelongTo": 1,
+            "Name": "炎龙灭世斩",
+            "Desc": "空中，下劈范围攻击，可以对倒地目标释放！",
+            "Description": "身在空中，手中重剑如同火龙俯冲而下，威猛的气势将周围的敌人撕成碎片。",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5003
+            ],
+            "Keys": [
+                1,
+                4
+            ],
+            "IconID": 6114,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 105,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 11203,
+            "OrderID": 11,
+            "BelongTo": 1,
+            "Name": "噬魂剑·战马奔腾",
+            "Desc": "地面，特殊连击一段终结技，产生击倒效果",
+            "Description": "如同战马冲锋，踏碎大地，强有力的双手斩击，劈开胜利之路",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                4
+            ],
+            "IconID": 6115,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 164,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 8
+        },
+        {
+            "ID": 11204,
+            "OrderID": 12,
+            "BelongTo": 1,
+            "Name": "噬魂剑·复仇女神之怒",
+            "Desc": "地面，特殊连击二段终结技，产生击退效果",
+            "Description": "重剑士善于驾驭仇恨和愤怒，并将其转化为无可抵挡的全方位横扫斩击",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                4
+            ],
+            "IconID": 6116,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 156,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 11205,
+            "OrderID": 13,
+            "BelongTo": 1,
+            "Name": "噬魂剑·战魂狂舞",
+            "Desc": "地面，特殊连击三段终结技，产生破防效果",
+            "Description": "华丽的巨剑挥击配上重剑士的身姿，简直就是战斗中诞生的艺术品",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6117,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 206,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 11206,
+            "OrderID": 14,
+            "BelongTo": 1,
+            "Name": "噬魂剑·爆裂毁灭破",
+            "Desc": "地面，特殊连击四段终结技，产生击飞效果",
+            "Description": "巨剑射出光箭，揭示敌人的毁灭。其所经之处，将只剩焦土",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6118,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 20,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 157,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 11207,
+            "OrderID": 15,
+            "BelongTo": 1,
+            "Name": "噬魂剑·末日颂歌",
+            "Desc": "地面，特殊连击五段终结技，产生击飞效果",
+            "Description": "巨剑连击的最终形态，在狂暴的死亡旋风之后，你将是战场上屹立不倒的最后一人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6119,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 25,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 230,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                30,
+                50,
+                20
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 12
+        },
+        {
+            "ID": 12101,
+            "OrderID": 1,
+            "BelongTo": 2,
+            "Name": "北风·落雪横断",
+            "Desc": "地面，普通连续攻击，一段击",
+            "Description": "双剑剑技的起手挥砍，攻击寒冷无情",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004
+            ],
+            "Keys": [
+                3
+            ],
+            "IconID": 6201,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 87,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 12102,
+            "OrderID": 2,
+            "BelongTo": 2,
+            "Name": "北风·冰晶裂破",
+            "Desc": "地面，普通连续攻击，二段击",
+            "Description": "快速的横向挥砍如寒风，划破敌人的身体",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3
+            ],
+            "IconID": 6202,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 88,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12103,
+            "OrderID": 3,
+            "BelongTo": 2,
+            "Name": "北风·寒风冰河",
+            "Desc": "地面，普通连续攻击，三段击",
+            "Description": "侧身跃起向上挥砍，像从冰封的河面上刮来的致命寒风",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3
+            ],
+            "IconID": 6203,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 9,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 83,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12104,
+            "OrderID": 4,
+            "BelongTo": 2,
+            "Name": "北风·鲜血凝华",
+            "Desc": "地面，普通连续攻击，四段击",
+            "Description": "侧身旋转重劈，像死神的手一样划过敌人，然后其鲜血如花般绽放",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6204,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 12,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 110,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12105,
+            "OrderID": 5,
+            "BelongTo": 2,
+            "Name": "北风·深寒狂袭",
+            "Desc": "地面，普通连续攻击，五段击",
+            "Description": "强力的横劈划出一道冰冷的冲击波，穿过前方的敌人，带来恐惧，收割生命",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6205,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 106,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 12106,
+            "OrderID": 6,
+            "BelongTo": 2,
+            "Name": "冰龙剑·碧蓝乱舞",
+            "Desc": "空中，普通连续攻击，一段击",
+            "Description": "在空中挥舞的剑技，如同碧蓝色的精灵的舞蹈一般美丽动人又残酷无情",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3
+            ],
+            "IconID": 6206,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 2,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 103,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 12107,
+            "OrderID": 7,
+            "BelongTo": 2,
+            "Name": "冰龙剑·冻空魔息斩",
+            "Desc": "空中，普通连续攻击，二段击",
+            "Description": "在空中放出如同冷风之神吐息般冰冷横向回旋斩，并且会向前射出魔法箭",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3
+            ],
+            "IconID": 6207,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 4,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 126,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                25,
+                35,
+                40
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12108,
+            "OrderID": 8,
+            "BelongTo": 2,
+            "Name": "冰龙剑·噬魂幽空击",
+            "Desc": "空中，普通连续攻击，三段击",
+            "Description": "在空中纵向快速回旋斩击，剑刃的寒光划破幽空",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6208,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 138,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                25,
+                35,
+                40
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12109,
+            "OrderID": 9,
+            "BelongTo": 2,
+            "Name": "冰龙剑·龙翼风暴",
+            "Desc": "空中，普通连续攻击，四段击",
+            "Description": "在空中放出剃刀似的侧身快速回旋斩，飓风一般撕裂敌人的血肉",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6209,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 8,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 141,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                20,
+                30,
+                20,
+                30
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 12110,
+            "OrderID": 10,
+            "BelongTo": 2,
+            "Name": "冰龙剑·吞噬者凝视",
+            "Desc": "空中，普通连续攻击，五段击",
+            "Description": "在空中如同飓风似的回旋斩击一次双剑交叉挥砍，将致命的伤痕像印记一样铭刻在敌人的身上",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6210,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 186,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                20,
+                30,
+                20,
+                30
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 12301,
+            "OrderID": 18,
+            "BelongTo": 2,
+            "Name": "冰霜魔蝶之舞",
+            "Desc": "地面上挑攻击，跳跃同时将敌人挑向空中！",
+            "Description": "像冰霜形成的蝴蝶挥舞翅膀一样将敌人挑至空中",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1
+            ],
+            "IconID": 6211,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 91,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 12302,
+            "OrderID": 19,
+            "BelongTo": 2,
+            "Name": "冰霜升腾飓风",
+            "Desc": "空中上挑攻击（*需解锁妖精羽翼魔导器）",
+            "Description": "在空中挥舞如同飓风一般的双剑释放回旋斩将敌人送向更冷的高空",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                1
+            ],
+            "IconID": 6212,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 88,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 12201,
+            "OrderID": 16,
+            "BelongTo": 2,
+            "Name": "魔法箭·凛风湮没",
+            "Desc": "地面，消耗MP释放远程攻击",
+            "Description": "凛冽无情的双剑上挑，冰释放出魔法箭的攻击像无情的冰风切割敌人的身体",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5003
+            ],
+            "Keys": [
+                4
+            ],
+            "IconID": 6213,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 3,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 10,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 12202,
+            "OrderID": 17,
+            "BelongTo": 2,
+            "Name": "寒锋战轮回旋",
+            "Desc": "空中，下劈范围攻击，可以对倒地目标释放！",
+            "Description": "如同寒冰车轮一样急速向下回旋斩击",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5003
+            ],
+            "Keys": [
+                1,
+                4
+            ],
+            "IconID": 6214,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 90,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 12203,
+            "OrderID": 11,
+            "BelongTo": 2,
+            "Name": "极度深寒·寒冰绝望斩",
+            "Desc": "地面，特殊连击一段终结技，产生破防效果",
+            "Description": "美丽又残忍的华丽横劈剑技，冰冷的剑刃将划破敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                4
+            ],
+            "IconID": 6215,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 97,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 8
+        },
+        {
+            "ID": 12204,
+            "OrderID": 12,
+            "BelongTo": 2,
+            "Name": "极度深寒·冰精灵之舞",
+            "Desc": "地面，特殊连击二段终结技，产生击退效果",
+            "Description": "剑技轻快仿佛冰霜的精灵，用双剑快速向前的大范围挥砍为敌人带来死亡",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                4
+            ],
+            "IconID": 6216,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 136,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 12205,
+            "OrderID": 13,
+            "BelongTo": 2,
+            "Name": "极度深寒·暴风雪之陨",
+            "Desc": "地面，特殊连击三段终结技，产生挑起效果",
+            "Description": "一记华丽的空中向下重劈，如聚集冷气后的冰雹一般致命",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6217,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 163,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 12206,
+            "OrderID": 14,
+            "BelongTo": 2,
+            "Name": "极度深寒·冰封冷炎矛",
+            "Desc": "地面，特殊连击四段终结技，产生击飞效果",
+            "Description": "双剑士射出如坚冰长枪一样强力的魔法箭，刺破前方的敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6218,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 20,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 139,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 12207,
+            "OrderID": 15,
+            "BelongTo": 2,
+            "Name": "极度深寒·万魂湮灭破",
+            "Desc": "地面，特殊连击五段终结技，产生击飞效果",
+            "Description": "仿佛从湮灭中到来的死亡使者，双剑华丽旋转之后射出的强力冲击波划过战场，撕裂敌人的灵魂",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6219,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 25,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 198,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                30,
+                45,
+                25
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 12
+        },
+        {
+            "ID": 13101,
+            "OrderID": 1,
+            "BelongTo": 3,
+            "Name": "圣堂守卫·十字军猛击",
+            "Desc": "地面，普通连续攻击，一段击",
+            "Description": "用剑进行一次挥击，盾剑招式的基础动作，姿态稳健",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004
+            ],
+            "Keys": [
+                3
+            ],
+            "IconID": 6301,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 112,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 13102,
+            "OrderID": 2,
+            "BelongTo": 3,
+            "Name": "圣堂守卫·圣盾强击",
+            "Desc": "地面，普通连续攻击，二段击",
+            "Description": "用盾牌狠狠拍击，力道强大，使敌人难以招架",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3
+            ],
+            "IconID": 6302,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 100,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13103,
+            "OrderID": 3,
+            "BelongTo": 3,
+            "Name": "圣堂守卫·血光爆裂",
+            "Desc": "地面，普通连续攻击，三段击",
+            "Description": "凶猛的斜劈，敌人将在这招下遭到无情的痛击",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3
+            ],
+            "IconID": 6303,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 9,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 97,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13104,
+            "OrderID": 4,
+            "BelongTo": 3,
+            "Name": "圣堂守卫·神圣奔袭",
+            "Desc": "地面，普通连续攻击，四段击",
+            "Description": "瞄准敌人的弱点进行强有力的突刺，并且射出魔法箭，攻击迅速果断",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6304,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 12,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 121,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13105,
+            "OrderID": 5,
+            "BelongTo": 3,
+            "Name": "圣堂守卫·天堂之怒",
+            "Desc": "地面，普通连续攻击，五段击",
+            "Description": "放出冲击波来向前横扫，敌人会感受到盾剑士强大的力量与愤怒",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6305,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 134,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 13106,
+            "OrderID": 6,
+            "BelongTo": 3,
+            "Name": "六翼天使·圣灵之舞",
+            "Desc": "空中，普通连续攻击，一段击",
+            "Description": "强力并且稳重的一记横劈，是对空中的敌人毫不留情的一招",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3
+            ],
+            "IconID": 6306,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 2,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 101,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 4
+        },
+        {
+            "ID": 13107,
+            "OrderID": 7,
+            "BelongTo": 3,
+            "Name": "六翼天使·燃烧正义剑",
+            "Desc": "空中，普通连续攻击，二段击",
+            "Description": "在空中进行一次挥砍，剑刃中饱含盾剑士的强大意志",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3
+            ],
+            "IconID": 6307,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 4,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 105,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13108,
+            "OrderID": 8,
+            "BelongTo": 3,
+            "Name": "六翼天使·圣光风暴",
+            "Desc": "空中，普通连续攻击，三段击",
+            "Description": "在空中用盾牌的猛击来痛击敌人，威猛果断的攻击如同一阵钢铁旋风",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6308,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 6,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 103,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13109,
+            "OrderID": 9,
+            "BelongTo": 3,
+            "Name": "六翼天使·光明破邪冲",
+            "Desc": "空中，普通连续攻击，四段击",
+            "Description": "在空中对敌人进行突刺并放出魔法箭，动作毫无破绽，直击要害",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6309,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 8,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 95,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 5
+        },
+        {
+            "ID": 13110,
+            "OrderID": 10,
+            "BelongTo": 3,
+            "Name": "六翼天使·最终清算",
+            "Desc": "空中，普通连续攻击，五段击",
+            "Description": "在空中进行一次强力的盾牌回旋，有击破大军之势一般的强大威力",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5004,
+                5004,
+                5004,
+                5004
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "IconID": 6310,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 160,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 6
+        },
+        {
+            "ID": 13301,
+            "OrderID": 18,
+            "BelongTo": 3,
+            "Name": "圣化飞升斩",
+            "Desc": "地面上挑攻击，跳跃同时将敌人挑向空中！",
+            "Description": "用强有力的攻击将敌人挑至空中，动作坚稳，力道强大",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1
+            ],
+            "IconID": 6311,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 91,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 13302,
+            "OrderID": 19,
+            "BelongTo": 3,
+            "Name": "神圣奇迹翔空剑",
+            "Desc": "空中上挑攻击（*需解锁妖精羽翼魔导器）",
+            "Description": "在空中释放的上挑攻击，被这招挑至空中的敌人等待他们的最终将会是重重坠落在地面",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5004,
+                5001
+            ],
+            "Keys": [
+                3,
+                1,
+                3,
+                1
+            ],
+            "IconID": 6312,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 3,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 84,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 13201,
+            "OrderID": 16,
+            "BelongTo": 3,
+            "Name": "魔法箭·神圣要塞冲击",
+            "Desc": "地面，消耗MP释放远程攻击",
+            "Description": "坚实有力的站定并向前发出尖刺冲击，是一个能攻能守，进退自如的招式",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5003
+            ],
+            "Keys": [
+                4
+            ],
+            "IconID": 6313,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 3,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 10,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Damage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 13202,
+            "OrderID": 17,
+            "BelongTo": 3,
+            "Name": "神域崩落斩",
+            "Desc": "空中，下劈范围攻击，可以对倒地目标释放！",
+            "Description": "从空中落下的下劈斩如同倒下的燃烧巨塔一般狠狠砸向敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5001,
+                5003
+            ],
+            "Keys": [
+                1,
+                4
+            ],
+            "IconID": 6314,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 85,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 0
+        },
+        {
+            "ID": 13203,
+            "OrderID": 11,
+            "BelongTo": 3,
+            "Name": "至高之剑·创世威光",
+            "Desc": "地面，特殊连击一段终结技，产生破防效果",
+            "Description": "用盾牌快速凶狠地攻击，是盾战士的无尽愤怒与无情打击",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                4
+            ],
+            "IconID": 6315,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 5,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 121,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 8
+        },
+        {
+            "ID": 13204,
+            "OrderID": 12,
+            "BelongTo": 3,
+            "Name": "至高之剑·末日审判击",
+            "Desc": "地面，特殊连击二段终结技，产生击倒效果",
+            "Description": "强力的顺劈攻击如同对敌人进行审判，宣告其即将到来的死亡",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                4
+            ],
+            "IconID": 6316,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 10,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 169,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 13205,
+            "OrderID": 13,
+            "BelongTo": 3,
+            "Name": "至高之剑·神圣惩戒斩",
+            "Desc": "地面，特殊连击三段终结技，产生击飞效果",
+            "Description": "奋力的跳跃并向下重斩，如同天雷一般制裁敌人",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6317,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 15,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 174,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 13206,
+            "OrderID": 14,
+            "BelongTo": 3,
+            "Name": "至高之剑·启示录飞星",
+            "Desc": "地面，特殊连击四段终结技，产生挑起效果",
+            "Description": "跳起来进行盾击，如同飞升之星一样宣告敌人的末日",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6318,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 20,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 205,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                100
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 10
+        },
+        {
+            "ID": 13207,
+            "OrderID": 15,
+            "BelongTo": 3,
+            "Name": "至高之剑·炽天使断罪",
+            "Desc": "地面，特殊连击五段终结技，产生击飞效果",
+            "Description": "连续两次横向回旋斩击，剑刃如炽天使的怒火一般荡平世间万恶",
+            "EffectDesc": "对目标造成A%的伤害，同时恢复B%点魔法值",
+            "OIID": [
+                5004,
+                5004,
+                5004,
+                5004,
+                5004,
+                5003
+            ],
+            "Keys": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "IconID": 6319,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 0,
+            "OpenLv": 1,
+            "CD": 25,
+            "Cost": 0,
+            "CostUp": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "Damage": 210,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                35,
+                30,
+                35
+            ],
+            "GoldCost": 0,
+            "GoldCoefficient": 0,
+            "MPReply": 12
+        }
+    ]
+}

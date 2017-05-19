@@ -1,0 +1,140 @@
+{
+    "IsOpen": 1,
+    "StartTime": "20150801000000",
+    "EndTime": "20250801000000",
+    "Desc": "无",
+    "Data": [
+        {
+            "Ranking": 1,
+            "ConditionValue": 180,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 100000
+                }
+            ],
+            "RewardsDescribe": "金币"
+        },
+        {
+            "Ranking": 2,
+            "ConditionValue": 300,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 20
+                }
+            ],
+            "RewardsDescribe": "强化石"
+        },
+        {
+            "Ranking": 3,
+            "ConditionValue": 600,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4601,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "韧性宝石1级"
+        },
+        {
+            "Ranking": 4,
+            "ConditionValue": 900,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4501,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "暴击宝石1级"
+        },
+        {
+            "Ranking": 5,
+            "ConditionValue": 1200,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4201,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "魔法宝石1级"
+        },
+        {
+            "Ranking": 6,
+            "ConditionValue": 1800,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4101,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "生命宝石1级"
+        },
+        {
+            "Ranking": 7,
+            "ConditionValue": 2700,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4401,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "防御宝石1级"
+        },
+        {
+            "Ranking": 8,
+            "ConditionValue": 3600,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4301,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "攻击宝石1级"
+        },
+        {
+            "Ranking": 9,
+            "ConditionValue": 4800,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31805,
+                    "NUM": 3
+                }
+            ],
+            "RewardsDescribe": "扫荡卷轴"
+        },
+        {
+            "Ranking": 10,
+            "ConditionValue": 6000,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31801,
+                    "NUM": 3
+                }
+            ],
+            "RewardsDescribe": "复活币"
+        },
+        {
+            "Ranking": 11,
+            "ConditionValue": 7200,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31804,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "大体力药"
+        }
+    ]
+}

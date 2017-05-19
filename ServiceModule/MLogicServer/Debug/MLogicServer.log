@@ -1,0 +1,112 @@
+﻿生成启动时间为 2017/5/19 15:24:56。
+     1>项目“E:\cyaServer\ServiceModule\MLogicServer\MLogicServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I./include /I./config/include /I../../cyaPub/cyaLib/include /I../../cyaPub/extra/jsoncpp/include /I../../cyaPub/cyaLog/include /I../../cyaPub/cyaCore/include /I../ServiceHeader /I../../cyaSSdk/GWSSDK/include /I../../cyaSSDK/DBSSDK/include /I"../../cyaPub/extra/lua-5.3.3/src" /I../../cyaPub/cyaLua/include /I../../cyaPub/extra/libiconv/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\main.cpp
+         main.cpp
+     1>e:\cyaserver\servicemodule\mlogicserver\source\main.cpp(24): warning C4100: “argv”: 未引用的形参
+     1>e:\cyaserver\servicemodule\mlogicserver\source\main.cpp(24): warning C4100: “argc”: 未引用的形参
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\MLogicServer.exe" /INCREMENTAL /NOLOGO ws2_32.lib ../../Debug/cyaLib.lib ../../Debug/cyaLog.lib ../../Debug/GWSSDK.lib ../../Debug/jsoncpp.lib ../../Debug/DBSSDK.lib "../../Debug/lua-5.3.3.lib" ../../Debug/cyaCore.lib ../../Debug/cyaLua.lib ../../Debug/libiconv.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\MLogicServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\MLogicServer.lib" /MACHINE:X86 Debug\AchievementCfg.obj
+         Debug\ActivityCfg.obj
+         Debug\ActivityStageCfg.obj
+         Debug\CfgCom.obj
+         Debug\ChainSoulFragmentCfg.obj
+         Debug\ChapterCfg.obj
+         Debug\DailySignCfg.obj
+         Debug\EmailCfg.obj
+         Debug\EquipCfg.obj
+         Debug\EquipComposeCfg.obj
+         Debug\FashionCfg.obj
+         Debug\FragmentCfg.obj
+         Debug\GameDropCfg.obj
+         Debug\GameTypeCfg.obj
+         Debug\GemCfg.obj
+         Debug\GiftBagCfg.obj
+         Debug\GoldExchangeCfg.obj
+         Debug\GreedTheLiveCfg.obj
+         Debug\InitRoleGiveCfg.obj
+         Debug\InstCfg.obj
+         Debug\LimitedTimeActivityCfg.obj
+         Debug\LvRankingCfg.obj
+         Debug\MallCfg.obj
+         Debug\MaterialCfg.obj
+         Debug\MonsterAttributeCfg.obj
+         Debug\MonsterCfg.obj
+         Debug\MonsterTypeConfig.obj
+         Debug\NoticeCfg.obj
+         Debug\PlayerCfg.obj
+         Debug\QualityCfg.obj
+         Debug\RandInstSysCfg.obj
+         Debug\RankRewardCfg.obj
+         Debug\RechargeCfg.obj
+         Debug\ReviveCfg.obj
+         Debug\RiseStarCfg.obj
+         Debug\RoleBasicCfg.obj
+         Debug\RouletteCfg.obj
+         Debug\SignInCfg.obj
+         Debug\SkillCfg.obj
+         Debug\StrengthenAttriCfg.obj
+         Debug\StrengthenCfg.obj
+         Debug\SuitCfg.obj
+         Debug\TaskCfg.obj
+         Debug\TitleCfg.obj
+         Debug\UnlockCfg.obj
+         Debug\VIPCfg.obj
+         Debug\VitExchangeCfg.obj
+         Debug\AchievementMan.obj
+         Debug\ActitvityInstMan.obj
+         Debug\ActitvityMan.obj
+         Debug\CashDBMan.obj
+         Debug\CompetitiveModeMan.obj
+         Debug\ConfigFileMan.obj
+         Debug\ConsumeProduceMan.obj
+         Debug\DailyTaskMan.obj
+         Debug\DBSClient.obj
+         Debug\EmailCleanMan.obj
+         Debug\FriendMan.obj
+         Debug\FunModuleMan.obj
+         Debug\GameCfgFileMan.obj
+         Debug\GlobalTimerTaskMan.obj
+         Debug\GMLogicProcMan.obj
+         Debug\GoldExchangeMan.obj
+         Debug\GuardIconMan.obj
+         Debug\GuildMan.obj
+         Debug\GWSClient.obj
+         Debug\GWSClientMan.obj
+         Debug\InstFinHistoryMan.obj
+         Debug\InstOccupyNotify.obj
+         Debug\InstRankInfoMan.obj
+         Debug\LadderRankMan.obj
+         Debug\LogicLog.obj
+         Debug\LuaScriptMan.obj
+         Debug\main.obj
+         Debug\MallLimitBuyMan.obj
+         Debug\MessageTipsMan.obj
+         Debug\MLogicProcessMan.obj
+         Debug\OneVsOneMan.obj
+         Debug\OnlineSingnInMan.obj
+         Debug\PermanenDataMan.obj
+         Debug\PersonalRandInstMan.obj
+         Debug\PersonalTimerTaskMan.obj
+         Debug\PlayerActionMan.obj
+         Debug\PlayerInfoMan.obj
+         Debug\PropSellMan.obj
+         Debug\RankRewardMan.obj
+         Debug\RechargeMan.obj
+         Debug\RecoveryVitMan.obj
+         Debug\RefreshDBMan.obj
+         Debug\RoleInfos.obj
+         Debug\RolesInfoMan.obj
+         Debug\ShoppingMallMan.obj
+         Debug\SystemNoticeMan.obj
+         Debug\TaskFinHistoryMan.obj
+         Debug\UnlockContentMan.obj
+         Debug\VIPMan.obj
+         Debug\VitExchangeMan.obj
+         Debug\WorldBossMan.obj
+         MLogicServer.vcxproj -> E:\cyaServer\Debug\MLogicServer.exe
+     1>已完成生成项目“E:\cyaServer\ServiceModule\MLogicServer\MLogicServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.98

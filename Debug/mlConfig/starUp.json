@@ -1,0 +1,40 @@
+{
+   "StarUp" : [
+      {
+         "BrokenRate" : 1,
+         "LimitLevel" : 5,
+         "NextStartLevel" : 2,
+         "RequirementBase" : [
+            {
+               "Num" : 5,
+               "TemID" : 1
+            },
+            {
+               "Num" : 3,
+               "TemID" : 2
+            }
+         ],
+         "StarLevel" : 1,
+         "SuccessRate" : 1,
+         "UsedGold" : 100
+      },
+      {
+         "BrokenRate" : 1,
+         "LimitLevel" : 5,
+         "NextStartLevel" : 2,
+         "RequirementBase" : [
+            {
+               "Num" : 5,
+               "TemID" : 1
+            },
+            {
+               "Num" : 3,
+               "TemID" : 2
+            }
+         ],
+         "StarLevel" : 2,
+         "SuccessRate" : 1,
+         "UsedGold" : 200
+      }
+   ]
+}

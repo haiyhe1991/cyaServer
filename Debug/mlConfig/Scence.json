@@ -1,0 +1,78 @@
+{
+    "Scences": [
+        {
+            "ID": 1101,
+            "Scnece": "SGS_level_00_New",
+            "Desc": "赛维提亚王城背后的赫特兰山道，一直以来就有大量的哥布林存在"
+        },
+        {
+            "ID": 1201,
+            "Scnece": "SGS_level_00_New"
+        },
+        {
+            "ID": 1301,
+            "Scnece": "SGS_level_00_New"
+        },
+        {
+            "ID": 1102,
+            "Scnece": "SGS_level_01_Afternoon",
+            "Desc": "寂静落魄的庭院突然聚集了一帮不明身份的人。"
+        },
+        {
+            "ID": 1202,
+            "Scnece": "SGS_level_01_Afternoon"
+        },
+        {
+            "ID": 1203,
+            "Scnece": "SGS_level_01_Afternoon"
+        },
+        {
+            "ID": 1103,
+            "Scnece": "SGS_level_02_New",
+            "Desc": "荒废的山道上惦挂着安赫尔瀑布，传说这里隐藏了精灵族的宝物。"
+        },
+        {
+            "ID": 1203,
+            "Scnece": "SGS_level_02_New"
+        },
+        {
+            "ID": 1303,
+            "Scnece": "SGS_level_02_New"
+        },
+        {
+            "ID": 1104,
+            "Scnece": "SGS_level_03_New",
+            "Desc": "自从桥被山洪冲断之后，这个不知名的村庄与世隔绝了许久，直到最近来了一帮危险的人物。"
+        },
+        {
+            "ID": 1204,
+            "Scnece": "SGS_level_03_New"
+        },
+        {
+            "ID": 1304,
+            "Scnece": "SGS_level_03_New"
+        },
+        {
+            "ID": 1105,
+            "Scnece": "SGS_level_04_New",
+            "Desc": "精灵族关押罪人的荆棘之塔早已荒废数百年，作为第一个再次踏进的访客，依然感到重重危机。"
+        },
+        {
+            "ID": 1205,
+            "Scnece": "SGS_level_04_New"
+        },
+        {
+            "ID": 1305,
+            "Scnece": "SGS_level_04_New"
+        },
+        {
+            "ID": 1106,
+            "Scnece": "SGS_Level_Sanctuary",
+            "Desc": "只有精灵族才能进入的庇护所。"
+        },
+        {
+            "ID": 1206,
+            "Scnece": "SGS_Level_Sanctuary"
+        }
+    ]
+}

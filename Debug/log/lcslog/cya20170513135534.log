@@ -300,3 +300,69 @@
 2017-05-15 20:56:26|调试:OnProcessDataPacket cmdCode[30006], len[8]
 2017-05-15 20:56:56|调试:OnProcessDataPacket cmdCode[30006], len[8]
 2017-05-15 21:02:47|信息:读取配置文件[./cyaLCServer.properties]成功!
+2017-05-17 22:07:01|信息:读取配置文件[./cyaLCServer.properties]成功!
+2017-05-18 15:26:51|信息:读取配置文件[./cyaLCServer.properties]成功!
+2017-05-19 15:49:00|信息:读取配置文件[./cyaLCServer.properties]成功!
+2017-05-19 15:49:00|信息:连接数据服务器[192.168.50.2:9570]成功!
+2017-05-19 15:49:00|信息:连接数据服务器[192.168.50.2:9570]成功!
+2017-05-19 15:49:00|信息:连接数据服务器[192.168.50.2:9570]成功!
+2017-05-19 15:49:00|信息:共载入1条分区信息!
+2017-05-19 15:49:00|信息:启动对linker上报连接数的检测,时间间隔30秒
+2017-05-19 15:49:00|信息:========验证服务器[1.0.0][10030]启动成功!========
+2017-05-19 15:49:02|调试:OnProcessDataPacket cmdCode[30001], len[48]
+2017-05-19 15:49:02|信息:LinkServer[1, 0.0.0.0:9528]登录!
+2017-05-19 15:49:02|调试:OnProcessDataPacket cmdCode[30023], len[0]
+2017-05-19 15:49:02|调试:linker[1]获取上报连接数时间间隔[30]秒!
+2017-05-19 15:49:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:49:02|调试:OnProcessDataPacket cmdCode[30005], len[0]
+2017-05-19 15:49:02|调试:查询分区1状态[0]!
+2017-05-19 15:49:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:50:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:50:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:51:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:51:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:52:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:52:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:53:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:53:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:54:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:54:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:55:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:55:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:56:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:56:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:57:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:57:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:58:02|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:58:32|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:59:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 15:59:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:00:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:00:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:01:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:01:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:02:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:02:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:03:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:03:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:04:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:04:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:05:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:05:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:06:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:06:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:07:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:07:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:08:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:08:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:09:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:09:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:10:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:10:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:11:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:11:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:12:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:12:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:13:03|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:13:33|调试:OnProcessDataPacket cmdCode[30006], len[8]
+2017-05-19 16:14:03|调试:OnProcessDataPacket cmdCode[30006], len[8]

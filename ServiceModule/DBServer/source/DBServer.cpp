@@ -25,6 +25,8 @@ int main(int argc, char* argv[])
 	if (0 != InitializeDBServer())
 		return 0;
 
+	LogInfo(("============数据服务器服务器启动成功===========!"));
+
 	RunMainLoop(NULL, 10);
 
 	FinishDBServer();

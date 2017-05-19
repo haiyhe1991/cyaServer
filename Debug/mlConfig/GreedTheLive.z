@@ -1,0 +1,1780 @@
+{
+    "IsOpen": 1,
+    "GreedTheLive": [
+        {
+            "ID": 54101,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 1,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54102
+        },
+        {
+            "ID": 54102,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 2,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54103
+        },
+        {
+            "ID": 54103,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 3,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54104
+        },
+        {
+            "ID": 54104,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 4,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54105
+        },
+        {
+            "ID": 54105,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 5,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54106
+        },
+        {
+            "ID": 54106,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 6,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54107
+        },
+        {
+            "ID": 54107,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 7,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54108
+        },
+        {
+            "ID": 54108,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 8,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54109
+        },
+        {
+            "ID": 54109,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 9,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54110
+        },
+        {
+            "ID": 54110,
+            "Name": "圣骸之瞳",
+            "Type": 1,
+            "LV": 10,
+            "IconID": 54101,
+            "UpCost": [
+                {
+                    "ID": 54100,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之瞳",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        },
+        {
+            "ID": 54201,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 1,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54202
+        },
+        {
+            "ID": 54202,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 2,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54203
+        },
+        {
+            "ID": 54203,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 3,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54204
+        },
+        {
+            "ID": 54204,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 4,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54205
+        },
+        {
+            "ID": 54205,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 5,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54206
+        },
+        {
+            "ID": 54206,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 6,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54207
+        },
+        {
+            "ID": 54207,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 7,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54208
+        },
+        {
+            "ID": 54208,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 8,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54209
+        },
+        {
+            "ID": 54209,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 9,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54210
+        },
+        {
+            "ID": 54210,
+            "Name": "圣骸之手",
+            "Type": 2,
+            "LV": 10,
+            "IconID": 54201,
+            "UpCost": [
+                {
+                    "ID": 54200,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之手",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        },
+        {
+            "ID": 54301,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 1,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54302
+        },
+        {
+            "ID": 54302,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 2,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54303
+        },
+        {
+            "ID": 54303,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 3,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54304
+        },
+        {
+            "ID": 54304,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 4,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54305
+        },
+        {
+            "ID": 54305,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 5,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54306
+        },
+        {
+            "ID": 54306,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 6,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54307
+        },
+        {
+            "ID": 54307,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 7,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54308
+        },
+        {
+            "ID": 54308,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 8,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54309
+        },
+        {
+            "ID": 54309,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 9,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54310
+        },
+        {
+            "ID": 54310,
+            "Name": "圣骸之足",
+            "Type": 3,
+            "LV": 10,
+            "IconID": 54301,
+            "UpCost": [
+                {
+                    "ID": 54300,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之足",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        },
+        {
+            "ID": 54401,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 1,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54402
+        },
+        {
+            "ID": 54402,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 2,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54403
+        },
+        {
+            "ID": 54403,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 3,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54404
+        },
+        {
+            "ID": 54404,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 4,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54405
+        },
+        {
+            "ID": 54405,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 5,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54406
+        },
+        {
+            "ID": 54406,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 6,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54407
+        },
+        {
+            "ID": 54407,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 7,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54408
+        },
+        {
+            "ID": 54408,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 8,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54409
+        },
+        {
+            "ID": 54409,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 9,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54410
+        },
+        {
+            "ID": 54410,
+            "Name": "圣骸之心",
+            "Type": 4,
+            "LV": 10,
+            "IconID": 54401,
+            "UpCost": [
+                {
+                    "ID": 54400,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之心",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        },
+        {
+            "ID": 54501,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 1,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54502
+        },
+        {
+            "ID": 54502,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 2,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54503
+        },
+        {
+            "ID": 54503,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 3,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54504
+        },
+        {
+            "ID": 54504,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 4,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54505
+        },
+        {
+            "ID": 54505,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 5,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54506
+        },
+        {
+            "ID": 54506,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 6,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54507
+        },
+        {
+            "ID": 54507,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 7,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54508
+        },
+        {
+            "ID": 54508,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 8,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54509
+        },
+        {
+            "ID": 54509,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 9,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54510
+        },
+        {
+            "ID": 54510,
+            "Name": "圣骸之肋",
+            "Type": 5,
+            "LV": 10,
+            "IconID": 54501,
+            "UpCost": [
+                {
+                    "ID": 54500,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之肋",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        },
+        {
+            "ID": 54601,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 1,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 3
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54602
+        },
+        {
+            "ID": 54602,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 2,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 4
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54603
+        },
+        {
+            "ID": 54603,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 3,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 5
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54604
+        },
+        {
+            "ID": 54604,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 4,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 6
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54605
+        },
+        {
+            "ID": 54605,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 5,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 7
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54606
+        },
+        {
+            "ID": 54606,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 6,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 8
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54607
+        },
+        {
+            "ID": 54607,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 7,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 9
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54608
+        },
+        {
+            "ID": 54608,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 8,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 10
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54609
+        },
+        {
+            "ID": 54609,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 9,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 11
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 54610
+        },
+        {
+            "ID": 54610,
+            "Name": "圣骸之颅",
+            "Type": 6,
+            "LV": 10,
+            "IconID": 54601,
+            "UpCost": [
+                {
+                    "ID": 54600,
+                    "Type": 12,
+                    "Num": 35
+                }
+            ],
+            "Attributes": [
+                {
+                    "Type": 5,
+                    "AttrVal": 12
+                }
+            ],
+            "Desc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸之颅",
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "NextID": 0
+        }
+    ],
+    "CoreName": "圣物核心",
+    "CoreIconID": 54000,
+    "CoreDesc": "圣女隐修院院长Magaret(玛格丽特)修女的遗骸",
+    "Core": [
+        {
+            "LV": 1,
+            "Explain": "提升全部圣物部件等级达到3级，即可提升圣物核心等级到2级",
+            "ConditionLV": 1,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 20
+                }
+            ]
+        },
+        {
+            "LV": 2,
+            "Explain": "提升全部圣物部件等级达到6级，即可提升圣物核心等级到3级",
+            "ConditionLV": 3,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 21
+                }
+            ]
+        },
+        {
+            "LV": 3,
+            "Explain": "提升全部圣物部件等级达到10级，即可提升圣物核心等级到4级",
+            "ConditionLV": 6,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 22
+                }
+            ]
+        },
+        {
+            "LV": 4,
+            "Explain": "提升全部圣物部件等级达到15级，即可提升圣物核心等级到5级",
+            "ConditionLV": 10,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 23
+                }
+            ]
+        },
+        {
+            "LV": 5,
+            "Explain": "提升全部圣物部件等级达到20级，即可提升圣物核心等级到6级",
+            "ConditionLV": 15,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 24
+                }
+            ]
+        },
+        {
+            "LV": 6,
+            "Explain": "提升全部圣物部件等级达到26级，即可提升圣物核心等级到7级",
+            "ConditionLV": 20,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 25
+                }
+            ]
+        },
+        {
+            "LV": 7,
+            "Explain": "提升全部圣物部件等级达到25级，即可提升圣物核心等级到8级",
+            "ConditionLV": 26,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 26
+                }
+            ]
+        },
+        {
+            "LV": 8,
+            "Explain": "提升全部圣物部件等级达到30级，即可提升圣物核心等级到9级",
+            "ConditionLV": 25,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 27
+                }
+            ]
+        },
+        {
+            "LV": 9,
+            "Explain": "提升全部圣物部件等级达到40级，即可提升圣物核心等级到10级",
+            "ConditionLV": 30,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 28
+                }
+            ]
+        },
+        {
+            "LV": 10,
+            "Explain": "已到达圣物核心等级上限，获得全部圣物属性加成！",
+            "ConditionLV": 40,
+            "Attributes": [
+                {
+                    "Type": 3,
+                    "AttrVal": 18
+                },
+                {
+                    "Type": 5,
+                    "AttrVal": 29
+                }
+            ]
+        }
+    ]
+}

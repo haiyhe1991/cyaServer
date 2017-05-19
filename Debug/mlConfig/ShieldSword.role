@@ -1,0 +1,1006 @@
+{
+    "XMPReply": 210,
+    "Profession": 3,
+    "role": [
+        {
+            "Level": 1,
+            "HP": 300,
+            "MP": 30,
+            "Attack": 25,
+            "Def": 15,
+            "CRIT": 9,
+            "STRONG": 36,
+            "Exp": 0
+        },
+        {
+            "Level": 2,
+            "HP": 397,
+            "MP": 41,
+            "Attack": 33,
+            "Def": 20,
+            "CRIT": 11,
+            "STRONG": 44,
+            "Exp": 50
+        },
+        {
+            "Level": 3,
+            "HP": 494,
+            "MP": 52,
+            "Attack": 41,
+            "Def": 25,
+            "CRIT": 13,
+            "STRONG": 52,
+            "Exp": 500
+        },
+        {
+            "Level": 4,
+            "HP": 591,
+            "MP": 63,
+            "Attack": 49,
+            "Def": 30,
+            "CRIT": 15,
+            "STRONG": 60,
+            "Exp": 1710
+        },
+        {
+            "Level": 5,
+            "HP": 688,
+            "MP": 74,
+            "Attack": 57,
+            "Def": 35,
+            "CRIT": 17,
+            "STRONG": 68,
+            "Exp": 4090
+        },
+        {
+            "Level": 6,
+            "HP": 785,
+            "MP": 85,
+            "Attack": 65,
+            "Def": 40,
+            "CRIT": 19,
+            "STRONG": 76,
+            "Exp": 8100
+        },
+        {
+            "Level": 7,
+            "HP": 882,
+            "MP": 96,
+            "Attack": 73,
+            "Def": 45,
+            "CRIT": 21,
+            "STRONG": 84,
+            "Exp": 14220
+        },
+        {
+            "Level": 8,
+            "HP": 979,
+            "MP": 107,
+            "Attack": 81,
+            "Def": 50,
+            "CRIT": 23,
+            "STRONG": 92,
+            "Exp": 22960
+        },
+        {
+            "Level": 9,
+            "HP": 1076,
+            "MP": 118,
+            "Attack": 89,
+            "Def": 55,
+            "CRIT": 25,
+            "STRONG": 100,
+            "Exp": 34860
+        },
+        {
+            "Level": 10,
+            "HP": 1173,
+            "MP": 129,
+            "Attack": 97,
+            "Def": 60,
+            "CRIT": 27,
+            "STRONG": 108,
+            "Exp": 50470
+        },
+        {
+            "Level": 11,
+            "HP": 1270,
+            "MP": 140,
+            "Attack": 105,
+            "Def": 65,
+            "CRIT": 29,
+            "STRONG": 116,
+            "Exp": 70380
+        },
+        {
+            "Level": 12,
+            "HP": 1367,
+            "MP": 151,
+            "Attack": 113,
+            "Def": 70,
+            "CRIT": 31,
+            "STRONG": 124,
+            "Exp": 95180
+        },
+        {
+            "Level": 13,
+            "HP": 1464,
+            "MP": 162,
+            "Attack": 121,
+            "Def": 75,
+            "CRIT": 33,
+            "STRONG": 132,
+            "Exp": 125480
+        },
+        {
+            "Level": 14,
+            "HP": 1561,
+            "MP": 173,
+            "Attack": 129,
+            "Def": 80,
+            "CRIT": 35,
+            "STRONG": 140,
+            "Exp": 161920
+        },
+        {
+            "Level": 15,
+            "HP": 1658,
+            "MP": 184,
+            "Attack": 137,
+            "Def": 85,
+            "CRIT": 37,
+            "STRONG": 148,
+            "Exp": 205130
+        },
+        {
+            "Level": 16,
+            "HP": 1755,
+            "MP": 195,
+            "Attack": 145,
+            "Def": 90,
+            "CRIT": 39,
+            "STRONG": 156,
+            "Exp": 255780
+        },
+        {
+            "Level": 17,
+            "HP": 1852,
+            "MP": 206,
+            "Attack": 153,
+            "Def": 95,
+            "CRIT": 41,
+            "STRONG": 164,
+            "Exp": 314550
+        },
+        {
+            "Level": 18,
+            "HP": 1949,
+            "MP": 217,
+            "Attack": 161,
+            "Def": 100,
+            "CRIT": 43,
+            "STRONG": 172,
+            "Exp": 382120
+        },
+        {
+            "Level": 19,
+            "HP": 2046,
+            "MP": 228,
+            "Attack": 169,
+            "Def": 105,
+            "CRIT": 45,
+            "STRONG": 180,
+            "Exp": 459190
+        },
+        {
+            "Level": 20,
+            "HP": 2143,
+            "MP": 239,
+            "Attack": 177,
+            "Def": 110,
+            "CRIT": 47,
+            "STRONG": 188,
+            "Exp": 546470
+        },
+        {
+            "Level": 21,
+            "HP": 2240,
+            "MP": 250,
+            "Attack": 185,
+            "Def": 115,
+            "CRIT": 49,
+            "STRONG": 196,
+            "Exp": 644680
+        },
+        {
+            "Level": 22,
+            "HP": 2337,
+            "MP": 261,
+            "Attack": 193,
+            "Def": 120,
+            "CRIT": 51,
+            "STRONG": 204,
+            "Exp": 754560
+        },
+        {
+            "Level": 23,
+            "HP": 2434,
+            "MP": 272,
+            "Attack": 201,
+            "Def": 125,
+            "CRIT": 53,
+            "STRONG": 212,
+            "Exp": 876860
+        },
+        {
+            "Level": 24,
+            "HP": 2531,
+            "MP": 283,
+            "Attack": 209,
+            "Def": 130,
+            "CRIT": 55,
+            "STRONG": 220,
+            "Exp": 1012320
+        },
+        {
+            "Level": 25,
+            "HP": 2628,
+            "MP": 294,
+            "Attack": 217,
+            "Def": 135,
+            "CRIT": 57,
+            "STRONG": 228,
+            "Exp": 1161720
+        },
+        {
+            "Level": 26,
+            "HP": 2725,
+            "MP": 305,
+            "Attack": 225,
+            "Def": 140,
+            "CRIT": 59,
+            "STRONG": 236,
+            "Exp": 1325830
+        },
+        {
+            "Level": 27,
+            "HP": 2822,
+            "MP": 316,
+            "Attack": 233,
+            "Def": 145,
+            "CRIT": 61,
+            "STRONG": 244,
+            "Exp": 1505440
+        },
+        {
+            "Level": 28,
+            "HP": 2919,
+            "MP": 327,
+            "Attack": 241,
+            "Def": 150,
+            "CRIT": 63,
+            "STRONG": 252,
+            "Exp": 1701340
+        },
+        {
+            "Level": 29,
+            "HP": 3016,
+            "MP": 338,
+            "Attack": 249,
+            "Def": 155,
+            "CRIT": 65,
+            "STRONG": 260,
+            "Exp": 1914340
+        },
+        {
+            "Level": 30,
+            "HP": 3113,
+            "MP": 349,
+            "Attack": 257,
+            "Def": 160,
+            "CRIT": 67,
+            "STRONG": 268,
+            "Exp": 2145240
+        },
+        {
+            "Level": 31,
+            "HP": 3210,
+            "MP": 360,
+            "Attack": 265,
+            "Def": 165,
+            "CRIT": 69,
+            "STRONG": 276,
+            "Exp": 2394870
+        },
+        {
+            "Level": 32,
+            "HP": 3307,
+            "MP": 371,
+            "Attack": 273,
+            "Def": 170,
+            "CRIT": 71,
+            "STRONG": 284,
+            "Exp": 2664060
+        },
+        {
+            "Level": 33,
+            "HP": 3404,
+            "MP": 382,
+            "Attack": 281,
+            "Def": 175,
+            "CRIT": 73,
+            "STRONG": 292,
+            "Exp": 2953640
+        },
+        {
+            "Level": 34,
+            "HP": 3501,
+            "MP": 393,
+            "Attack": 289,
+            "Def": 180,
+            "CRIT": 75,
+            "STRONG": 300,
+            "Exp": 3264470
+        },
+        {
+            "Level": 35,
+            "HP": 3598,
+            "MP": 404,
+            "Attack": 297,
+            "Def": 185,
+            "CRIT": 77,
+            "STRONG": 308,
+            "Exp": 3597390
+        },
+        {
+            "Level": 36,
+            "HP": 3695,
+            "MP": 415,
+            "Attack": 305,
+            "Def": 190,
+            "CRIT": 79,
+            "STRONG": 316,
+            "Exp": 3953270
+        },
+        {
+            "Level": 37,
+            "HP": 3792,
+            "MP": 426,
+            "Attack": 313,
+            "Def": 195,
+            "CRIT": 81,
+            "STRONG": 324,
+            "Exp": 4332970
+        },
+        {
+            "Level": 38,
+            "HP": 3889,
+            "MP": 437,
+            "Attack": 321,
+            "Def": 200,
+            "CRIT": 83,
+            "STRONG": 332,
+            "Exp": 4737370
+        },
+        {
+            "Level": 39,
+            "HP": 3986,
+            "MP": 448,
+            "Attack": 329,
+            "Def": 205,
+            "CRIT": 85,
+            "STRONG": 340,
+            "Exp": 5167360
+        },
+        {
+            "Level": 40,
+            "HP": 4083,
+            "MP": 459,
+            "Attack": 337,
+            "Def": 210,
+            "CRIT": 87,
+            "STRONG": 348,
+            "Exp": 5623820
+        },
+        {
+            "Level": 41,
+            "HP": 4180,
+            "MP": 470,
+            "Attack": 345,
+            "Def": 215,
+            "CRIT": 89,
+            "STRONG": 356,
+            "Exp": 6107650
+        },
+        {
+            "Level": 42,
+            "HP": 4277,
+            "MP": 481,
+            "Attack": 353,
+            "Def": 220,
+            "CRIT": 91,
+            "STRONG": 364,
+            "Exp": 6619760
+        },
+        {
+            "Level": 43,
+            "HP": 4374,
+            "MP": 492,
+            "Attack": 361,
+            "Def": 225,
+            "CRIT": 93,
+            "STRONG": 372,
+            "Exp": 7161060
+        },
+        {
+            "Level": 44,
+            "HP": 4471,
+            "MP": 503,
+            "Attack": 369,
+            "Def": 230,
+            "CRIT": 95,
+            "STRONG": 380,
+            "Exp": 7732460
+        },
+        {
+            "Level": 45,
+            "HP": 4568,
+            "MP": 514,
+            "Attack": 377,
+            "Def": 235,
+            "CRIT": 97,
+            "STRONG": 388,
+            "Exp": 8334890
+        },
+        {
+            "Level": 46,
+            "HP": 4665,
+            "MP": 525,
+            "Attack": 385,
+            "Def": 240,
+            "CRIT": 99,
+            "STRONG": 396,
+            "Exp": 8969280
+        },
+        {
+            "Level": 47,
+            "HP": 4762,
+            "MP": 536,
+            "Attack": 393,
+            "Def": 245,
+            "CRIT": 101,
+            "STRONG": 404,
+            "Exp": 9636570
+        },
+        {
+            "Level": 48,
+            "HP": 4859,
+            "MP": 547,
+            "Attack": 401,
+            "Def": 250,
+            "CRIT": 103,
+            "STRONG": 412,
+            "Exp": 10337700
+        },
+        {
+            "Level": 49,
+            "HP": 4956,
+            "MP": 558,
+            "Attack": 409,
+            "Def": 255,
+            "CRIT": 105,
+            "STRONG": 420,
+            "Exp": 11073620
+        },
+        {
+            "Level": 50,
+            "HP": 5053,
+            "MP": 569,
+            "Attack": 417,
+            "Def": 260,
+            "CRIT": 107,
+            "STRONG": 428,
+            "Exp": 11845280
+        },
+        {
+            "Level": 51,
+            "HP": 5150,
+            "MP": 580,
+            "Attack": 425,
+            "Def": 265,
+            "CRIT": 109,
+            "STRONG": 436,
+            "Exp": 12653640
+        },
+        {
+            "Level": 52,
+            "HP": 5247,
+            "MP": 591,
+            "Attack": 433,
+            "Def": 270,
+            "CRIT": 111,
+            "STRONG": 444,
+            "Exp": 13499670
+        },
+        {
+            "Level": 53,
+            "HP": 5344,
+            "MP": 602,
+            "Attack": 441,
+            "Def": 275,
+            "CRIT": 113,
+            "STRONG": 452,
+            "Exp": 14384350
+        },
+        {
+            "Level": 54,
+            "HP": 5441,
+            "MP": 613,
+            "Attack": 449,
+            "Def": 280,
+            "CRIT": 115,
+            "STRONG": 460,
+            "Exp": 15308650
+        },
+        {
+            "Level": 55,
+            "HP": 5538,
+            "MP": 624,
+            "Attack": 457,
+            "Def": 285,
+            "CRIT": 117,
+            "STRONG": 468,
+            "Exp": 16273560
+        },
+        {
+            "Level": 56,
+            "HP": 5635,
+            "MP": 635,
+            "Attack": 465,
+            "Def": 290,
+            "CRIT": 119,
+            "STRONG": 476,
+            "Exp": 17280060
+        },
+        {
+            "Level": 57,
+            "HP": 5732,
+            "MP": 646,
+            "Attack": 473,
+            "Def": 295,
+            "CRIT": 121,
+            "STRONG": 484,
+            "Exp": 18329150
+        },
+        {
+            "Level": 58,
+            "HP": 5829,
+            "MP": 657,
+            "Attack": 481,
+            "Def": 300,
+            "CRIT": 123,
+            "STRONG": 492,
+            "Exp": 19421830
+        },
+        {
+            "Level": 59,
+            "HP": 5926,
+            "MP": 668,
+            "Attack": 489,
+            "Def": 305,
+            "CRIT": 125,
+            "STRONG": 500,
+            "Exp": 20559110
+        },
+        {
+            "Level": 60,
+            "HP": 6023,
+            "MP": 679,
+            "Attack": 497,
+            "Def": 310,
+            "CRIT": 127,
+            "STRONG": 508,
+            "Exp": 21742000
+        },
+        {
+            "Level": 61,
+            "HP": 6120,
+            "MP": 690,
+            "Attack": 505,
+            "Def": 315,
+            "CRIT": 129,
+            "STRONG": 516,
+            "Exp": 22971510
+        },
+        {
+            "Level": 62,
+            "HP": 6217,
+            "MP": 701,
+            "Attack": 513,
+            "Def": 320,
+            "CRIT": 131,
+            "STRONG": 524,
+            "Exp": 24248660
+        },
+        {
+            "Level": 63,
+            "HP": 6314,
+            "MP": 712,
+            "Attack": 521,
+            "Def": 325,
+            "CRIT": 133,
+            "STRONG": 532,
+            "Exp": 25574480
+        },
+        {
+            "Level": 64,
+            "HP": 6411,
+            "MP": 723,
+            "Attack": 529,
+            "Def": 330,
+            "CRIT": 135,
+            "STRONG": 540,
+            "Exp": 26950010
+        },
+        {
+            "Level": 65,
+            "HP": 6508,
+            "MP": 734,
+            "Attack": 537,
+            "Def": 335,
+            "CRIT": 137,
+            "STRONG": 548,
+            "Exp": 28376270
+        },
+        {
+            "Level": 66,
+            "HP": 6605,
+            "MP": 745,
+            "Attack": 545,
+            "Def": 340,
+            "CRIT": 139,
+            "STRONG": 556,
+            "Exp": 29854310
+        },
+        {
+            "Level": 67,
+            "HP": 6702,
+            "MP": 756,
+            "Attack": 553,
+            "Def": 345,
+            "CRIT": 141,
+            "STRONG": 564,
+            "Exp": 31385180
+        },
+        {
+            "Level": 68,
+            "HP": 6799,
+            "MP": 767,
+            "Attack": 561,
+            "Def": 350,
+            "CRIT": 143,
+            "STRONG": 572,
+            "Exp": 32969930
+        },
+        {
+            "Level": 69,
+            "HP": 6896,
+            "MP": 778,
+            "Attack": 569,
+            "Def": 355,
+            "CRIT": 145,
+            "STRONG": 580,
+            "Exp": 34609610
+        },
+        {
+            "Level": 70,
+            "HP": 6993,
+            "MP": 789,
+            "Attack": 577,
+            "Def": 360,
+            "CRIT": 147,
+            "STRONG": 588,
+            "Exp": 36305280
+        },
+        {
+            "Level": 71,
+            "HP": 7090,
+            "MP": 800,
+            "Attack": 585,
+            "Def": 365,
+            "CRIT": 149,
+            "STRONG": 596,
+            "Exp": 38058010
+        },
+        {
+            "Level": 72,
+            "HP": 7187,
+            "MP": 811,
+            "Attack": 593,
+            "Def": 370,
+            "CRIT": 151,
+            "STRONG": 604,
+            "Exp": 39868860
+        },
+        {
+            "Level": 73,
+            "HP": 7284,
+            "MP": 822,
+            "Attack": 601,
+            "Def": 375,
+            "CRIT": 153,
+            "STRONG": 612,
+            "Exp": 41738910
+        },
+        {
+            "Level": 74,
+            "HP": 7381,
+            "MP": 833,
+            "Attack": 609,
+            "Def": 380,
+            "CRIT": 155,
+            "STRONG": 620,
+            "Exp": 43669240
+        },
+        {
+            "Level": 75,
+            "HP": 7478,
+            "MP": 844,
+            "Attack": 617,
+            "Def": 385,
+            "CRIT": 157,
+            "STRONG": 628,
+            "Exp": 45660940
+        },
+        {
+            "Level": 76,
+            "HP": 7575,
+            "MP": 855,
+            "Attack": 625,
+            "Def": 390,
+            "CRIT": 159,
+            "STRONG": 636,
+            "Exp": 47715090
+        },
+        {
+            "Level": 77,
+            "HP": 7672,
+            "MP": 866,
+            "Attack": 633,
+            "Def": 395,
+            "CRIT": 161,
+            "STRONG": 644,
+            "Exp": 49832780
+        },
+        {
+            "Level": 78,
+            "HP": 7769,
+            "MP": 877,
+            "Attack": 641,
+            "Def": 400,
+            "CRIT": 163,
+            "STRONG": 652,
+            "Exp": 52015110
+        },
+        {
+            "Level": 79,
+            "HP": 7866,
+            "MP": 888,
+            "Attack": 649,
+            "Def": 405,
+            "CRIT": 165,
+            "STRONG": 660,
+            "Exp": 54263170
+        },
+        {
+            "Level": 80,
+            "HP": 7963,
+            "MP": 899,
+            "Attack": 657,
+            "Def": 410,
+            "CRIT": 167,
+            "STRONG": 668,
+            "Exp": 56578080
+        },
+        {
+            "Level": 81,
+            "HP": 8060,
+            "MP": 910,
+            "Attack": 665,
+            "Def": 415,
+            "CRIT": 169,
+            "STRONG": 676,
+            "Exp": 58960940
+        },
+        {
+            "Level": 82,
+            "HP": 8157,
+            "MP": 921,
+            "Attack": 673,
+            "Def": 420,
+            "CRIT": 171,
+            "STRONG": 684,
+            "Exp": 61412870
+        },
+        {
+            "Level": 83,
+            "HP": 8254,
+            "MP": 932,
+            "Attack": 681,
+            "Def": 425,
+            "CRIT": 173,
+            "STRONG": 692,
+            "Exp": 63934980
+        },
+        {
+            "Level": 84,
+            "HP": 8351,
+            "MP": 943,
+            "Attack": 689,
+            "Def": 430,
+            "CRIT": 175,
+            "STRONG": 700,
+            "Exp": 66528390
+        },
+        {
+            "Level": 85,
+            "HP": 8448,
+            "MP": 954,
+            "Attack": 697,
+            "Def": 435,
+            "CRIT": 177,
+            "STRONG": 708,
+            "Exp": 69194230
+        },
+        {
+            "Level": 86,
+            "HP": 8545,
+            "MP": 965,
+            "Attack": 705,
+            "Def": 440,
+            "CRIT": 179,
+            "STRONG": 716,
+            "Exp": 71933630
+        },
+        {
+            "Level": 87,
+            "HP": 8642,
+            "MP": 976,
+            "Attack": 713,
+            "Def": 445,
+            "CRIT": 181,
+            "STRONG": 724,
+            "Exp": 74747730
+        },
+        {
+            "Level": 88,
+            "HP": 8739,
+            "MP": 987,
+            "Attack": 721,
+            "Def": 450,
+            "CRIT": 183,
+            "STRONG": 732,
+            "Exp": 77637660
+        },
+        {
+            "Level": 89,
+            "HP": 8836,
+            "MP": 998,
+            "Attack": 729,
+            "Def": 455,
+            "CRIT": 185,
+            "STRONG": 740,
+            "Exp": 80604560
+        },
+        {
+            "Level": 90,
+            "HP": 8933,
+            "MP": 1009,
+            "Attack": 737,
+            "Def": 460,
+            "CRIT": 187,
+            "STRONG": 748,
+            "Exp": 83649580
+        },
+        {
+            "Level": 91,
+            "HP": 9030,
+            "MP": 1020,
+            "Attack": 745,
+            "Def": 465,
+            "CRIT": 189,
+            "STRONG": 756,
+            "Exp": 86773870
+        },
+        {
+            "Level": 92,
+            "HP": 9127,
+            "MP": 1031,
+            "Attack": 753,
+            "Def": 470,
+            "CRIT": 191,
+            "STRONG": 764,
+            "Exp": 89978580
+        },
+        {
+            "Level": 93,
+            "HP": 9224,
+            "MP": 1042,
+            "Attack": 761,
+            "Def": 475,
+            "CRIT": 193,
+            "STRONG": 772,
+            "Exp": 93264870
+        },
+        {
+            "Level": 94,
+            "HP": 9321,
+            "MP": 1053,
+            "Attack": 769,
+            "Def": 480,
+            "CRIT": 195,
+            "STRONG": 780,
+            "Exp": 96633900
+        },
+        {
+            "Level": 95,
+            "HP": 9418,
+            "MP": 1064,
+            "Attack": 777,
+            "Def": 485,
+            "CRIT": 197,
+            "STRONG": 788,
+            "Exp": 100086830
+        },
+        {
+            "Level": 96,
+            "HP": 9515,
+            "MP": 1075,
+            "Attack": 785,
+            "Def": 490,
+            "CRIT": 199,
+            "STRONG": 796,
+            "Exp": 103624840
+        },
+        {
+            "Level": 97,
+            "HP": 9612,
+            "MP": 1086,
+            "Attack": 793,
+            "Def": 495,
+            "CRIT": 201,
+            "STRONG": 804,
+            "Exp": 107249090
+        },
+        {
+            "Level": 98,
+            "HP": 9709,
+            "MP": 1097,
+            "Attack": 801,
+            "Def": 500,
+            "CRIT": 203,
+            "STRONG": 812,
+            "Exp": 110960760
+        },
+        {
+            "Level": 99,
+            "HP": 9806,
+            "MP": 1108,
+            "Attack": 809,
+            "Def": 505,
+            "CRIT": 205,
+            "STRONG": 820,
+            "Exp": 114761030
+        },
+        {
+            "Level": 100,
+            "HP": 9903,
+            "MP": 1119,
+            "Attack": 817,
+            "Def": 510,
+            "CRIT": 207,
+            "STRONG": 828,
+            "Exp": 118651090
+        }
+    ]
+}

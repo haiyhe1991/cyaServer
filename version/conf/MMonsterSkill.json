@@ -1,0 +1,1693 @@
+{
+    "skill": [
+        {
+            "ID": 1001,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1001,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1002,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_d_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1003,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_u_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 6,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_d_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1004,
+            "Name": "骷髅",
+            "ActionID": 0,
+            "Action": "atk_nor_u_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 6,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1005,
+            "Name": "鱼人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 3,
+                    "Radius": 380,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1005,
+            "Name": "鱼人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 5,
+                    "Radius": 380,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 1,
+                    "Radius": 310,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1006,
+            "Name": "食人花",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 280,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 0,
+                    "Radius": 650,
+                    "Angle": 90
+                }
+            ]
+        },
+        {
+            "ID": 1006,
+            "Name": "食人花",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 2,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Particl": "SGS_B_Flower.Emitter.Projectile_LeafParticle",
+            "Socket": "Fire",
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 650,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 1007,
+            "Name": "牛头人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 220,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 250,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 1007,
+            "Name": "牛头人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 280,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 65
+                },
+                {
+                    "Dir": 0,
+                    "Radius": 310,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1008,
+            "Name": "守护骑士",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 490,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 1008,
+            "Name": "守护骑士",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 470,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 500,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 1008,
+            "Name": "守护骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 120
+                },
+                {
+                    "Dir": 0,
+                    "Radius": 320,
+                    "Angle": 120
+                },
+                {
+                    "Dir": 10,
+                    "Radius": 480,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1009,
+            "Name": "骷髅4",
+            "ActionID": 0,
+            "Action": "atk_nor_n_004",
+            "Type": 2,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 850,
+            "Particl": "SGS_B_Kulou.Emitter.Projectile_GongjianParticle",
+            "Socket": "Fire",
+            "Beat": [
+                {
+                    "Dir": 6,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2001,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2001,
+            "Name": "哥布林",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 250,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2002,
+            "Name": "骷髅Elite",
+            "ActionID": 0,
+            "Action": "atk_nor_d_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2002,
+            "Name": "骷髅Elite",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2002,
+            "Name": "骷髅Elite",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2002,
+            "Name": "骷髅Elite",
+            "ActionID": 0,
+            "Action": "atk_nor_u_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 6,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2002,
+            "Name": "骷髅Elite",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 4,
+                    "Radius": 310,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 0,
+                    "Radius": 310,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2003,
+            "Name": "狮子",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 3,
+                    "Radius": 300,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2003,
+            "Name": "狮子",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 300,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2003,
+            "Name": "狮子",
+            "ActionID": 1,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 480,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 2003,
+            "Name": "狮子",
+            "ActionID": 2,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 300,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4001,
+            "Name": "塞克斯",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 1,
+                    "Radius": 280,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4001,
+            "Name": "塞克斯",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 3,
+                    "Radius": 300,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4001,
+            "Name": "塞克斯",
+            "ActionID": 0,
+            "Action": "atk_nor_n_003",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 330,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 4,
+                    "Radius": 330,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4001,
+            "Name": "塞克斯",
+            "ActionID": 1,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 1,
+                    "Radius": 340,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 1,
+                    "Radius": 340,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4001,
+            "Name": "塞克斯",
+            "ActionID": 2,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 260,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 340,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 2,
+                    "Radius": 340,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 2,
+                    "Radius": 340,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 600,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 1,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 650,
+                    "Angle": 45
+                },
+                {
+                    "Dir": 10,
+                    "Radius": 650,
+                    "Angle": 90
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 2,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 1750,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 1750,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 0,
+            "Action": "atk_ski_n_003",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 850,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 850,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 0,
+            "Action": "atk_ski_n_004",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 650,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4002,
+            "Name": "蝎子魔",
+            "ActionID": 0,
+            "Action": "atk_ski_n_005",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 620,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石头人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 650,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 680,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 1,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 480,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 2,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 580,
+                    "Angle": 65
+                },
+                {
+                    "Dir": 8,
+                    "Radius": 650,
+                    "Angle": 90
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 3,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 580,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 4,
+            "Action": "atk_ski_n_003",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 650,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 1000,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 5,
+            "Action": "atk_ski_n_004",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 650,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4003,
+            "Name": "石巨人",
+            "ActionID": 6,
+            "Action": "atk_ski_n_005",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 650,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 650,
+                    "Angle": 65
+                },
+                {
+                    "Dir": 2,
+                    "Radius": 650,
+                    "Angle": 65
+                },
+                {
+                    "Dir": 8,
+                    "Radius": 650,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 4004,
+            "Name": "花妖",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 750,
+            "MaxRa": 1350,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 1440,
+                    "Angle": 180
+                }
+            ]
+        },
+        {
+            "ID": 4004,
+            "Name": "花妖",
+            "ActionID": 1,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 950,
+                    "Angle": 45
+                }
+            ]
+        },
+        {
+            "ID": 4004,
+            "Name": "花妖",
+            "ActionID": 2,
+            "Action": "atk_ski_n_002",
+            "Type": 9,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 1525,
+            "Particl": "SGS_B_Flower.Emitter.Projectile_LeafParticle",
+            "Socket": "Fire",
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 1525,
+                    "Angle": 90
+                }
+            ]
+        },
+        {
+            "ID": 4004,
+            "Name": "花妖",
+            "ActionID": 3,
+            "Action": "atk_ski_n_003",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 600,
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 630,
+                    "Angle": 180
+                }
+            ]
+        },
+        {
+            "ID": 4004,
+            "Name": "花妖",
+            "ActionID": 4,
+            "Action": "atk_ski_n_004",
+            "Type": 9,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 1525,
+            "Particl": "SGS_B_Flower.Emitter.Projectile_LeafParticle",
+            "Socket": "Fire",
+            "Beat": [
+                {
+                    "Dir": 8,
+                    "Radius": 1525,
+                    "Angle": 90
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "金蝎子",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 220,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 250,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "金蝎子",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 320,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 320,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "金蝎子",
+            "ActionID": 0,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 550,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 280,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "蜘蛛",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "蜘蛛",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 500,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "蜘蛛",
+            "ActionID": 0,
+            "Action": "atk_nor_n_003",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 450,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 500,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "蜘蛛怪",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 580,
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 500,
+                    "Angle": 65
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "蜘蛛怪",
+            "ActionID": 0,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 1650,
+            "Particl": "SGS_Archetypes.Projectile.Projectile_FireBallParticle",
+            "Socket": "Spitfire",
+            "Beat": [
+                {
+                    "Dir": 0,
+                    "Radius": 500,
+                    "Angle": 120
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_003",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_004",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_002",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_003",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "野蛮人",
+            "ActionID": 0,
+            "Action": "atk_ski_n_005",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_003",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_004",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_005",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 0,
+            "Name": "帝国骑士",
+            "ActionID": 0,
+            "Action": "atk_ski_n_006",
+            "Type": 5,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 480,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 500,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1012,
+            "Name": "狼",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 150,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 180,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1012,
+            "Name": "狼",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 150,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 180,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1012,
+            "Name": "狼",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 400,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 180,
+                    "Angle": 35
+                },
+                {
+                    "Dir": 0,
+                    "Radius": 110,
+                    "Angle": 35
+                },
+                {
+                    "Dir": 4,
+                    "Radius": 111,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1012,
+            "Name": "狼",
+            "ActionID": 0,
+            "Action": "atk_ski_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 150,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 240,
+                    "Angle": 35
+                },
+                {
+                    "Dir": 2,
+                    "Radius": 80,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1011,
+            "Name": "士兵",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 220,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 250,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1011,
+            "Name": "士兵",
+            "ActionID": 0,
+            "Action": "atk_ski_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 220,
+            "Beat": [
+                {
+                    "Dir": 2,
+                    "Radius": 260,
+                    "Angle": 35
+                },
+                {
+                    "Dir": 2,
+                    "Radius": 270,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1010,
+            "Name": "黑衣人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_001",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 1,
+                    "Radius": 270,
+                    "Angle": 35
+                }
+            ]
+        },
+        {
+            "ID": 1010,
+            "Name": "黑衣人",
+            "ActionID": 0,
+            "Action": "atk_nor_n_002",
+            "Type": 1,
+            "Target": 4,
+            "IGHitTp": 0,
+            "MinRa": 0,
+            "MaxRa": 250,
+            "Beat": [
+                {
+                    "Dir": 4,
+                    "Radius": 270,
+                    "Angle": 35
+                }
+            ]
+        }
+    ]
+}

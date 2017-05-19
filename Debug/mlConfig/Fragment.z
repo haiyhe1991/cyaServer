@@ -1,0 +1,292 @@
+{
+    "Fragment": [
+        {
+            "ID": 10121,
+            "Name": "贵族之剑碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族之剑",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10122,
+            "Name": "贵族胸甲碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族胸甲",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10123,
+            "Name": "贵族护手碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族护手",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10124,
+            "Name": "贵族马靴碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族马靴",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10125,
+            "Name": "贵族戒指碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族之戒",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10126,
+            "Name": "贵族项链碎片",
+            "IconID": 3002,
+            "Desc": "秘银贵族项链",
+            "Value": 1,
+            "StackCount": 999,
+            "AccessWay": [
+                12
+            ],
+            "Quality": 2
+        },
+        {
+            "ID": 10131,
+            "Name": "蔷薇之剑碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇之剑",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10132,
+            "Name": "蔷薇胸甲碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇胸甲",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10133,
+            "Name": "蔷薇护手碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇护手",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10134,
+            "Name": "蔷薇之靴碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇之靴",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10135,
+            "Name": "蔷薇戒指碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇戒指",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10136,
+            "Name": "蔷薇项链碎片",
+            "IconID": 3003,
+            "Desc": "圣洁蔷薇项链",
+            "Value": 2,
+            "StackCount": 999,
+            "AccessWay": [
+                13
+            ],
+            "Quality": 3
+        },
+        {
+            "ID": 10141,
+            "Name": "冰霜之剑碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜之剑",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10142,
+            "Name": "冰霜胸甲碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜胸甲",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10143,
+            "Name": "冰霜护手碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜护手",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10144,
+            "Name": "冰霜战靴碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜战靴",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10145,
+            "Name": "冰霜之戒碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜之戒",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10146,
+            "Name": "冰霜项链碎片",
+            "IconID": 3004,
+            "Desc": "无暇冰霜项链",
+            "Value": 3,
+            "StackCount": 999,
+            "AccessWay": [
+                14
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10231,
+            "Name": "万灵之剑碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵之剑",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10232,
+            "Name": "万灵之甲碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵之甲",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10233,
+            "Name": "万灵护手碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵护手",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10234,
+            "Name": "万灵战靴碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵战靴",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10235,
+            "Name": "万灵之戒碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵之戒",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 10236,
+            "Name": "万灵项链碎片",
+            "IconID": 3005,
+            "Desc": "贞洁万灵项链",
+            "Value": 4,
+            "StackCount": 999,
+            "AccessWay": [
+                15
+            ],
+            "Quality": 4
+        }
+    ]
+}

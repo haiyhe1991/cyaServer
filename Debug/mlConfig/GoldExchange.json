@@ -1,0 +1,17 @@
+{
+    "GoldExchange": {
+        "BaseGold": 20000,
+        "GoldIncrement": 10000,
+        "TokenExpend": [
+            20,
+            40,
+            80,
+            120,
+            160,
+            200,
+            300
+        ],
+        "BaseNum": 3,
+        "VIPLvLimit": 0
+    }
+}

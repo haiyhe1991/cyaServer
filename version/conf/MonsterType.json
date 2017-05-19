@@ -1,0 +1,74 @@
+{
+    "MonsterType": [
+        {
+            "ID": 1,
+            "Name": "小怪",
+            "HP": 100,
+            "PhyAttack": 100,
+            "PhyDef": 100,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 1
+        },
+        {
+            "ID": 2,
+            "Name": "精英",
+            "HP": 150,
+            "PhyAttack": 120,
+            "PhyDef": 120,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 2
+        },
+        {
+            "ID": 3,
+            "Name": "BOSS(可挑空)",
+            "HP": 300,
+            "PhyAttack": 170,
+            "PhyDef": 170,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 3
+        },
+        {
+            "ID": 4,
+            "Name": "BOSS(不可挑空)",
+            "HP": 280,
+            "PhyAttack": 150,
+            "PhyDef": 150,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 3
+        },
+        {
+            "ID": 10,
+            "Name": "世界BOSS",
+            "HP": 300,
+            "PhyAttack": 200,
+            "PhyDef": 180,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 3
+        },
+        {
+            "ID": 15,
+            "Name": "机器人",
+            "HP": 100,
+            "PhyAttack": 100,
+            "PhyDef": 100,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 4
+        },
+        {
+            "ID": 16,
+            "Name": "训练靶子",
+            "HP": 99999,
+            "PhyAttack": 100,
+            "PhyDef": 100,
+            "Crit": 100,
+            "Strong": 100,
+            "Hpusage": 1
+        }
+    ]
+}

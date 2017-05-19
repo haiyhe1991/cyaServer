@@ -1,0 +1,580 @@
+{
+    "GameType": [
+        {
+            "ID": 3,
+            "Name": "疾风怪盗",
+            "Desc": "本副本属于限时副本,初始时间5分钟。寻找,破坏下列物品可以获得对应时间加成,死亡扣除对应时间。\n",
+            "GameType": 2,
+            "Type": 2,
+            "Condition": [
+                {
+                    "Type": 1,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 500
+                        }
+                    ]
+                },
+                {
+                    "Type": 6,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 1000
+                        }
+                    ]
+                },
+                {
+                    "Type": 6,
+                    "Num": 2,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 200
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 3,
+            "Expend": {},
+            "AwardObjects": [
+                {
+                    "ID": 60006,
+                    "Type": 102,
+                    "Award": 1,
+                    "Value": 30
+                }
+            ],
+            "Punish": {
+                "Condition": 1,
+                "Type": 1,
+                "Value": -45
+            },
+            "Objective": [
+                10,
+                50
+            ]
+        },
+        {
+            "ID": 4,
+            "Name": "守卫圣像",
+            "GameType": 1,
+            "Type": 3,
+            "Condition": [
+                {
+                    "Type": 3,
+                    "Num": 5,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 500
+                        }
+                    ]
+                },
+                {
+                    "Type": 2,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 3000
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 0,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": [
+                16,
+                50,
+                150
+            ]
+        },
+        {
+            "ID": 5,
+            "Name": "世界BOSS",
+            "GameIcon": "60003",
+            "GameType": 1,
+            "Type": 6,
+            "Condition": [
+                {
+                    "Type": 5,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 300000
+                        }
+                    ]
+                },
+                {
+                    "Type": 5,
+                    "Num": 2,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 200000
+                        }
+                    ]
+                },
+                {
+                    "Type": 5,
+                    "Num": 3,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 150000
+                        }
+                    ]
+                },
+                {
+                    "Type": 5,
+                    "Num": 4,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 120000
+                        }
+                    ]
+                },
+                {
+                    "Type": 5,
+                    "Num": 5,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 100000
+                        }
+                    ]
+                },
+                {
+                    "Type": 9,
+                    "Num": 0,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 100000
+                        }
+                    ]
+                },
+                {
+                    "Type": 10,
+                    "Num": 100,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 5000
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 4,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": [
+                15
+            ]
+        },
+        {
+            "ID": 6,
+            "Name": "人机玩法",
+            "GameType": 2,
+            "Type": 4,
+            "Condition": [],
+            "ReviveID": 0,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 7,
+            "Name": "1V1玩法",
+            "Desc": "暗影",
+            "GameType": 2,
+            "Type": 5,
+            "Condition": [
+                {
+                    "Type": 14,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 10000
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 0,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {
+                "Condition": 2,
+                "Type": 1,
+                "Value": 10
+            },
+            "Objective": [
+                100,
+                50,
+                70
+            ]
+        },
+        {
+            "ID": 8,
+            "Name": "天梯玩法",
+            "Desc": "1.天梯中挑战排名高于您的玩家，胜利后可以获得他的排名。<br>2.天梯对战时双方均不允许操作，允许挑战离线对手。<br>3.每天0点服务器会根据天梯的排名通过邮件形式给予奖励。<br>4.连胜次数达到一定次数后，在每日奖励结算时会获得额外奖励。",
+            "Type": 4,
+            "Condition": [
+                {
+                    "Type": 11,
+                    "Num": 10000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 10000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 5000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 15000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 1000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 20000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 500,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 25000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 100,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 30000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 50,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 35000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 10,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 50000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 4,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 70000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 3,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 100000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 2,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 150000
+                        }
+                    ]
+                },
+                {
+                    "Type": 11,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 200000
+                        }
+                    ]
+                },
+                {
+                    "Type": 12,
+                    "Num": 5,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 20000
+                        }
+                    ]
+                },
+                {
+                    "Type": 12,
+                    "Num": 10,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 50000
+                        }
+                    ]
+                },
+                {
+                    "Type": 12,
+                    "Num": 20,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 100000
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 0,
+            "Expend": {
+                "Eliminate": [
+                    5
+                ],
+                "Refurbish": [
+                    10,
+                    10,
+                    10,
+                    20
+                ]
+            },
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": [
+                10,
+                30
+            ]
+        },
+        {
+            "ID": 1,
+            "Name": "主线玩法",
+            "GameType": 2,
+            "Type": 1,
+            "Condition": [],
+            "ReviveID": 1,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 2,
+            "Name": "支线玩法",
+            "GameType": 2,
+            "Type": 1,
+            "Condition": [],
+            "ReviveID": 2,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 9,
+            "Name": "组队副本",
+            "GameType": 2,
+            "Type": 8,
+            "Condition": [],
+            "ReviveID": 1,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 10,
+            "Name": "训练模式",
+            "Desc": "训练模式",
+            "GameType": 2,
+            "Type": 7,
+            "Condition": [],
+            "ReviveID": 1,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 11,
+            "Name": "活动关卡",
+            "GameType": 2,
+            "Type": 1,
+            "Condition": [],
+            "ReviveID": 1,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        },
+        {
+            "ID": 12,
+            "Name": "竞技模式",
+            "Desc": "规则说明",
+            "GameType": 2,
+            "Type": 9,
+            "Condition": [
+                {
+                    "Type": 15,
+                    "Num": 10000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 10000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 5000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 15000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 1000,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 20000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 500,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 25000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 100,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 30000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 50,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 35000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 10,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 50000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 4,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 70000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 3,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 100000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 2,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 150000
+                        }
+                    ]
+                },
+                {
+                    "Type": 15,
+                    "Num": 1,
+                    "Reward": [
+                        {
+                            "Type": 6,
+                            "Num": 200000
+                        }
+                    ]
+                }
+            ],
+            "ReviveID": 0,
+            "Expend": {},
+            "AwardObjects": [],
+            "Punish": {},
+            "Objective": []
+        }
+    ]
+}

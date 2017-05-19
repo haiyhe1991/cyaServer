@@ -1,0 +1,94 @@
+{
+    "MagicAppl": [
+        {
+            "ID": 1,
+            "Name": "天匠神锤",
+            "Description": "开启装备强化等功能",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30001,
+            "AccessWay": [],
+            "FuncID": 100
+        },
+        {
+            "ID": 2,
+            "Name": "冥想波动",
+            "Description": "看到关卡中隐藏的物品",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30002,
+            "AccessWay": [],
+            "FuncID": 101
+        },
+        {
+            "ID": 3,
+            "Name": "破风之刃",
+            "Description": "通过风系魔法造成巨大风阻的区域",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30003,
+            "AccessWay": [],
+            "FuncID": 102
+        },
+        {
+            "ID": 4,
+            "Name": "妖精羽翼",
+            "Description": "二段跳",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30004,
+            "AccessWay": [],
+            "FuncID": 103
+        },
+        {
+            "ID": 5,
+            "Name": "浮空冲击",
+            "Description": "浮空状态冲刺",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30005,
+            "AccessWay": [],
+            "FuncID": 104
+        },
+        {
+            "ID": 6,
+            "Name": "幻音竖琴",
+            "Description": "通过有声波魔法结界的区域",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30006,
+            "AccessWay": [],
+            "FuncID": 105
+        },
+        {
+            "ID": 7,
+            "Name": "曼巴蛇行",
+            "Description": "快速滑行通过低矮区域",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30007,
+            "AccessWay": [],
+            "FuncID": 106
+        },
+        {
+            "ID": 8,
+            "Name": "人鱼祝福",
+            "Description": "通过有毒水域",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30008,
+            "AccessWay": [],
+            "FuncID": 107
+        },
+        {
+            "ID": 9,
+            "Name": "羽蝶之魂",
+            "Description": "变为蝴蝶",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30009,
+            "AccessWay": [],
+            "FuncID": 108
+        },
+        {
+            "ID": 10,
+            "Name": "百花之魂",
+            "Description": "变为花瓣",
+            "ControlDesc": "#魔导器操作说明",
+            "IconID": 30010,
+            "AccessWay": [],
+            "FuncID": 109
+        }
+    ]
+}

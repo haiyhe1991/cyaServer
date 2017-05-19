@@ -1,0 +1,4310 @@
+{
+    "MASkill": [
+        {
+            "ID": 10001,
+            "Name": "斧劈（哥布林1）",
+            "Description": "举起武器,蓄力0.5秒,攻击1次（流血）",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 150,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 200,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10002,
+            "Name": "锤击（哥布林2）",
+            "Description": "举起武器,蓄力0.5秒,攻击1次（击晕）",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 225,
+                    "3": 180,
+                    "4": 0
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10003,
+            "Name": "剑斩（骷髅1）",
+            "Description": "举起武器,蓄力1秒,攻击1次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 260,
+                    "3": 180,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10004,
+            "Name": "剑挑（骷髅2）",
+            "Description": "举起武器,蓄力1秒,攻击1次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 100,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 180,
+                    "3": 180,
+                    "4": 0
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10005,
+            "Name": "爪击(鱼人)",
+            "Description": "进行挑衅2秒,攻击2次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 250,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11005,
+            "Name": "爪击(鱼人头领)",
+            "Description": "进行挑衅2秒,攻击2次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 240,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 300,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10006,
+            "Name": "劈打（花妖）",
+            "Description": "玩家贴身后,向四周挥舞藤蔓攻击1次,击中产生击飞效果",
+            "SkillAttackdistance": 5,
+            "CD": 1,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 360,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 360,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 360,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 360,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10007,
+            "Name": "连斩（牛头人）",
+            "Description": "举起武器蓄力3秒,连续挥动武器攻击3次,最后一次产生击倒效果",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 250,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 120,
+                    "2": 250,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11007,
+            "Name": "连斩（牛头人队长）",
+            "Description": "举起武器蓄力3秒,连续挥动武器攻击3次,最后一次产生击倒效果",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 300,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 120,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10008,
+            "Name": "连斩（守护骑士）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+            "Description": "前摇很长的普通攻击。",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 320,
+                    "3": 180,
+                    "4": 0
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10009,
+            "Name": "射箭(骷髅3)",
+            "Description": "瞄准2秒,向玩家释放一个飞行道具箭矢",
+            "SkillAttackdistance": 6,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 2
+        },
+        {
+            "ID": 10010,
+            "Name": "连斩（黑衣人）",
+            "Description": "举起武器蓄力2秒,连续攻击2次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 110,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 250,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10011,
+            "Name": "连斩(普通士兵)",
+            "Description": "举起武器蓄力2秒,连续挥动武器攻击3次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 250,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 120,
+                    "2": 250,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10012,
+            "Name": "爪击（普通狼）",
+            "Description": "连续的爪子攻击,攻击前摇短,连续攻击2次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10018,
+            "Name": "武器(哥布林精英)",
+            "Description": "蓄力1秒,攻击1次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10019,
+            "Name": "武器（骷髅精英）",
+            "Description": "蓄力1秒,攻击1次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10020,
+            "Name": "火球（哥布林3）",
+            "Description": "发射火球,击中后一定几率产生灼烧效果。",
+            "SkillAttackdistance": 6,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 115,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 1
+        },
+        {
+            "ID": 10021,
+            "Name": "2连击（强盗）",
+            "Description": "2段攻击",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 150,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 90,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 7
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11021,
+            "Name": "2连击（强盗头子）",
+            "Description": "2段攻击",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 180,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 90,
+                    "2": 300,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 7
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10022,
+            "Name": "右钳（金蝎子）",
+            "Description": "撕裂流血",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 150,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 50,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 200,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10023,
+            "Name": "扑咬(地狱狼)",
+            "Description": "技能扑咬",
+            "SkillAttackdistance": 7,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10024,
+            "Name": "抓击(地狱狼)",
+            "Description": "流血抓击",
+            "SkillAttackdistance": 5,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10025,
+            "Name": "横斩（夜叉）",
+            "Description": "横斩",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10026,
+            "Name": "射箭(飞鸟)",
+            "Description": "射箭",
+            "SkillAttackdistance": 6,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 2
+        },
+        {
+            "ID": 10027,
+            "Name": "三连射(飞鸟)",
+            "Description": "三连射",
+            "SkillAttackdistance": 6,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 40,
+                    "4": 1
+                },
+                {
+                    "1": 80,
+                    "4": 1
+                },
+                {
+                    "1": 120,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 2
+        },
+        {
+            "ID": 10028,
+            "Name": "左扫(野蛮人)",
+            "Description": "左侧横扫",
+            "SkillAttackdistance": 5,
+            "CD": 2,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10029,
+            "Name": "直砸(野蛮人)",
+            "Description": "正中砸下",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10030,
+            "Name": "猛扫(野蛮人)",
+            "Description": "双手横扫",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 125,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 350,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10031,
+            "Name": "右劈(野蛮人)",
+            "Description": "突前右劈",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10032,
+            "Name": "左击(雪域女妖)",
+            "Description": "左侧横扫",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 350,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10033,
+            "Name": "上挑（蜘蛛怪）",
+            "Description": "翻滚上挑",
+            "SkillAttackdistance": 5,
+            "CD": 23,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 750,
+                    "3": 180,
+                    "4": 9
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10034,
+            "Name": "右扫（蜘蛛怪）",
+            "Description": "右侧横扫",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10035,
+            "Name": "左扫（蜘蛛怪）",
+            "Description": "左侧横扫",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10036,
+            "Name": "拍击(地狱守卫)",
+            "Description": "左手拍地",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1000,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10037,
+            "Name": "拍击2(地狱守卫)",
+            "Description": "右手拍地",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1000,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10038,
+            "Name": "左环劈（地狱炎魔）",
+            "Description": "左侧横扫",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10039,
+            "Name": "右盾击（地狱炎魔）",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 500,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10040,
+            "Name": "反手横扫（地狱炎魔）",
+            "Description": "右横扫",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 350,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10041,
+            "Name": "射箭(士兵)",
+            "Description": "向玩家释放一个飞行道具箭矢",
+            "SkillAttackdistance": 6,
+            "CD": 2,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 2
+        },
+        {
+            "ID": 10042,
+            "Name": "横斩（镰刀黑衣人）",
+            "Description": "玩家被攻击后防御下降",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 10043,
+            "Name": "投掷(飞镰黑衣人)",
+            "Description": "向玩家释放一个飞行道具箭矢",
+            "SkillAttackdistance": 6,
+            "CD": 2,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 9
+        },
+        {
+            "ID": 10044,
+            "Name": "释放（法杖黑衣人）",
+            "Description": "发射火球,击中后一定几率产生灼烧效果。",
+            "SkillAttackdistance": 6,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 115,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 1
+        },
+        {
+            "ID": 20035,
+            "Name": "顺斩（镰刀黑衣人）",
+            "Description": "大吼一身低头牛角用朝玩家快速冲撞,中招后被击飞。（霸体）",
+            "SkillAttackdistance": 3,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 300,
+            "Attackdistance": 450,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 150,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20036,
+            "Name": "大火球（法杖黑衣人黑衣人）",
+            "Description": "发射火球,击中后一定几率产生灼烧效果。",
+            "SkillAttackdistance": 6,
+            "CD": 13,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20801,
+                    "Chance": 60
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1650,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 115,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 7
+        },
+        {
+            "ID": 20037,
+            "Name": "右方增益（法杖黑衣人）",
+            "Description": "高举武器,强化四周的士兵,增加攻击力",
+            "SkillAttackdistance": 4,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20001,
+            "Name": "3斩（骷髅1）",
+            "Description": "攻击1次",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 2
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 5
+                },
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20002,
+            "Name": "三连击（骷髅2）",
+            "Description": "攻击3次",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 300,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 120,
+                    "2": 240,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20003,
+            "Name": "蓄力爪击（鱼人）",
+            "Description": "先蓄力,然双爪往前扑,被击中后流血。",
+            "SkillAttackdistance": 3,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 250,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 21003,
+            "Name": "蓄力爪击（鱼人头领）",
+            "Description": "先蓄力,然双爪往前扑,被击中后流血。",
+            "SkillAttackdistance": 3,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20701,
+                    "Chance": 60
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 240,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20004,
+            "Name": "毒液喷吐（花妖）",
+            "Description": "毒液喷吐,被吐中产生中毒效果。",
+            "SkillAttackdistance": 2,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 300,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 4
+        },
+        {
+            "ID": 20005,
+            "Name": "捆绑吐毒（花妖）",
+            "Description": "双手张开一段时间,然后捆绑住玩家后喷涂毒液,中招后100%中毒",
+            "SkillAttackdistance": 2,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 300,
+            "Attackdistance": 600,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 4
+        },
+        {
+            "ID": 20006,
+            "Name": "野蛮冲撞（牛头人）",
+            "Description": "大吼一身低头牛角用朝玩家快速冲撞,中招后被击飞。（霸体）",
+            "SkillAttackdistance": 3,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 300,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 150,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 21006,
+            "Name": "野蛮冲撞（牛头人队长）",
+            "Description": "大吼一身低头牛角用朝玩家快速冲撞,中招后被击飞。（霸体）",
+            "SkillAttackdistance": 3,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 300,
+            "Attackdistance": 960,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 180,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20007,
+            "Name": "蓄力劈击(守护骑士)",
+            "Description": "双手高举大剑向下劈,被攻击后击倒,不可防御。",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 115,
+                    "2": 400,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20008,
+            "Name": "蓄力横扫（守护骑士）",
+            "Description": "双手蓄力大剑横扫,被攻击后击飞,不可防御",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 350,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20009,
+            "Name": "诅咒（黑衣人）",
+            "Description": "玩家被攻击后防御下降",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20010,
+            "Name": "闪扑（普通狼）",
+            "Description": "先后跳拉开距离再往前扑。",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 100,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 150,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20013,
+            "Name": "扑击（金蝎子）",
+            "Description": "跳过来扑击",
+            "SkillAttackdistance": 3,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 350,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20014,
+            "Name": "尾刺（金蝎子）",
+            "Description": "中毒",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 180,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 220,
+                    "3": 180,
+                    "4": 0
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20015,
+            "Name": "扑咬(地狱狼)",
+            "Description": "长距离扑咬",
+            "SkillAttackdistance": 1,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 180,
+                    "4": 10
+                },
+                {
+                    "1": 100,
+                    "2": 50,
+                    "3": 180,
+                    "4": 10
+                },
+                {
+                    "1": 100,
+                    "2": 50,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20016,
+            "Name": "扑倒(地狱狼)",
+            "Description": "原地跳起扑倒",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20017,
+            "Name": "斩击（夜叉）",
+            "Description": "两段斩",
+            "SkillAttackdistance": 1,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20018,
+            "Name": "空射(飞鸟)",
+            "Description": "范围技能",
+            "SkillAttackdistance": 2,
+            "CD": 17,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                },
+                {
+                    "1": 100,
+                    "4": 1
+                },
+                {
+                    "1": 100,
+                    "4": 1
+                },
+                {
+                    "1": 100,
+                    "4": 1
+                },
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 2
+        },
+        {
+            "ID": 20019,
+            "Name": "旋身横扫(野蛮人)",
+            "Description": "右扫",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 350,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 450,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20020,
+            "Name": "怒号(野蛮人)",
+            "Description": "辅助技能",
+            "SkillAttackdistance": 4,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20021,
+            "Name": "扫劈(野蛮人)",
+            "Description": "两连击",
+            "SkillAttackdistance": 1,
+            "CD": 13,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 200,
+                    "3": 360,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 500,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20022,
+            "Name": "三连击(野蛮人)",
+            "Description": "最后击倒",
+            "SkillAttackdistance": 1,
+            "CD": 19,
+            "MpCost": 40,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 450,
+                    "3": 360,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 200,
+                    "3": 360,
+                    "4": 6
+                },
+                {
+                    "1": 100,
+                    "2": 400,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                4
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20023,
+            "Name": "两连击(雪域女妖)",
+            "Description": "旋身怒击",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 250,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 200,
+                    "3": 360,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 350,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20011,
+            "Name": "疯狂撕咬（普通狼）",
+            "Description": "对玩家疯狂撕咬,攻击后流血。",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 100,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 150,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20012,
+            "Name": "闪避击（强盗）",
+            "Description": "闪避后再前冲攻击1",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 100,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 105,
+                    "2": 150,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 21012,
+            "Name": "闪避击（强盗头子）",
+            "Description": "闪避后再前冲攻击1",
+            "SkillAttackdistance": 1,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 120,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 105,
+                    "2": 180,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20024,
+            "Name": "飞剑(雪域女妖)",
+            "Description": "飞剑",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 550,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 90,
+                    "4": 4
+                },
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20025,
+            "Name": "2段灼烧（蜘蛛怪）",
+            "Description": "喷火攻击",
+            "SkillAttackdistance": 1,
+            "CD": 19,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 450,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 180,
+                    "4": 12
+                },
+                {
+                    "1": 100,
+                    "2": 750,
+                    "3": 180,
+                    "4": 12
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20026,
+            "Name": "声波攻击（蜘蛛怪）",
+            "Description": "范围攻击",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 720,
+                    "3": 30,
+                    "4": 12
+                },
+                {
+                    "1": 100,
+                    "2": 720,
+                    "3": 30,
+                    "4": 12
+                },
+                {
+                    "1": 100,
+                    "2": 720,
+                    "3": 30,
+                    "4": 12
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 5
+        },
+        {
+            "ID": 20027,
+            "Name": "三连击（蜘蛛怪）",
+            "Description": "地面三连刺",
+            "SkillAttackdistance": 1,
+            "CD": 31,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 900,
+                    "3": 45,
+                    "4": 12
+                },
+                {
+                    "1": 100,
+                    "2": 950,
+                    "3": 45,
+                    "4": 12
+                },
+                {
+                    "1": 100,
+                    "2": 1200,
+                    "3": 60,
+                    "4": 9
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 14,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20028,
+            "Name": "抱击(地狱守卫)",
+            "Description": "双手抱击",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 200,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 700,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20029,
+            "Name": "范围(地狱守卫)",
+            "Description": "大范围",
+            "SkillAttackdistance": 1,
+            "CD": 23,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1500,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20030,
+            "Name": "3连击（地狱炎魔）",
+            "Description": "击倒",
+            "SkillAttackdistance": 1,
+            "CD": 19,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 500,
+                    "3": 180,
+                    "4": 11
+                },
+                {
+                    "1": 100,
+                    "2": 800,
+                    "3": 70,
+                    "4": 10
+                },
+                {
+                    "1": 100,
+                    "2": 1000,
+                    "3": 90,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20031,
+            "Name": "怒号（地狱炎魔）",
+            "SkillAttackdistance": 4,
+            "CD": 23,
+            "MpCost": 40,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20032,
+            "Name": "扑击（地狱炎魔）",
+            "Description": "击倒",
+            "SkillAttackdistance": 1,
+            "CD": 31,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1300,
+                    "3": 30,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20033,
+            "Name": "劈斩（地狱炎魔）",
+            "Description": "击倒",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 700,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                4
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20034,
+            "Name": "怒踏（地狱炎魔）",
+            "Description": "范围击飞",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 360,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                5
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20038,
+            "Name": "刺杀（蝎子魔）",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 450,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 520,
+                    "3": 45,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20039,
+            "Name": "横扫（蝎子魔）",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 550,
+                    "3": 180,
+                    "4": 10
+                },
+                {
+                    "1": 100,
+                    "2": 750,
+                    "3": 30,
+                    "4": 13
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 20040,
+            "Name": "冲刺（蝎子魔）",
+            "SkillAttackdistance": 3,
+            "CD": 23,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1600,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 45,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20041,
+            "Name": "尾扫（蝎子魔）",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 150,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 510,
+                    "3": 360,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                5
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30011,
+            "Name": "抓击",
+            "Description": "近距离攻击,伤害较低,攻击频率快,释放动作短,最多连续攻击三次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 70,
+                    "2": 250,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 75,
+                    "2": 250,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 80,
+                    "2": 260,
+                    "3": 180,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30012,
+            "Name": "扑击",
+            "Description": "中远距离攻击,攻击中,攻击频率稍慢,释放动作较短,释放前有1秒准备",
+            "SkillAttackdistance": 7,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 110,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30013,
+            "Name": "狂狮撕咬",
+            "Description": "近身攻击,扑倒攻击目标,连续对倒地目标进行撕咬攻击",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 75,
+                    "2": 300,
+                    "3": 180,
+                    "4": 10
+                },
+                {
+                    "1": 75,
+                    "2": 400,
+                    "3": 180,
+                    "4": 13
+                },
+                {
+                    "1": 70,
+                    "2": 400,
+                    "3": 180,
+                    "4": 13
+                },
+                {
+                    "1": 85,
+                    "2": 500,
+                    "3": 180,
+                    "4": 2
+                }
+            ],
+            "Action": [
+                1001,
+                1003,
+                1004,
+                1005,
+                1006
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [
+                {
+                    "ActionID": [
+                        1004,
+                        1005
+                    ],
+                    "Num": 1
+                }
+            ],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30014,
+            "Name": "雄狮突进",
+            "Description": "位移追击,对直线范围内目标造成伤害,可接狂狮撕咬技能。",
+            "SkillAttackdistance": 3,
+            "CD": 19,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 600,
+            "Attackdistance": 1200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 0,
+            "MaxCount": [
+                {
+                    "1": 70,
+                    "2": 600,
+                    "3": 180,
+                    "4": 10
+                },
+                {
+                    "1": 90,
+                    "2": 600,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2001,
+                2003,
+                2004,
+                2005,
+                2006
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30015,
+            "Name": "连拍",
+            "Description": "近距离范围攻击,伤害较高,攻击频率满,释放动作较长,最多连续攻击三次。",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 350,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 65,
+                    "2": 350,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 70,
+                    "2": 1200,
+                    "3": 360,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30016,
+            "Name": "拍飞",
+            "Description": "玩家在空中时,挥掌拍飞玩家。2段攻击。",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 75,
+                    "2": 520,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 120,
+                    "2": 550,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30017,
+            "Name": "巨石怒踏",
+            "Description": "攻击近身目标,抬脚蓄力踩踏地面目标,击倒玩家。",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 5,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 35,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 1000,
+                    "3": 360,
+                    "4": 9
+                }
+            ],
+            "Action": [
+                1001,
+                1002,
+                1003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30018,
+            "Name": "飞石投掷",
+            "Description": "攻击远程目标,从地面挖取巨大石头,投掷向玩家方向,落地范围攻击,击倒玩家。",
+            "SkillAttackdistance": 2,
+            "CD": 11,
+            "MpCost": 5,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 800,
+            "Attackdistance": 2000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 35,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2001,
+                2002,
+                2003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 5,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 3
+        },
+        {
+            "ID": 30019,
+            "Name": "翻滚冲撞",
+            "Description": "冲撞追击玩家目标,冲撞到玩家单位后会击倒玩家,碾压过去。",
+            "SkillAttackdistance": 3,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 400,
+            "Attackdistance": 600,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 35,
+            "MaxCount": [
+                {
+                    "1": 80,
+                    "2": 300,
+                    "3": 360,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3001,
+                3002,
+                3003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [
+                {
+                    "ActionID": [
+                        3002
+                    ],
+                    "Num": 2
+                }
+            ],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30020,
+            "Name": "地动山摇",
+            "Description": "连续锤击地面产生范围攻击效果,可以跳跃,闪避躲避,无法防御。",
+            "SkillAttackdistance": 1,
+            "CD": 19,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 35,
+            "MaxCount": [
+                {
+                    "1": 60,
+                    "2": 800,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 65,
+                    "2": 1000,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 75,
+                    "2": 1000,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 60,
+                    "2": 1000,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 80,
+                    "2": 1300,
+                    "3": 360,
+                    "4": 11
+                }
+            ],
+            "Action": [
+                4001,
+                4002,
+                4003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30021,
+            "Name": "鞭打1",
+            "Description": "左手快速挥动藤鞭一次",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1300,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30022,
+            "Name": "鞭打2",
+            "Description": "右手挥动藤鞭攻击一次",
+            "SkillAttackdistance": 5,
+            "CD": 2,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1000,
+                    "3": 180,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30023,
+            "Name": "藤蔓护体",
+            "Description": "近距离范围攻击,防止玩家贴身一直攻击,伤害一般,攻击频率一般,释放动作短,最多连续攻击三次。",
+            "SkillAttackdistance": 1,
+            "CD": 7,
+            "MpCost": 5,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 600,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 85,
+                    "2": 520,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 90,
+                    "2": 900,
+                    "3": 360,
+                    "4": 11
+                },
+                {
+                    "1": 120,
+                    "2": 1150,
+                    "3": 360,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1001,
+                1002,
+                1003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30024,
+            "Name": "毒针飞刺",
+            "Description": "攻击远程单位,一次性释放5个飞行道具,按顺序飞向玩家,击中产生中毒效果。",
+            "SkillAttackdistance": 2,
+            "CD": 11,
+            "MpCost": 5,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 1500,
+            "Attackdistance": 2500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 115,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2001,
+                2002,
+                2003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 6,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 5
+        },
+        {
+            "ID": 30025,
+            "Name": "藤蔓缠绕",
+            "Description": "攻击指定位置单位,束缚目标,产生持续伤害。",
+            "SkillAttackdistance": 2,
+            "CD": 13,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 1000,
+            "Attackdistance": 2000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 25,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3001,
+                3002,
+                3003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 6,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 4
+        },
+        {
+            "ID": 30026,
+            "Name": "毒性爆发",
+            "Description": "长时间蓄力后,对大范围产生毒液攻击,不可防御。",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 1500,
+                    "3": 360,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                4001,
+                4002,
+                4003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30027,
+            "Name": "连战4段",
+            "Description": "近距离范围攻击,伤害较高,攻击频率略快,释放动作较短,最多连续攻击四次。",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 350,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 60,
+                    "2": 300,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 65,
+                    "2": 300,
+                    "3": 180,
+                    "4": 1
+                },
+                {
+                    "1": 60,
+                    "2": 450,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 80,
+                    "2": 420,
+                    "3": 180,
+                    "4": 9
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30028,
+            "Name": "连斩2段",
+            "Description": "近距离范围攻击,伤害较高,攻击频率略快,释放动作较短,最多连续攻击2次。",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 35,
+            "MaxCount": [
+                {
+                    "1": 70,
+                    "2": 310,
+                    "3": 180,
+                    "4": 6
+                },
+                {
+                    "1": 85,
+                    "2": 310,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30029,
+            "Name": "腾空怒斩",
+            "Description": "跳跃腾空攻击玩家,空中霸体,下落击中点产生范围伤害,击倒玩家。",
+            "SkillAttackdistance": 1,
+            "CD": 11,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 120,
+                    "2": 500,
+                    "3": 360,
+                    "4": 12
+                }
+            ],
+            "Action": [
+                1001,
+                1002,
+                1003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30030,
+            "Name": "瞬身晕拳",
+            "Description": "锁定玩家后,蓄力准备,快速冲击到玩家面前,挥拳攻击玩家头部,击晕玩家。",
+            "SkillAttackdistance": 3,
+            "CD": 13,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 450,
+            "Attackdistance": 1420,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 110,
+                    "2": 320,
+                    "3": 180,
+                    "4": 12
+                }
+            ],
+            "Action": [
+                2001,
+                2002,
+                2003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30031,
+            "Name": "腾空劈斩",
+            "Description": "连续攻击腾空目标和地面目标,击倒玩家。2段",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 50,
+                    "2": 400,
+                    "3": 360,
+                    "4": 6
+                },
+                {
+                    "1": 110,
+                    "2": 320,
+                    "3": 360,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3001,
+                3002,
+                3003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30032,
+            "Name": "旋风斩击",
+            "Description": "连续旋转攻击地面目标,可以移动追击玩家,移动速度较慢,攻击范围广,最后一击击飞玩家。",
+            "SkillAttackdistance": 3,
+            "CD": 21,
+            "MpCost": 50,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 15,
+            "MaxCount": [
+                {
+                    "1": 50,
+                    "2": 300,
+                    "3": 360,
+                    "4": 2
+                },
+                {
+                    "1": 50,
+                    "2": 300,
+                    "3": 360,
+                    "4": 2
+                },
+                {
+                    "1": 55,
+                    "2": 300,
+                    "3": 360,
+                    "4": 2
+                },
+                {
+                    "1": 55,
+                    "2": 300,
+                    "3": 360,
+                    "4": 2
+                },
+                {
+                    "1": 60,
+                    "2": 300,
+                    "3": 360,
+                    "4": 2
+                },
+                {
+                    "1": 65,
+                    "2": 300,
+                    "3": 360,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                4001,
+                4002,
+                4003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [
+                {
+                    "ActionID": [
+                        4002
+                    ],
+                    "Num": 2
+                }
+            ],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30033,
+            "Name": "3连斩（帝国骑士）",
+            "Description": "举盾近身后挥刀连续攻击",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 80,
+                    "2": 200,
+                    "3": 180,
+                    "4": 2
+                },
+                {
+                    "1": 90,
+                    "2": 400,
+                    "3": 180,
+                    "4": 2
+                },
+                {
+                    "1": 100,
+                    "2": 450,
+                    "3": 180,
+                    "4": 2
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30034,
+            "Name": "盾牌反击（帝国骑士）",
+            "Description": "举盾连续格挡玩家的攻击,每挡一次就反击一次。",
+            "SkillAttackdistance": 1,
+            "CD": 21,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 200,
+            "Preparationtime": 0,
+            "Condition": [
+                {
+                    "1": 1,
+                    "2": 1500,
+                    "3": 50,
+                    "4": 1004
+                }
+            ],
+            "MinDamage": 100,
+            "DamageCount": 30,
+            "MaxCount": [
+                {
+                    "1": 80,
+                    "2": 280,
+                    "3": 180,
+                    "4": 4
+                },
+                {
+                    "1": 150,
+                    "2": 320,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                1001,
+                1002,
+                1003,
+                1004
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 11,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30035,
+            "Name": "范围增益（帝国骑士）",
+            "Description": "高举武器,强化四周的士兵,增加攻击力",
+            "SkillAttackdistance": 4,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 1
+                }
+            ],
+            "Action": [
+                2001,
+                2002,
+                2003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 5,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30036,
+            "Name": "策马右劈（死亡骑士）",
+            "Description": "近距离攻击，伤害一般，攻击频率一般，释放动作中，左侧大判定范围，攻击一次。",
+            "SkillAttackdistance": 5,
+            "CD": 2,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 180,
+                    "4": 4
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30037,
+            "Name": "轮斧左斩（死亡骑士）",
+            "Description": "中近距离攻击，攻击高，攻击频率稍慢 ",
+            "SkillAttackdistance": 5,
+            "CD": 3,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 600,
+                    "3": 180,
+                    "4": 6
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30038,
+            "Name": "死亡冲锋(死亡骑士)",
+            "Description": "位移攻击，在场地里面来回追族玩家，当经过玩家位置击飞玩家。",
+            "SkillAttackdistance": 3,
+            "CD": 11,
+            "MpCost": 15,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 30,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 9
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 9
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 8
+                },
+                {
+                    "1": 100,
+                    "2": 300,
+                    "3": 180,
+                    "4": 8
+                }
+            ],
+            "Action": [
+                1001,
+                1002,
+                1003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [
+                {
+                    "ActionID": [
+                        1002
+                    ],
+                    "Num": 3
+                }
+            ],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 30039,
+            "Name": "腾空怒斩(死亡骑士)",
+            "Description": "马腾空落下，骑士同时挥斧怒斩，马头前方地面出现三角范围攻击特效",
+            "SkillAttackdistance": 1,
+            "CD": 13,
+            "MpCost": 20,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 800,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1020,
+                    "3": 120,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                2001,
+                2002,
+                2003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30040,
+            "Name": "死亡飞斧(死亡骑士)",
+            "Description": "原地蓄力，甩出手中巨斧，在空中分散出5个斧头，扇面散开 ",
+            "SkillAttackdistance": 2,
+            "CD": 17,
+            "MpCost": 30,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageCount": 20,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "2": 1600,
+                    "3": 180,
+                    "4": 10
+                }
+            ],
+            "Action": [
+                3001,
+                3002,
+                3003
+            ],
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        }
+    ]
+}

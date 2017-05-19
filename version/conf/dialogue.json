@@ -1,0 +1,826 @@
+{
+    "Dialogues": [
+        {
+            "ID": 1101,
+            "Decs": "主线1",
+            "Talking": [
+                {
+                    "SpokenTitle": "你醒了,蔷薇骑士",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "这是哪？你怎么知道我的名字？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "这里是我们精灵族的庇护所,你现在很安全,作为莱蕾王后的族人,你们的一切我都清楚。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "我怎么会在这里？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "罗莎琳公主用莱蕾王后给的精灵石戒指把你传送过来的,戒指就在你手上。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "罗莎琳公主、还有伙伴们......",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "放心吧,公主还有利用价值,不会有危险,至于其他人,应该被传送到了安全的地方。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "待在这在里,什么都做不了,请把我送回去。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "以你现在的力量回去等于送死。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "那样也比什么都不做强。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "其实还有一个更重要的任务委托你,当然也只能依靠你了。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "任务？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "混沌之神的爪牙已经获取了混沌之力,我们必须收集散落各地的精灵石碎片变得强大,才有机会营救公主。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "我要怎么找？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "精灵石之间会产生反应,戒指的光芒将指引你。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "我准备好了。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "传送阵会连接到离精灵石碎片最近的地方,出发吧骑士！",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1102,
+            "Decs": "主线1",
+            "Talking": [
+                {
+                    "SpokenTitle": "这么快就找到了精灵石碎片,不愧是莱蕾王后选中的人！",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "为什么石头会变成怪物？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "精灵石是生命与能量的结晶,拥有赋予生命的特性。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "精灵石的力量真的能对抗混沌军团？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "你还记得/死亡对混沌之物没有任何意义/这句话么？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "当然记得,杀不死的怪物,怎么可能忘得掉。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "精灵石的作用是赋予生命,如果能把对方算作有生命的东西,杀掉就不那么困难了。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1103,
+            "Decs": "主线2",
+            "Talking": [
+                {
+                    "SpokenTitle": "想不到精灵石居然会落到哥布林手上。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "好像他们并不知道精灵石的用法。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "你确定他们手上就只有一颗精灵石？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "我只见到一颗。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "或许他们手上不止一颗,如果真是这样，需要你再去一次。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1104,
+            "Decs": "主线2",
+            "Talking": [
+                {
+                    "SpokenTitle": "虽然只有精灵石的残片，不过也算是一种收货吧,作为奖励把这个给你吧。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1105,
+            "Decs": "主线3",
+            "Talking": [
+                {
+                    "SpokenTitle": "按照哥布林的性格，他们一定把好东西都藏在木桶里，你替我去找找看，有什么好东西，或许有精灵石也说不一定啊。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1106,
+            "Decs": "主线3",
+            "Talking": [
+                {
+                    "SpokenTitle": "怎么样？有什么收获么？没有发现精灵石？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "辛苦你了，对了庇护所的[克斯玛]正在找你，他现在是我们的队长，请你务必过去一下。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1107,
+            "Decs": "主线4",
+            "Talking": [
+                {
+                    "SpokenTitle": "隐修院的[玛格丽特]修女曾是精灵族的朋友，在她离世之后隐修院就已经荒废了，",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "不过昨天那里来了一队奇怪的人，也不知道在打什么鬼主意，请你务必过去看一下。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1108,
+            "Decs": "主线4",
+            "Talking": [
+                {
+                    "SpokenTitle": "哇，你手上拿的是什么？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "我也不清。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "这不是传说中造过圣剑的创世锤么",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "听上去好像很是很厉害的东西，怎么会遗落到那种地方？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "自从贤者用圣剑封印住混沌之神后，创世锤就从这个世界上消失了，再也没有人知道它的下落,想不到居然会出现在这种地方，不过这样也好，这样你就能对自己的装备进行强化了，这是精灵石的一种，强化石。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1109,
+            "Decs": "主线5",
+            "Talking": [
+                {
+                    "SpokenTitle": "上次听说你再隐修院发现了奇怪的石碑？这次能不能麻烦你再去帮我看一下石碑上的铭文？",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1110,
+            "Decs": "主线5",
+            "Talking": [
+                {
+                    "SpokenTitle": "按照铭文所写，玛格丽特遗骸的一部分应该被藏在了隐修院里，不过具体哪个地方就不知道了。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1111,
+            "Decs": "主线6",
+            "Talking": [
+                {
+                    "SpokenTitle": "对了，你不是说有个奇怪的家伙出现在[圣女隐修院]里么？那个黑色盔甲的的骑士。你再去找他一次，我有办法知道他的身份。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1112,
+            "Decs": "主线6",
+            "Talking": [
+                {
+                    "SpokenTitle": "虽然拿到了，但是现在还不能马上就知道，过一段时间你再来找我吧。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1113,
+            "Decs": "主线7",
+            "Talking": [
+                {
+                    "SpokenTitle": "上次你不是说碰到了一个伪教徒么？也许他知道有关[玛格丽特遗骸]的信息，再去找他问一下吧。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1114,
+            "Decs": "主线7",
+            "Talking": [
+                {
+                    "SpokenTitle": "看来他也只知道这么多，不过也算是不错的线索了。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1115,
+            "Decs": "主线8",
+            "Talking": [
+                {
+                    "SpokenTitle": "说到你的同伴，你们之前逃跑的时候曾路过[弗洛斯断桥]，说不定他们被传送到那个地方，你可以去找找看。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1116,
+            "Decs": "主线8",
+            "Talking": [
+                {
+                    "SpokenTitle": "这么快就回来了，有什么发现么？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "除了一堆石头怪，没有找任何线索。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "怪物身上应该也有精灵石，下次去看看。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1117,
+            "Decs": "主线9",
+            "Talking": [
+                {
+                    "SpokenTitle": "[弗洛斯断桥]后面的矿洞曾经挖到过精灵石，你可以去看看，或许有什么收获也说不定啊。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1118,
+            "Decs": "主线9",
+            "Talking": [
+                {
+                    "SpokenTitle": "看来真的有收获，也不是白跑一趟嘛。(奖励强化石)",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1119,
+            "Decs": "主线10",
+            "Talking": [
+                {
+                    "SpokenTitle": "经常到[弗洛斯村]收购货物，最近他们那里不知道从哪来了一堆鱼人，请你前去消灭他们。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1120,
+            "Decs": "主线10",
+            "Talking": [
+                {
+                    "SpokenTitle": "村民叫我替他们感谢你。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1121,
+            "Decs": "主线11",
+            "Talking": [
+                {
+                    "SpokenTitle": "之前你不是提到一个石头巨人么？或许他和石狮子一样，能提取到精灵石。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1122,
+            "Decs": "主线11",
+            "Talking": [
+                {
+                    "SpokenTitle": "居然没有，真奇怪？",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1123,
+            "Decs": "主线12",
+            "Talking": [
+                {
+                    "SpokenTitle": "传说在修建[圣女隐修院]的时候有人把宝物藏在了后面的[疾风之岚]那里，很早以前为了防止普通人进去，设有结界，和[圣女隐修院]一样必须关掉石碑结界才能通过，关掉的方法现在没人记得。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1124,
+            "Decs": "主线12",
+            "Talking": [
+                {
+                    "SpokenTitle": "既然是藏起来的东西肯定不会那么容易被发现的，下次再仔细看看或许会有不一样的发现哦，或许是精灵石也说不定哦",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1125,
+            "Decs": "主线13",
+            "Talking": [
+                {
+                    "SpokenTitle": "[疾风之岚]的石碑结界和[圣女隐修院]的石碑结界一样，除了作为结界的开启机关还记录了关键的文献与资料。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1126,
+            "Decs": "主线13",
+            "Talking": [
+                {
+                    "SpokenTitle": "文献记载，曾有族人把精灵族的祖传宝珠藏在瀑布附近，不过现在好像已经没了踪影。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1127,
+            "Decs": "主线14",
+            "Talking": [
+                {
+                    "SpokenTitle": "精灵族的宝珠似乎被哥布林给略去了，自信搜寻一下看是否能找到。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1128,
+            "Decs": "主线14",
+            "Talking": [
+                {
+                    "SpokenTitle": "果然不愧是蔷薇骑士，这是做给你找回宝珠的奖励。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1129,
+            "Decs": "主线15",
+            "Talking": [
+                {
+                    "SpokenTitle": "哥布林原本是不会法术的，在获取了精灵石的力量之后才拥有了，我想他们应该藏有精灵石的残片，请你帮我回收他们。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1130,
+            "Decs": "主线15",
+            "Talking": [
+                {
+                    "SpokenTitle": "感谢你蔷薇骑士，这是给你的酬劳。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1131,
+            "Decs": "主线16",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1132,
+            "Decs": "主线16",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1133,
+            "Decs": "主线17",
+            "Talking": [
+                {
+                    "SpokenTitle": "整个庇护所不止我和克斯玛两个人，这个地方可不是普通人能来的。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1134,
+            "Decs": "主线17",
+            "Talking": [
+                {
+                    "SpokenTitle": "如果累了可以休息一下，不用那么拼命。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1135,
+            "Decs": "主线18",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1136,
+            "Decs": "主线18",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1137,
+            "Decs": "主线19",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1138,
+            "Decs": "主线19",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1139,
+            "Decs": "主线20",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1140,
+            "Decs": "主线20",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1141,
+            "Decs": "主线21",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1142,
+            "Decs": "主线21",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1143,
+            "Decs": "主线22",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1144,
+            "Decs": "主线22",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2101,
+            "Decs": "主线23",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2102,
+            "Decs": "主线23",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2103,
+            "Decs": "主线24",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2104,
+            "Decs": "主线24",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2105,
+            "Decs": "主线25",
+            "Talking": [
+                {
+                    "SpokenTitle": "主线任务接取",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 2106,
+            "Decs": "主线25",
+            "Talking": [
+                {
+                    "SpokenTitle": "测试任务提交",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "OK",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1201,
+            "Decs": "支线1",
+            "Talking": [
+                {
+                    "SpokenTitle": "你就是出现在庇护所里的那个人类么？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "对没错。",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "听说你要对付混沌军团？就凭你一个人怎么能行，这样吧，如果你能完成我提出的要求，我就会想办法帮你怎么样？",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "好的，没问题",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1202,
+            "Decs": "支线1",
+            "Talking": [
+                {
+                    "SpokenTitle": "想不到居然完成了，真厉害！！！！",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "哪当然，你以为我是谁?",
+                    "DiaTarget": 0
+                }
+            ]
+        },
+        {
+            "ID": 1203,
+            "Decs": "支线2",
+            "Talking": [
+                {
+                    "SpokenTitle": "现在有个挑战交给你，你有信心完成么？",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1204,
+            "Decs": "支线2",
+            "Talking": [
+                {
+                    "SpokenTitle": "果然不愧是蔷薇骑士，我看好你哟。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1205,
+            "Decs": "支线",
+            "Talking": [
+                {
+                    "SpokenTitle": "除了[菲洛希尔],我头一次见到有人类能跑到庇护所里来，你是头一个。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1206,
+            "Decs": "支线",
+            "Talking": [
+                {
+                    "SpokenTitle": "其他人还没回来，等他们回来看到你一定会吓一跳。",
+                    "DiaTarget": 1
+                }
+            ]
+        },
+        {
+            "ID": 1199,
+            "Decs": "主线",
+            "Talking": [
+                {
+                    "SpokenTitle": "别杀我，我是被逼的，并不是真教徒！",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "真的？你们怎么会出现在这种地方？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "主教颁布的命令，说是要搜寻和精灵族有关的一切东西，具体找什么我也不清楚。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "中间的结界是怎么回事？是你们搞的鬼？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "这个我也不清楚，只知道这个石碑突然亮了起来，其他人就被拦在这里过不去了。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "这么说[石碑]是结界的[开关]？",
+                    "DiaTarget": 0
+                },
+                {
+                    "SpokenTitle": "或许[破坏石碑]那个结界就不会运转了，你可以试一下。",
+                    "DiaTarget": 1
+                },
+                {
+                    "SpokenTitle": "[破坏石碑]？看来也只能这样了。",
+                    "DiaTarget": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 #include "mainLoop.h"
 #include "ExtServerMan.h"
+#include "cyaLog.h"
 
 int main(int argc, char* argv[])
 {
@@ -8,6 +9,9 @@ int main(int argc, char* argv[])
 	{
 		p->Initialize();
 	}
+
+	LogInfo(("=========外部服务器启动成功!========="));
+
 	RunMainLoop(NULL);
 	if (p)
 	{

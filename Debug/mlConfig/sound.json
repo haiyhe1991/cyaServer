@@ -1,0 +1,274 @@
+{
+    "Sound": [
+        {
+            "ID": 1500,
+            "Name": "点击",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.jiadian_cue"
+        },
+        {
+            "ID": 1501,
+            "Name": "取消/退出",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.shengji_cue"
+        },
+        {
+            "ID": 1502,
+            "Name": "弹窗",
+            "Type": 2,
+            "SoundSource": "SoundCue.SG_Sound.Interface.lianhuashibai_cue"
+        },
+        {
+            "ID": 1503,
+            "Name": "使用/获取金币",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.lianhuashibai_cue"
+        },
+        {
+            "ID": 1504,
+            "Name": "使用/获取钻石",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.zhuangbeishipin_cue"
+        },
+        {
+            "ID": 1505,
+            "Name": "打开背包",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.zhuangbeifangju_cue"
+        },
+        {
+            "ID": 1506,
+            "Name": "装备替换",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.xiexiafangju_cue"
+        },
+        {
+            "ID": 1507,
+            "Name": "邮件，任务音效",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.quxiao_cue"
+        },
+        {
+            "ID": 1508,
+            "Name": "装备铸造",
+            "Type": 2,
+            "SoundSource": "SG_Sound.weaponsound.15_shuangsha_cue"
+        },
+        {
+            "ID": 1509,
+            "Name": "宝石镶嵌",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.xiexiashipin_cue"
+        },
+        {
+            "ID": 1510,
+            "Name": "宝石取下",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.xiexiawuqi_cue"
+        },
+        {
+            "ID": 1511,
+            "Name": "装备升星",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.shengjixin_cue"
+        },
+        {
+            "ID": 1512,
+            "Name": "合成碎片",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.jiefeng_cue"
+        },
+        {
+            "ID": 1513,
+            "Name": "出售物品",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.chushouwupin_cue"
+        },
+        {
+            "ID": 1514,
+            "Name": "钻石兑换金币",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.goumaiwupin_cue"
+        },
+        {
+            "ID": 1515,
+            "Name": "升级",
+            "Type": 2,
+            "SoundSource": "SG_Sound.weaponsound.121_shengjiemofazhen_cue"
+        },
+        {
+            "ID": 1516,
+            "Name": "提示完成,奖励",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.xuexishengjijineng_cue"
+        },
+        {
+            "ID": 1517,
+            "Name": "转盘抽奖",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.shoujin_cue"
+        },
+        {
+            "ID": 1518,
+            "Name": "使用体力药水",
+            "Type": 2,
+            "SoundSource": "SG_Sound.Interface.heyaoshui_cue"
+        },
+        {
+            "ID": 1519,
+            "Name": "弹出界面",
+            "Type": 2,
+            "SoundSource": "SG_Sound.theuseofprops.zengqiangxiaohaopin_cue"
+        },
+        {
+            "ID": 4500,
+            "Name": "2分12 战争（战斗区域音乐）",
+            "Type": 10,
+            "SoundSource": "Battle"
+        },
+        {
+            "ID": 4501,
+            "Name": "2分14 血红玫瑰",
+            "Type": 10,
+            "SoundSource": "BloodRedRose"
+        },
+        {
+            "ID": 4502,
+            "Name": "4分42 亡灵呓语",
+            "Type": 10,
+            "SoundSource": "DepartedSaintMumbled"
+        },
+        {
+            "ID": 4503,
+            "Name": "2分24 离别诗",
+            "Type": 10,
+            "SoundSource": "DeparturePoetry"
+        },
+        {
+            "ID": 4504,
+            "Name": "1分57 悠远挽歌",
+            "Type": 10,
+            "SoundSource": "FarElegy"
+        },
+        {
+            "ID": 4505,
+            "Name": "2分09 晨风物语",
+            "Type": 10,
+            "SoundSource": "MorningBreezeSound"
+        },
+        {
+            "ID": 4506,
+            "Name": "1分53 星夜幻想曲",
+            "Type": 10,
+            "SoundSource": "StarryNightFantasia"
+        },
+        {
+            "ID": 4507,
+            "Name": "2分13 野性奔驰",
+            "Type": 10,
+            "SoundSource": "WildGallop"
+        },
+        {
+            "ID": 4508,
+            "Name": "2分26 风之门",
+            "Type": 10,
+            "SoundSource": "WindGate"
+        },
+        {
+            "ID": 4509,
+            "Name": "2分36 苏生（UI的背景音乐）",
+            "Type": 10,
+            "SoundSource": "Wake"
+        },
+        {
+            "ID": 1520,
+            "Name": "胜利音效",
+            "Type": 2,
+            "SoundSource": "SGSGameSound_Effect.FightWin_cue"
+        },
+        {
+            "ID": 1521,
+            "Name": "失败音效",
+            "Type": 2,
+            "SoundSource": "SGSGameSound_Effect.FightFailed_cue"
+        },
+        {
+            "ID": 1522,
+            "Name": "升级音效",
+            "Type": 2,
+            "SoundSource": "SGSGameSound_Effect.LevelUP_cue"
+        },
+        {
+            "ID": 4000,
+            "Name": "瀑布",
+            "Type": 4,
+            "SoundSource": "SG_Sound.environmentinteraction.pubu_cue"
+        },
+        {
+            "ID": 4001,
+            "Name": "河流",
+            "Type": 4,
+            "SoundSource": "SG_Sound.environmentinteraction.pubu_cue"
+        },
+        {
+            "ID": 4002,
+            "Name": "拾取金币",
+            "Type": 4,
+            "SoundSource": "SG_Sound.Interface.goumaiwupin_cue"
+        },
+        {
+            "ID": 4003,
+            "Name": "拾取宝石",
+            "Type": 4,
+            "SoundSource": "SG_Sound.Interface.xiexiashipin_cue"
+        },
+        {
+            "ID": 4004,
+            "Name": "拾取装备",
+            "Type": 4,
+            "SoundSource": "SGSGameSound_Effect.Dropped_cue"
+        },
+        {
+            "ID": 4005,
+            "Name": "拾取恢复道具",
+            "Type": 4,
+            "SoundSource": "SGSGameSound_Effect.GetItem_cue"
+        },
+        {
+            "ID": 4006,
+            "Name": "宝箱开启",
+            "Type": 4,
+            "SoundSource": "SG_Sound.environmentinteraction.kaibaoxiang_cue"
+        },
+        {
+            "ID": 4007,
+            "Name": "碰触结界",
+            "Type": 4,
+            "SoundSource": "SG_Sound.Interface.chenggong_cue"
+        },
+        {
+            "ID": 4008,
+            "Name": "攻击木桶",
+            "Type": 4,
+            "SoundSource": "SGSGameSound_Effect.BrokenBeAttk_cue"
+        },
+        {
+            "ID": 4009,
+            "Name": "攻击石碑",
+            "Type": 4,
+            "SoundSource": "SGS_SoundEffect.Stone.Step_Stone_cue2"
+        },
+        {
+            "ID": 4010,
+            "Name": "攻击门",
+            "Type": 4,
+            "SoundSource": "SGS_SoundEffect.BodyFall_something.BodyFall_Normal_02_cue"
+        },
+        {
+            "ID": 4011,
+            "Name": "木制品损坏",
+            "Type": 4,
+            "SoundSource": "SGSGameSound_Effect.Broken_cue"
+        }
+    ]
+}

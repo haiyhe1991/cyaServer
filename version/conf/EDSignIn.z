@@ -1,0 +1,411 @@
+{
+    "IsOpen": 1,
+    "StartTime": "20150801000000",
+    "EndTime": "20250801000000",
+    "Desc": "无",
+    "EDSignIn": [
+        {
+            "Days": 1,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 10000
+                }
+            ],
+            "RewardsDescribe": "金币"
+        },
+        {
+            "Days": 2,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31802,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "小体力药"
+        },
+        {
+            "Days": 3,
+            "DoubleVipLv": 3,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31803,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "中体力药"
+        },
+        {
+            "Days": 4,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31804,
+                    "NUM": 1
+                }
+            ],
+            "RewardsDescribe": "大体力药"
+        },
+        {
+            "Days": 5,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 20
+                }
+            ],
+            "RewardsDescribe": "强化石"
+        },
+        {
+            "Days": 6,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31807,
+                    "NUM": 5
+                }
+            ],
+            "RewardsDescribe": "幸运币"
+        },
+        {
+            "Days": 7,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31805,
+                    "NUM": 5
+                }
+            ],
+            "RewardsDescribe": "扫荡卷轴"
+        },
+        {
+            "Days": 8,
+            "DoubleVipLv": 6,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31801,
+                    "NUM": 3
+                }
+            ],
+            "RewardsDescribe": "复活币"
+        },
+        {
+            "Days": 9,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4601,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "韧性宝石1级"
+        },
+        {
+            "Days": 10,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4501,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "暴击宝石1级"
+        },
+        {
+            "Days": 11,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4201,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "魔法宝石1级"
+        },
+        {
+            "Days": 12,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4101,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "生命宝石1级"
+        },
+        {
+            "Days": 13,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4401,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "防御宝石1级"
+        },
+        {
+            "Days": 14,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4301,
+                    "NUM": 4
+                }
+            ],
+            "RewardsDescribe": "攻击宝石1级"
+        },
+        {
+            "Days": 15,
+            "DoubleVipLv": 9,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 20000
+                }
+            ],
+            "RewardsDescribe": "金币"
+        },
+        {
+            "Days": 16,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31802,
+                    "NUM": 2
+                }
+            ],
+            "RewardsDescribe": "小体力药"
+        },
+        {
+            "Days": 17,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31803,
+                    "NUM": 2
+                }
+            ],
+            "RewardsDescribe": "中体力药"
+        },
+        {
+            "Days": 18,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31804,
+                    "NUM": 2
+                }
+            ],
+            "RewardsDescribe": "大体力药"
+        },
+        {
+            "Days": 19,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 40
+                }
+            ],
+            "RewardsDescribe": "强化石"
+        },
+        {
+            "Days": 20,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31807,
+                    "NUM": 10
+                }
+            ],
+            "RewardsDescribe": "幸运币"
+        },
+        {
+            "Days": 21,
+            "DoubleVipLv": 12,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31805,
+                    "NUM": 10
+                }
+            ],
+            "RewardsDescribe": "扫荡卷轴"
+        },
+        {
+            "Days": 22,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31801,
+                    "NUM": 5
+                }
+            ],
+            "RewardsDescribe": "复活币"
+        },
+        {
+            "Days": 23,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4601,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "韧性宝石1级"
+        },
+        {
+            "Days": 24,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4501,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "暴击宝石1级"
+        },
+        {
+            "Days": 25,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4201,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "魔法宝石1级"
+        },
+        {
+            "Days": 26,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4101,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "生命宝石1级"
+        },
+        {
+            "Days": 27,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4401,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "防御宝石1级"
+        },
+        {
+            "Days": 28,
+            "DoubleVipLv": 15,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 2,
+                    "ID": 4301,
+                    "NUM": 8
+                }
+            ],
+            "RewardsDescribe": "攻击宝石1级"
+        },
+        {
+            "Days": 29,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31805,
+                    "NUM": 20
+                }
+            ],
+            "RewardsDescribe": "扫荡卷轴"
+        },
+        {
+            "Days": 30,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31807,
+                    "NUM": 20
+                }
+            ],
+            "RewardsDescribe": "幸运币"
+        },
+        {
+            "Days": 31,
+            "DoubleVipLv": 0,
+            "Continuous": 0,
+            "Rewards": [
+                {
+                    "TYPE": 3,
+                    "ID": 31801,
+                    "NUM": 10
+                }
+            ],
+            "RewardsDescribe": "复活币"
+        }
+    ]
+}

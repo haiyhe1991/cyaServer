@@ -1,0 +1,2590 @@
+{
+    "Skill": [
+        {
+            "ID": 1,
+            "OrderID": 1,
+            "SkillName": "地面1X",
+            "BelongTo": 1,
+            "ActionID": [
+                101
+            ],
+            "AnimRate": 120,
+            "DataID": 11101,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 5,
+                            "range": 185
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "OrderID": 2,
+            "SkillName": "地面2X",
+            "BelongTo": 1,
+            "ActionID": [
+                102
+            ],
+            "AnimRate": 120,
+            "DataID": 11102,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 7,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "OrderID": 3,
+            "SkillName": "地面3X",
+            "BelongTo": 1,
+            "ActionID": [
+                103
+            ],
+            "AnimRate": 120,
+            "DataID": 11103,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 3,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "OrderID": 4,
+            "SkillName": "地面4X",
+            "BelongTo": 1,
+            "ActionID": [
+                104
+            ],
+            "AnimRate": 120,
+            "DataID": 11104,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 0,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "OrderID": 5,
+            "SkillName": "地面5X",
+            "BelongTo": 1,
+            "ActionID": [
+                105
+            ],
+            "AnimRate": 150,
+            "DataID": 11105,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 11,
+                            "range": 205
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "OrderID": 6,
+            "SkillName": "空中1X",
+            "BelongTo": 1,
+            "ActionID": [
+                106
+            ],
+            "AnimRate": 100,
+            "DataID": 11106,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 4,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "OrderID": 7,
+            "SkillName": "空中2X",
+            "BelongTo": 1,
+            "ActionID": [
+                107
+            ],
+            "AnimRate": 100,
+            "DataID": 11107,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 7,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "OrderID": 8,
+            "SkillName": "空中3X",
+            "BelongTo": 1,
+            "ActionID": [
+                108
+            ],
+            "AnimRate": 100,
+            "DataID": 11108,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 3,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "OrderID": 9,
+            "SkillName": "空中4X",
+            "BelongTo": 1,
+            "ActionID": [
+                109
+            ],
+            "AnimRate": 100,
+            "DataID": 11109,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 0,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 10,
+            "OrderID": 10,
+            "SkillName": "空中5X",
+            "BelongTo": 1,
+            "ActionID": [
+                110
+            ],
+            "AnimRate": 100,
+            "DataID": 11110,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 6,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 11,
+            "OrderID": 11,
+            "SkillName": "Y连招1",
+            "remark": "击倒",
+            "BelongTo": 1,
+            "ActionID": [
+                7001
+            ],
+            "AnimRate": 100,
+            "DataID": 11203,
+            "SkillType": 0,
+            "OperateMode": 1,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 10,
+                            "range": 215
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 12,
+            "OrderID": 12,
+            "SkillName": "Y连招2",
+            "remark": "击退",
+            "BelongTo": 1,
+            "ActionID": [
+                7002
+            ],
+            "AnimRate": 100,
+            "DataID": 11204,
+            "SkillType": 0,
+            "OperateMode": 2,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 11,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 13,
+            "OrderID": 13,
+            "SkillName": "Y连招3",
+            "remark": "破防",
+            "BelongTo": 1,
+            "ActionID": [
+                7003
+            ],
+            "AnimRate": 100,
+            "DataID": 11205,
+            "SkillType": 0,
+            "OperateMode": 3,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 12,
+                            "range": 195
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 14,
+            "OrderID": 14,
+            "SkillName": "Y连招4",
+            "remark": "击飞",
+            "BelongTo": 1,
+            "ActionID": [
+                7004
+            ],
+            "AnimRate": 100,
+            "DataID": 11206,
+            "SkillType": 0,
+            "OperateMode": 4,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 160,
+                            "dirt": 8,
+                            "range": 225
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 15,
+            "OrderID": 15,
+            "SkillName": "Y连招5",
+            "remark": "击飞",
+            "BelongTo": 1,
+            "ActionID": [
+                7005
+            ],
+            "AnimRate": 100,
+            "DataID": 11207,
+            "SkillType": 0,
+            "OperateMode": 5,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 2,
+                            "range": 185
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 5,
+                            "range": 185
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 185,
+                            "dirt": 8,
+                            "range": 330
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 16,
+            "OrderID": 16,
+            "SkillName": "地面Y",
+            "BelongTo": 1,
+            "ActionID": [
+                9000
+            ],
+            "AnimRate": 100,
+            "DataID": 11201,
+            "SkillType": 0,
+            "OperateMode": 6,
+            "SkillFlag": 0,
+            "AttackDistance": 1500,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 2,
+                            "range": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 17,
+            "OrderID": 17,
+            "SkillName": "空中Y",
+            "BelongTo": 1,
+            "ActionID": [
+                10001,
+                10002,
+                10003
+            ],
+            "AnimRate": 100,
+            "DataID": 11202,
+            "SkillType": 0,
+            "OperateMode": 7,
+            "SkillFlag": 3,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 175
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 18,
+            "OrderID": 18,
+            "SkillName": "1段上挑",
+            "BelongTo": 1,
+            "ActionID": [
+                10004
+            ],
+            "AnimRate": 100,
+            "DataID": 11301,
+            "SkillType": 0,
+            "OperateMode": 8,
+            "SkillFlag": 0,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 9,
+                            "range": 175
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 19,
+            "OrderID": 19,
+            "SkillName": "2段上挑",
+            "BelongTo": 1,
+            "ActionID": [
+                10005
+            ],
+            "AnimRate": 100,
+            "DataID": 11302,
+            "SkillType": 0,
+            "OperateMode": 9,
+            "SkillFlag": 0,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 9,
+                            "range": 175
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 20,
+            "OrderID": 20,
+            "SkillName": "格挡",
+            "BelongTo": 1,
+            "ActionID": [
+                10007,
+                10008,
+                10009
+            ],
+            "AnimRate": 100,
+            "DataID": 31402,
+            "SkillType": 0,
+            "OperateMode": 10,
+            "SkillFlag": 0,
+            "AttackDistance": 280,
+            "SkillDynams": []
+        },
+        {
+            "ID": 21,
+            "OrderID": 21,
+            "SkillName": "闪避",
+            "BelongTo": 1,
+            "ActionID": [
+                10010
+            ],
+            "AnimRate": 100,
+            "DataID": 31401,
+            "SkillType": 0,
+            "OperateMode": 11,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 22,
+            "OrderID": 22,
+            "SkillName": "受身",
+            "BelongTo": 1,
+            "ActionID": [
+                10011,
+                10012
+            ],
+            "AnimRate": 100,
+            "DataID": 31404,
+            "SkillType": 0,
+            "OperateMode": 17,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 23,
+            "OrderID": 23,
+            "SkillName": "空中冲刺",
+            "BelongTo": 1,
+            "ActionID": [
+                4
+            ],
+            "AnimRate": 100,
+            "DataID": 31403,
+            "SkillType": 0,
+            "OperateMode": 12,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 24,
+            "OrderID": 24,
+            "SkillName": "跳跃",
+            "BelongTo": 1,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 31301,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 25,
+            "OrderID": 25,
+            "SkillName": "2段跳跃",
+            "BelongTo": 1,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 31302,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 26,
+            "OrderID": 26,
+            "SkillName": "技能1",
+            "remark": "横扫千军",
+            "BelongTo": 1,
+            "ActionID": [
+                6
+            ],
+            "AnimRate": 100,
+            "DataID": 21501,
+            "SkillType": 0,
+            "OperateMode": 13,
+            "SkillFlag": 2,
+            "AttackDistance": 520,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 7,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 3,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 3,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 11,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 10,
+                            "range": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 27,
+            "OrderID": 27,
+            "SkillName": "技能2",
+            "remark": "急速冲击",
+            "BelongTo": 1,
+            "ActionID": [
+                1
+            ],
+            "AnimRate": 100,
+            "DataID": 21601,
+            "SkillType": 0,
+            "OperateMode": 14,
+            "SkillFlag": 2,
+            "AttackDistance": 860,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 8,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 8,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 11,
+                            "range": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 28,
+            "OrderID": 28,
+            "SkillName": "技能3",
+            "remark": "雷霆之刃",
+            "BelongTo": 1,
+            "ActionID": [
+                3
+            ],
+            "AnimRate": 100,
+            "DataID": 21701,
+            "SkillType": 0,
+            "OperateMode": 15,
+            "SkillFlag": 2,
+            "AttackDistance": 500,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 8,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 8,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 90,
+                            "dirt": 11,
+                            "range": 390
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 29,
+            "OrderID": 29,
+            "SkillName": "技能4",
+            "remark": "旋风斩",
+            "BelongTo": 1,
+            "ActionID": [
+                9
+            ],
+            "AnimRate": 100,
+            "DataID": 21801,
+            "SkillType": 0,
+            "OperateMode": 16,
+            "SkillFlag": 2,
+            "AttackDistance": 190,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 1,
+                            "range": 190
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 8,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 30,
+            "OrderID": 1,
+            "SkillName": "地面1X",
+            "BelongTo": 2,
+            "ActionID": [
+                101
+            ],
+            "AnimRate": 120,
+            "DataID": 12101,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 320,
+                            "dirt": 5,
+                            "range": 145
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 31,
+            "OrderID": 2,
+            "SkillName": "地面2X",
+            "BelongTo": 2,
+            "ActionID": [
+                102
+            ],
+            "AnimRate": 120,
+            "DataID": 12102,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 320,
+                            "dirt": 7,
+                            "range": 145
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 32,
+            "OrderID": 3,
+            "SkillName": "地面3X",
+            "BelongTo": 2,
+            "ActionID": [
+                103
+            ],
+            "AnimRate": 120,
+            "DataID": 12103,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 3,
+                            "range": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 33,
+            "OrderID": 4,
+            "SkillName": "地面4X",
+            "BelongTo": 2,
+            "ActionID": [
+                104
+            ],
+            "AnimRate": 120,
+            "DataID": 12104,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 320,
+                            "dirt": 0,
+                            "range": 155
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 34,
+            "OrderID": 5,
+            "SkillName": "地面5X",
+            "BelongTo": 2,
+            "ActionID": [
+                105
+            ],
+            "AnimRate": 150,
+            "DataID": 12105,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 11,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 35,
+            "OrderID": 6,
+            "SkillName": "空中1X",
+            "BelongTo": 2,
+            "ActionID": [
+                106
+            ],
+            "AnimRate": 100,
+            "DataID": 12106,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 4,
+                            "range": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 36,
+            "OrderID": 7,
+            "SkillName": "空中2X",
+            "BelongTo": 2,
+            "ActionID": [
+                107
+            ],
+            "AnimRate": 100,
+            "DataID": 12107,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 7,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 7,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 7,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 37,
+            "OrderID": 8,
+            "SkillName": "空中3X",
+            "BelongTo": 2,
+            "ActionID": [
+                108
+            ],
+            "AnimRate": 100,
+            "DataID": 12108,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 3,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 3,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 3,
+                            "range": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 38,
+            "OrderID": 9,
+            "SkillName": "空中4X",
+            "BelongTo": 2,
+            "ActionID": [
+                109
+            ],
+            "AnimRate": 100,
+            "DataID": 12109,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 0,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 0,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 0,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 0,
+                            "range": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 39,
+            "OrderID": 10,
+            "SkillName": "空中5X",
+            "BelongTo": 2,
+            "ActionID": [
+                110
+            ],
+            "AnimRate": 100,
+            "DataID": 12110,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 1,
+                            "range": 160
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 1,
+                            "range": 160
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 1,
+                            "range": 160
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 1,
+                            "range": 155
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 40,
+            "OrderID": 11,
+            "SkillName": "Y连招1",
+            "remark": "破防",
+            "BelongTo": 2,
+            "ActionID": [
+                7001
+            ],
+            "AnimRate": 100,
+            "DataID": 12203,
+            "SkillType": 0,
+            "OperateMode": 1,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 320,
+                            "dirt": 12,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 41,
+            "OrderID": 12,
+            "SkillName": "Y连招2",
+            "remark": "击退",
+            "BelongTo": 2,
+            "ActionID": [
+                7002
+            ],
+            "AnimRate": 100,
+            "DataID": 12204,
+            "SkillType": 0,
+            "OperateMode": 2,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 330,
+                            "dirt": 11,
+                            "range": 175
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 42,
+            "OrderID": 13,
+            "SkillName": "Y连招3",
+            "remark": "挑起",
+            "BelongTo": 2,
+            "ActionID": [
+                7003
+            ],
+            "AnimRate": 100,
+            "DataID": 12205,
+            "SkillType": 0,
+            "OperateMode": 3,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 9,
+                            "range": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 43,
+            "OrderID": 14,
+            "SkillName": "Y连招4",
+            "remark": "击飞",
+            "BelongTo": 2,
+            "ActionID": [
+                7004
+            ],
+            "AnimRate": 100,
+            "DataID": 12206,
+            "SkillType": 0,
+            "OperateMode": 4,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 175,
+                            "dirt": 8,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 44,
+            "OrderID": 15,
+            "SkillName": "Y连招5",
+            "remark": "击飞",
+            "BelongTo": 2,
+            "ActionID": [
+                7005
+            ],
+            "AnimRate": 100,
+            "DataID": 12207,
+            "SkillType": 0,
+            "OperateMode": 5,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 2,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 5,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 8,
+                            "range": 390
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 45,
+            "OrderID": 16,
+            "SkillName": "地面Y",
+            "BelongTo": 2,
+            "ActionID": [
+                9000
+            ],
+            "AnimRate": 100,
+            "DataID": 12201,
+            "SkillType": 0,
+            "OperateMode": 6,
+            "SkillFlag": 0,
+            "AttackDistance": 1500,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 2,
+                            "range": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 46,
+            "OrderID": 17,
+            "SkillName": "空中Y",
+            "BelongTo": 2,
+            "ActionID": [
+                10001,
+                10002,
+                10003
+            ],
+            "AnimRate": 100,
+            "DataID": 12202,
+            "SkillType": 0,
+            "OperateMode": 7,
+            "SkillFlag": 3,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 155
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 47,
+            "OrderID": 18,
+            "SkillName": "1段上挑",
+            "BelongTo": 2,
+            "ActionID": [
+                10004
+            ],
+            "AnimRate": 100,
+            "DataID": 12301,
+            "SkillType": 0,
+            "OperateMode": 8,
+            "SkillFlag": 0,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 9,
+                            "range": 145
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 48,
+            "OrderID": 19,
+            "SkillName": "2段上挑",
+            "BelongTo": 2,
+            "ActionID": [
+                10005
+            ],
+            "AnimRate": 100,
+            "DataID": 12302,
+            "SkillType": 0,
+            "OperateMode": 9,
+            "SkillFlag": 0,
+            "AttackDistance": 260,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 9,
+                            "range": 145
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 49,
+            "OrderID": 20,
+            "SkillName": "格挡",
+            "BelongTo": 2,
+            "ActionID": [
+                10007,
+                10008,
+                10009
+            ],
+            "AnimRate": 100,
+            "DataID": 32402,
+            "SkillType": 0,
+            "OperateMode": 10,
+            "SkillFlag": 0,
+            "AttackDistance": 260,
+            "SkillDynams": []
+        },
+        {
+            "ID": 50,
+            "OrderID": 21,
+            "SkillName": "闪避",
+            "BelongTo": 2,
+            "ActionID": [
+                10010
+            ],
+            "AnimRate": 100,
+            "DataID": 32401,
+            "SkillType": 0,
+            "OperateMode": 11,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 51,
+            "OrderID": 22,
+            "SkillName": "受身",
+            "BelongTo": 2,
+            "ActionID": [
+                10011,
+                10012
+            ],
+            "AnimRate": 100,
+            "DataID": 32404,
+            "SkillType": 0,
+            "OperateMode": 17,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 52,
+            "OrderID": 23,
+            "SkillName": "空中冲刺",
+            "BelongTo": 2,
+            "ActionID": [
+                4
+            ],
+            "AnimRate": 100,
+            "DataID": 32403,
+            "SkillType": 0,
+            "OperateMode": 12,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 53,
+            "OrderID": 24,
+            "SkillName": "跳跃",
+            "BelongTo": 2,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 32301,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 54,
+            "OrderID": 25,
+            "SkillName": "2段跳跃",
+            "BelongTo": 2,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 32302,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 55,
+            "OrderID": 26,
+            "SkillName": "技能1",
+            "remark": "霜刃斩",
+            "BelongTo": 2,
+            "ActionID": [
+                2
+            ],
+            "AnimRate": 100,
+            "DataID": 22501,
+            "SkillType": 0,
+            "OperateMode": 13,
+            "SkillFlag": 2,
+            "AttackDistance": 650,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 14,
+                            "range": 650
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 4,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 4,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 11,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 8,
+                            "range": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 56,
+            "OrderID": 27,
+            "SkillName": "技能2",
+            "remark": "影之刃",
+            "BelongTo": 2,
+            "ActionID": [
+                1
+            ],
+            "AnimRate": 100,
+            "DataID": 22601,
+            "SkillType": 0,
+            "OperateMode": 14,
+            "SkillFlag": 2,
+            "AttackDistance": 860,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 8,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 8,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 120,
+                            "dirt": 11,
+                            "range": 390
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 57,
+            "OrderID": 28,
+            "SkillName": "技能3",
+            "remark": "星尘陨落",
+            "BelongTo": 2,
+            "ActionID": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005
+            ],
+            "AnimRate": 100,
+            "DataID": 22701,
+            "SkillType": 0,
+            "OperateMode": 15,
+            "SkillFlag": 2,
+            "AttackDistance": 300,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 240,
+                            "dirt": 9,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 5,
+                            "range": 220
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 5,
+                            "range": 220
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 5,
+                            "range": 220
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 8,
+                            "range": 200
+                        },
+                        {
+                            "angle": 180,
+                            "dirt": 13,
+                            "range": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 58,
+            "OrderID": 29,
+            "SkillName": "技能4",
+            "remark": "旋风落刃",
+            "BelongTo": 2,
+            "ActionID": [
+                6001,
+                6002,
+                6003
+            ],
+            "AnimRate": 100,
+            "DataID": 22801,
+            "SkillType": 0,
+            "OperateMode": 16,
+            "SkillFlag": 2,
+            "AttackDistance": 650,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 11,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 11,
+                            "range": 200
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 11,
+                            "range": 220
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 8,
+                            "range": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 59,
+            "OrderID": 1,
+            "SkillName": "地面1X",
+            "BelongTo": 3,
+            "ActionID": [
+                101
+            ],
+            "AnimRate": 120,
+            "DataID": 13101,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 5,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 60,
+            "OrderID": 2,
+            "SkillName": "地面2X",
+            "BelongTo": 3,
+            "ActionID": [
+                102
+            ],
+            "AnimRate": 120,
+            "DataID": 13102,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 2,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 61,
+            "OrderID": 3,
+            "SkillName": "地面3X",
+            "BelongTo": 3,
+            "ActionID": [
+                103
+            ],
+            "AnimRate": 120,
+            "DataID": 13103,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 7,
+                            "range": 170
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 62,
+            "OrderID": 4,
+            "SkillName": "地面4X",
+            "BelongTo": 3,
+            "ActionID": [
+                104
+            ],
+            "AnimRate": 120,
+            "DataID": 13104,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 150,
+                            "dirt": 1,
+                            "range": 180
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 63,
+            "OrderID": 5,
+            "SkillName": "地面5X",
+            "BelongTo": 3,
+            "ActionID": [
+                105
+            ],
+            "AnimRate": 150,
+            "DataID": 13105,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 270,
+                            "dirt": 11,
+                            "range": 185
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 64,
+            "OrderID": 6,
+            "SkillName": "空中1X",
+            "BelongTo": 3,
+            "ActionID": [
+                106
+            ],
+            "AnimRate": 100,
+            "DataID": 13106,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 5,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 65,
+            "OrderID": 7,
+            "SkillName": "空中2X",
+            "BelongTo": 3,
+            "ActionID": [
+                107
+            ],
+            "AnimRate": 100,
+            "DataID": 13107,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 7,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 66,
+            "OrderID": 8,
+            "SkillName": "空中3X",
+            "BelongTo": 3,
+            "ActionID": [
+                108
+            ],
+            "AnimRate": 100,
+            "DataID": 13108,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 5,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 67,
+            "OrderID": 9,
+            "SkillName": "空中4X",
+            "BelongTo": 3,
+            "ActionID": [
+                109
+            ],
+            "AnimRate": 100,
+            "DataID": 13109,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 1,
+                            "range": 180
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 68,
+            "OrderID": 10,
+            "SkillName": "空中5X",
+            "BelongTo": 3,
+            "ActionID": [
+                110
+            ],
+            "AnimRate": 100,
+            "DataID": 13110,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 1,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 7,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 69,
+            "OrderID": 11,
+            "SkillName": "Y连招1",
+            "remark": "鞭尸",
+            "BelongTo": 3,
+            "ActionID": [
+                7001
+            ],
+            "AnimRate": 100,
+            "DataID": 13203,
+            "SkillType": 0,
+            "OperateMode": 1,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 240,
+                            "dirt": 12,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 70,
+            "OrderID": 12,
+            "SkillName": "Y连招2",
+            "remark": "破防",
+            "BelongTo": 3,
+            "ActionID": [
+                7002
+            ],
+            "AnimRate": 100,
+            "DataID": 13204,
+            "SkillType": 0,
+            "OperateMode": 2,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 10,
+                            "range": 185
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 71,
+            "OrderID": 13,
+            "SkillName": "Y连招3",
+            "remark": "击倒",
+            "BelongTo": 3,
+            "ActionID": [
+                7003
+            ],
+            "AnimRate": 100,
+            "DataID": 13205,
+            "SkillType": 0,
+            "OperateMode": 3,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 8,
+                            "range": 190
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 72,
+            "OrderID": 14,
+            "SkillName": "Y连招4",
+            "remark": "击飞",
+            "BelongTo": 3,
+            "ActionID": [
+                7004
+            ],
+            "AnimRate": 100,
+            "DataID": 13206,
+            "SkillType": 0,
+            "OperateMode": 4,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 280,
+                            "dirt": 9,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 73,
+            "OrderID": 15,
+            "SkillName": "Y连招5",
+            "remark": "挑起",
+            "BelongTo": 3,
+            "ActionID": [
+                7005
+            ],
+            "AnimRate": 100,
+            "DataID": 13207,
+            "SkillType": 0,
+            "OperateMode": 5,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 4,
+                            "range": 170
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 4,
+                            "range": 390
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 8,
+                            "range": 170
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 74,
+            "OrderID": 16,
+            "SkillName": "地面Y",
+            "remark": "挑起",
+            "BelongTo": 3,
+            "ActionID": [
+                9000
+            ],
+            "AnimRate": 100,
+            "DataID": 13201,
+            "SkillType": 0,
+            "OperateMode": 6,
+            "SkillFlag": 0,
+            "AttackDistance": 1500,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 2,
+                            "range": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 75,
+            "OrderID": 17,
+            "SkillName": "空中Y",
+            "BelongTo": 3,
+            "ActionID": [
+                10001,
+                10002,
+                10003
+            ],
+            "AnimRate": 100,
+            "DataID": 13202,
+            "SkillType": 0,
+            "OperateMode": 7,
+            "SkillFlag": 3,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 76,
+            "OrderID": 18,
+            "SkillName": "1段上挑",
+            "BelongTo": 3,
+            "ActionID": [
+                10004
+            ],
+            "AnimRate": 100,
+            "DataID": 13301,
+            "SkillType": 0,
+            "OperateMode": 8,
+            "SkillFlag": 0,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 9,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 77,
+            "OrderID": 19,
+            "SkillName": "2段上挑",
+            "BelongTo": 3,
+            "ActionID": [
+                10005
+            ],
+            "AnimRate": 100,
+            "DataID": 13302,
+            "SkillType": 0,
+            "OperateMode": 9,
+            "SkillFlag": 0,
+            "AttackDistance": 280,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 210,
+                            "dirt": 9,
+                            "range": 160
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 78,
+            "OrderID": 20,
+            "SkillName": "格挡",
+            "BelongTo": 3,
+            "ActionID": [
+                10007,
+                10008,
+                10009
+            ],
+            "AnimRate": 100,
+            "DataID": 33402,
+            "SkillType": 0,
+            "OperateMode": 10,
+            "SkillFlag": 0,
+            "AttackDistance": 300,
+            "SkillDynams": []
+        },
+        {
+            "ID": 79,
+            "OrderID": 21,
+            "SkillName": "闪避",
+            "BelongTo": 3,
+            "ActionID": [
+                10010
+            ],
+            "AnimRate": 100,
+            "DataID": 33401,
+            "SkillType": 0,
+            "OperateMode": 11,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 80,
+            "OrderID": 22,
+            "SkillName": "受身",
+            "BelongTo": 3,
+            "ActionID": [
+                10011,
+                10012
+            ],
+            "AnimRate": 100,
+            "DataID": 33404,
+            "SkillType": 0,
+            "OperateMode": 17,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 81,
+            "OrderID": 23,
+            "SkillName": "空中冲刺",
+            "BelongTo": 3,
+            "ActionID": [
+                4
+            ],
+            "AnimRate": 100,
+            "DataID": 33403,
+            "SkillType": 0,
+            "OperateMode": 12,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 82,
+            "OrderID": 24,
+            "SkillName": "跳跃",
+            "BelongTo": 3,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 33301,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 83,
+            "OrderID": 25,
+            "SkillName": "2段跳跃",
+            "BelongTo": 3,
+            "ActionID": [],
+            "AnimRate": 100,
+            "DataID": 33302,
+            "SkillType": 0,
+            "OperateMode": 0,
+            "SkillFlag": 0,
+            "SkillDynams": []
+        },
+        {
+            "ID": 84,
+            "OrderID": 26,
+            "SkillName": "技能1",
+            "remark": "飓风反击",
+            "BelongTo": 3,
+            "ActionID": [
+                3
+            ],
+            "AnimRate": 100,
+            "DataID": 23501,
+            "SkillType": 0,
+            "OperateMode": 13,
+            "SkillFlag": 2,
+            "AttackDistance": 530,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 4,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 0,
+                            "range": 150
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 0,
+                            "dirt": 8,
+                            "range": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 85,
+            "OrderID": 27,
+            "SkillName": "技能2",
+            "remark": "盾之撞击",
+            "BelongTo": 3,
+            "ActionID": [
+                1
+            ],
+            "AnimRate": 100,
+            "DataID": 23601,
+            "SkillType": 0,
+            "OperateMode": 14,
+            "SkillFlag": 2,
+            "AttackDistance": 860,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 8,
+                            "range": 260
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 8,
+                            "range": 260
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 11,
+                            "range": 260
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 86,
+            "OrderID": 28,
+            "SkillName": "技能3",
+            "remark": "旋影之刃",
+            "BelongTo": 3,
+            "ActionID": [
+                6
+            ],
+            "AnimRate": 100,
+            "DataID": 23701,
+            "SkillType": 0,
+            "OperateMode": 15,
+            "SkillFlag": 2,
+            "AttackDistance": 640,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 180,
+                            "dirt": 12,
+                            "range": 130
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 12,
+                            "range": 130
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 87,
+            "OrderID": 29,
+            "SkillName": "技能4",
+            "remark": "震荡四方",
+            "BelongTo": 3,
+            "ActionID": [
+                11
+            ],
+            "AnimRate": 100,
+            "DataID": 23801,
+            "SkillType": 0,
+            "OperateMode": 16,
+            "SkillFlag": 2,
+            "AttackDistance": 470,
+            "SkillDynams": [
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 12,
+                            "range": 240
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 10,
+                            "range": 250
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 260
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 260
+                        }
+                    ]
+                },
+                {
+                    "SkillDynam": [
+                        {
+                            "angle": 360,
+                            "dirt": 13,
+                            "range": 390
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

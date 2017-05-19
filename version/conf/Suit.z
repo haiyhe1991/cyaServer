@@ -1,0 +1,140 @@
+{
+    "Suit": [
+        {
+            "ID": 1,
+            "IconID": 19001,
+            "SuitName": "贵族套装",
+            "Desc": "10级套装<br>精钢装备加贵族装备碎片合成",
+            "SuitLV": 1,
+            "Quality": 2,
+            "EquipArray": [
+                10121,
+                10122,
+                10123,
+                10124,
+                10125,
+                10126
+            ],
+            "Attributes": [
+                {
+                    "Type": 1,
+                    "Value": 1173
+                },
+                {
+                    "Type": 2,
+                    "Value": 129
+                },
+                {
+                    "Type": 3,
+                    "Value": 97
+                },
+                {
+                    "Type": 4,
+                    "Value": 60
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "IconID": 19002,
+            "SuitName": "蔷薇套装",
+            "Desc": "20级套装<br>贵族装备加蔷薇装备碎片合成",
+            "SuitLV": 2,
+            "Quality": 3,
+            "EquipArray": [
+                10131,
+                10132,
+                10133,
+                10134,
+                10135,
+                10136
+            ],
+            "Attributes": [
+                {
+                    "Type": 1,
+                    "Value": 2143
+                },
+                {
+                    "Type": 2,
+                    "Value": 239
+                },
+                {
+                    "Type": 3,
+                    "Value": 177
+                },
+                {
+                    "Type": 4,
+                    "Value": 110
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "IconID": 19003,
+            "SuitName": "冰霜套装",
+            "Desc": "30级套装<br>蔷薇装备加冰霜装备碎片合成",
+            "SuitLV": 3,
+            "Quality": 4,
+            "EquipArray": [
+                10141,
+                10142,
+                10143,
+                10144,
+                10145,
+                10146
+            ],
+            "Attributes": [
+                {
+                    "Type": 1,
+                    "Value": 3113
+                },
+                {
+                    "Type": 2,
+                    "Value": 349
+                },
+                {
+                    "Type": 3,
+                    "Value": 257
+                },
+                {
+                    "Type": 4,
+                    "Value": 160
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "IconID": 19004,
+            "SuitName": "万灵套装",
+            "Desc": "40级套装<br>冰霜装备加万灵装备碎片合成",
+            "SuitLV": 4,
+            "Quality": 4,
+            "EquipArray": [
+                10231,
+                10232,
+                10233,
+                10234,
+                10235,
+                10236
+            ],
+            "Attributes": [
+                {
+                    "Type": 1,
+                    "Value": 4083
+                },
+                {
+                    "Type": 2,
+                    "Value": 459
+                },
+                {
+                    "Type": 3,
+                    "Value": 337
+                },
+                {
+                    "Type": 4,
+                    "Value": 210
+                }
+            ]
+        }
+    ]
+}

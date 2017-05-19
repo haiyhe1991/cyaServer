@@ -36,9 +36,6 @@
     <ClInclude Include="config\include\ActivityStageCfg.h">
       <Filter>Config\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="config\source\ChainSoulFragmentCfg.h">
-      <Filter>Config\Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="config\include\ChapterCfg.h">
       <Filter>Config\Header Files</Filter>
     </ClInclude>
@@ -53,6 +50,270 @@
     </ClInclude>
     <ClInclude Include="config\include\EquipComposeCfg.h">
       <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\FashionCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\FragmentCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GameDropCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GameTypeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GemCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GiftBagCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GoldExchangeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\GreedTheLiveCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\InitRoleGiveCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\InstCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\LimitedTimeActivityCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\LvRankingCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\MallCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\MaterialCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\MonsterAttributeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\MonsterCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\MonsterTypeConfig.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\NoticeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\PlayerCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\QualityCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RandInstSysCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RankRewardCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RechargeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\ReviveCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RiseStarCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RoleBasicCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\RouletteCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\SignInCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\SkillCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\StrengthenAttriCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\StrengthenCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\SuitCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\TaskCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\TitleCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\UnlockCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\VIPCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\VitExchangeCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameCfgFileMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config\include\ChainSoulFragmentCfg.h">
+      <Filter>Config\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConfigFileMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ActitvityInstMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DBSClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RoleInfos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PlayerActionMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PlayerInfoMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RolesInfoMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AchievementMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ActitvityMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CashDBMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CompetitiveModeMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConsumeProduceMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DailyTaskMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\EmailCleanMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FriendMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FunModuleMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GlobalTimerTaskMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GMLogicProcMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GoldExchangeMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GuardIconMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GuildMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GWSClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GWSClientMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\InstFinHistoryMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\InstOccupyNotify.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\InstRankInfoMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LadderRankMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LogicLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LuaScriptMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MallLimitBuyMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MessageTipsMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MLogicProcessMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\OneVsOneMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\OnlineSingnInMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PermanenDataMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PersonalRandInstMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PersonalTimerTaskMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ShoppingMallMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SystemNoticeMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RefreshDBMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RecoveryVitMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RechargeMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RankRewardMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PropSellMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TaskFinHistoryMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UnlockContentMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\VIPMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\VitExchangeMan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WorldBossMan.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -85,6 +346,270 @@
     </ClCompile>
     <ClCompile Include="config\source\EquipComposeCfg.cpp">
       <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\FragmentCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GameDropCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GameTypeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GemCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GiftBagCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GoldExchangeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\GreedTheLiveCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\InitRoleGiveCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\InstCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\LimitedTimeActivityCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\LvRankingCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\MallCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\MaterialCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\MonsterAttributeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\MonsterCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\MonsterTypeConfig.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\NoticeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\PlayerCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\QualityCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RandInstSysCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RankRewardCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RechargeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\ReviveCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RiseStarCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RoleBasicCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\RouletteCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\SignInCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\SkillCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\StrengthenAttriCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\StrengthenCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\FashionCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\SuitCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\TaskCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\TitleCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\UnlockCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\VIPCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="config\source\VitExchangeCfg.cpp">
+      <Filter>Config\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GameCfgFileMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ConfigFileMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ActitvityInstMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\DBSClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RoleInfos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PlayerActionMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PlayerInfoMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RolesInfoMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\AchievementMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ActitvityMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CashDBMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CompetitiveModeMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ConsumeProduceMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\DailyTaskMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\EmailCleanMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FriendMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FunModuleMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GlobalTimerTaskMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GMLogicProcMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GoldExchangeMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GuardIconMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GuildMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GWSClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GWSClientMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\InstOccupyNotify.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\InstFinHistoryMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\InstRankInfoMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LadderRankMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LogicLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LuaScriptMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MallLimitBuyMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MessageTipsMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MLogicProcessMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\OneVsOneMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\OnlineSingnInMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PermanenDataMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PersonalRandInstMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PersonalTimerTaskMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ShoppingMallMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\SystemNoticeMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RefreshDBMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RecoveryVitMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RechargeMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\RankRewardMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PropSellMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\TaskFinHistoryMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\UnlockContentMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\VIPMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\VitExchangeMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\WorldBossMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

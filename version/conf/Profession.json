@@ -1,0 +1,19 @@
+{
+   "Profession" : [
+      {
+         "DescID" : 14101,
+         "ID" : 1,
+         "ProfessionName" : "´ó½£"
+      },
+      {
+         "DescID" : 14102,
+         "ID" : 2,
+         "ProfessionName" : "Ë«½£"
+      },
+      {
+         "DescID" : 14103,
+         "ID" : 3,
+         "ProfessionName" : "½£¶Ü"
+      }
+   ]
+}

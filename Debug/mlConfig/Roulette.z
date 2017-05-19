@@ -1,0 +1,219 @@
+{
+    "Roulette": {
+        "Desc": "轮盘活动，每日0点重置，每天赠送3次机会，抽完所有物品可获得中间大奖",
+        "StartTime": "20150801000000",
+        "EndTime": "20250801000000",
+        "RefreshSpend": 100,
+        "IsRest": 1,
+        "GiveNum": 3,
+        "RewardsNum": 14,
+        "AwardsNum": 1,
+        "Rewards": [
+            {
+                "Type": 6,
+                "ID": 0,
+                "Name": "金币1",
+                "Num": 20000,
+                "Chance": 500
+            },
+            {
+                "Type": 3,
+                "ID": 31807,
+                "Name": "幸运币",
+                "Num": 15,
+                "Chance": 20
+            },
+            {
+                "Type": 3,
+                "ID": 31804,
+                "Name": "大体力药",
+                "Num": 3,
+                "Chance": 20
+            },
+            {
+                "Type": 3,
+                "ID": 31002,
+                "Name": "强化石",
+                "Num": 50,
+                "Chance": 30
+            },
+            {
+                "Type": 3,
+                "ID": 31802,
+                "Name": "小体力药",
+                "Num": 3,
+                "Chance": 50
+            },
+            {
+                "Type": 3,
+                "ID": 31803,
+                "Name": "中体力药",
+                "Num": 3,
+                "Chance": 30
+            },
+            {
+                "Type": 3,
+                "ID": 31801,
+                "Name": "复活币",
+                "Num": 5,
+                "Chance": 20
+            },
+            {
+                "Type": 3,
+                "ID": 31805,
+                "Name": "扫荡卷轴",
+                "Num": 10,
+                "Chance": 30
+            },
+            {
+                "Type": 2,
+                "ID": 4101,
+                "Name": "生命宝石1级",
+                "Num": 4,
+                "Chance": 50
+            },
+            {
+                "Type": 2,
+                "ID": 4201,
+                "Name": "魔法宝石1级",
+                "Num": 4,
+                "Chance": 50
+            },
+            {
+                "Type": 2,
+                "ID": 4301,
+                "Name": "攻击宝石1级",
+                "Num": 4,
+                "Chance": 50
+            },
+            {
+                "Type": 2,
+                "ID": 4401,
+                "Name": "防御宝石1级",
+                "Num": 4,
+                "Chance": 50
+            },
+            {
+                "Type": 2,
+                "ID": 4501,
+                "Name": "暴击宝石1级",
+                "Num": 4,
+                "Chance": 50
+            },
+            {
+                "Type": 2,
+                "ID": 4601,
+                "Name": "韧性宝石1级",
+                "Num": 4,
+                "Chance": 50
+            }
+        ],
+        "Awards": [
+            {
+                "Type": 3,
+                "ID": 31805,
+                "Name": "扫荡卷轴",
+                "Num": 50,
+                "Chance": 40
+            },
+            {
+                "Type": 3,
+                "ID": 31801,
+                "Name": "复活币",
+                "Num": 50,
+                "Chance": 20
+            },
+            {
+                "Type": 6,
+                "ID": 0,
+                "Name": "金币1",
+                "Num": 1000000,
+                "Chance": 10
+            },
+            {
+                "Type": 2,
+                "ID": 4102,
+                "Name": "生命宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4103,
+                "Name": "生命宝石3级",
+                "Num": 3,
+                "Chance": 55
+            },
+            {
+                "Type": 2,
+                "ID": 4202,
+                "Name": "魔法宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4203,
+                "Name": "魔法宝石3级",
+                "Num": 3,
+                "Chance": 55
+            },
+            {
+                "Type": 2,
+                "ID": 4302,
+                "Name": "攻击宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4303,
+                "Name": "攻击宝石3级",
+                "Num": 3,
+                "Chance": 55
+            },
+            {
+                "Type": 2,
+                "ID": 4402,
+                "Name": "防御宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4403,
+                "Name": "防御宝石3级",
+                "Num": 3,
+                "Chance": 55
+            },
+            {
+                "Type": 2,
+                "ID": 4502,
+                "Name": "暴击宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4503,
+                "Name": "暴击宝石3级",
+                "Num": 3,
+                "Chance": 55
+            },
+            {
+                "Type": 2,
+                "ID": 4602,
+                "Name": "韧性宝石2级",
+                "Num": 3,
+                "Chance": 100
+            },
+            {
+                "Type": 2,
+                "ID": 4603,
+                "Name": "韧性宝石3级",
+                "Num": 3,
+                "Chance": 55
+            }
+        ]
+    }
+}

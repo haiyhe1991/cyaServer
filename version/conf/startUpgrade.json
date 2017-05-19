@@ -1,0 +1,184 @@
+{
+    "StartUpgrade": [
+        {
+            "Level": 1,
+            "ExtraEffect": 1.01,
+            "GoldCost": 10000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 20,
+            "SuccessRate": 100,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 2,
+            "ExtraEffect": 1.02,
+            "GoldCost": 11000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 25,
+            "SuccessRate": 90,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 3,
+            "ExtraEffect": 1.03,
+            "GoldCost": 12000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 30,
+            "SuccessRate": 80,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 4,
+            "ExtraEffect": 1.04,
+            "GoldCost": 13000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 35,
+            "SuccessRate": 70,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 5,
+            "ExtraEffect": 1.05,
+            "GoldCost": 14000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 40,
+            "SuccessRate": 60,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 6,
+            "ExtraEffect": 1.07,
+            "GoldCost": 15000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 45,
+            "SuccessRate": 50,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 7,
+            "ExtraEffect": 1.09,
+            "GoldCost": 16000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 50,
+            "SuccessRate": 45,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 8,
+            "ExtraEffect": 1.11,
+            "GoldCost": 17000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 55,
+            "SuccessRate": 40,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 9,
+            "ExtraEffect": 1.13,
+            "GoldCost": 18000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 60,
+            "SuccessRate": 35,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 10,
+            "ExtraEffect": 1.15,
+            "GoldCost": 19000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 65,
+            "SuccessRate": 30,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 11,
+            "ExtraEffect": 1.18,
+            "GoldCost": 20000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 70,
+            "SuccessRate": 25,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 12,
+            "ExtraEffect": 1.21,
+            "GoldCost": 21000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 75,
+            "SuccessRate": 20,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 13,
+            "ExtraEffect": 1.24,
+            "GoldCost": 22000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 80,
+            "SuccessRate": 15,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 14,
+            "ExtraEffect": 1.27,
+            "GoldCost": 23000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 85,
+            "SuccessRate": 10,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 15,
+            "ExtraEffect": 1.3,
+            "GoldCost": 24000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 90,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 16,
+            "ExtraEffect": 1.34,
+            "GoldCost": 25000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 95,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 17,
+            "ExtraEffect": 1.38,
+            "GoldCost": 26000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 100,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 18,
+            "ExtraEffect": 1.42,
+            "GoldCost": 27000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 105,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 19,
+            "ExtraEffect": 1.46,
+            "GoldCost": 28000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 110,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        },
+        {
+            "Level": 20,
+            "ExtraEffect": 1.5,
+            "GoldCost": 29000,
+            "PlayerLevelLimit": 0,
+            "StarStone": 115,
+            "SuccessRate": 5,
+            "BreakageRate": 100
+        }
+    ]
+}

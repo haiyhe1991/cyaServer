@@ -1,0 +1,160 @@
+{
+    "GoodsFunc": [
+        {
+            "ID": 1,
+            "Name": "强化",
+            "Description": "用于强化装备，提升装备数值，点击可打开强化界面",
+            "Value": 0
+        },
+        {
+            "ID": 2,
+            "Name": "升星",
+            "Description": "用于升星装备，提升装备数值，点击可打开升星界面",
+            "Value": 0
+        },
+        {
+            "ID": 3,
+            "Name": "提高升星成功率",
+            "Description": "用于升星装备，提高升星成功率，点击可打开升星界面",
+            "Value": 0
+        },
+        {
+            "ID": 4,
+            "Name": "降低升星破损率",
+            "Description": "用于升星装备，降低升星破损率，，点击可打开升星界面",
+            "Value": 0
+        },
+        {
+            "ID": 5,
+            "Name": "宝石合成",
+            "Description": "可以提高宝石等级合成下一阶宝石，点击可打开宝石合成界面",
+            "Value": 4
+        },
+        {
+            "ID": 6,
+            "Name": "战斗使用",
+            "Description": "可以在战斗中使用",
+            "Value": 0
+        },
+        {
+            "ID": 7,
+            "Name": "镶嵌",
+            "Description": "用于镶嵌到装备中，点击可打开镶嵌界面",
+            "Value": 0
+        },
+        {
+            "ID": 8,
+            "Name": "装备合成",
+            "Description": "用于合成装备，点击可打开装备合成界面",
+            "Value": 0
+        },
+        {
+            "ID": 9,
+            "Name": "非战斗使用",
+            "Description": "可以在主城使用",
+            "Value": 0
+        },
+        {
+            "ID": 10,
+            "Name": "复活",
+            "Description": "可以在战斗中复活，复活后回满HP和MP",
+            "Value": 0
+        },
+        {
+            "ID": 11,
+            "Name": "回复HP",
+            "Description": "可以回复HP",
+            "Value": 0
+        },
+        {
+            "ID": 12,
+            "Name": "回复体力值",
+            "Description": "可以回复体力",
+            "Value": 0
+        },
+        {
+            "ID": 13,
+            "Name": "回复MP",
+            "Description": "可以回复MP",
+            "Value": 0
+        },
+        {
+            "ID": 14,
+            "Name": "扫荡",
+            "Description": "用于副本扫荡，点击打开副本界面",
+            "Value": 0
+        },
+        {
+            "ID": 15,
+            "Name": "扩展背包",
+            "Description": "可以扩展背包格子",
+            "Value": 0
+        },
+        {
+            "ID": 16,
+            "Name": "幸运抽奖",
+            "Description": "用于轮盘活动抽奖，点击打开抽奖界面",
+            "Value": 0
+        },
+        {
+            "ID": 100,
+            "Name": "天匠神锤",
+            "Description": "开启装备强化等功能",
+            "Value": 0
+        },
+        {
+            "ID": 101,
+            "Name": "冥想波动",
+            "Description": "看到关卡中隐藏的物品",
+            "Value": 0
+        },
+        {
+            "ID": 102,
+            "Name": "破风之刃",
+            "Description": "通过风系魔法造成巨大风阻的区域",
+            "Value": 0
+        },
+        {
+            "ID": 103,
+            "Name": "妖精羽翼",
+            "Description": "二段跳",
+            "Value": 0
+        },
+        {
+            "ID": 104,
+            "Name": "浮空冲击",
+            "Description": "浮空状态冲刺",
+            "Value": 0
+        },
+        {
+            "ID": 105,
+            "Name": "幻音竖琴",
+            "Description": "通过有声波魔法结界的区域",
+            "Value": 0
+        },
+        {
+            "ID": 106,
+            "Name": "曼巴蛇行",
+            "Description": "快速滑行通过低矮区域",
+            "Value": 0
+        },
+        {
+            "ID": 107,
+            "Name": "人鱼祝福",
+            "Description": "通过有毒水域",
+            "Value": 0
+        },
+        {
+            "ID": 108,
+            "Name": "羽蝶之魂",
+            "Description": "变为蝴蝶",
+            "Value": 0
+        },
+        {
+            "ID": 109,
+            "Name": "百花之魂",
+            "Description": "变为花瓣",
+            "Value": 0
+        }
+    ]
+}

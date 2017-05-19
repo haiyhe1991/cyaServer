@@ -1,0 +1,136 @@
+{
+    "EquipmentGemHole": [
+        {
+            "ID": 28300,
+            "EquipmentType": 1,
+            "HoleAttr": [
+                {
+                    "GemType": 3,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 5,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 2,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 6,
+                    "LevelLimit": 30
+                }
+            ]
+        },
+        {
+            "ID": 28301,
+            "EquipmentType": 2,
+            "HoleAttr": [
+                {
+                    "GemType": 4,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 1,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 6,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 5,
+                    "LevelLimit": 30
+                }
+            ]
+        },
+        {
+            "ID": 28302,
+            "EquipmentType": 3,
+            "HoleAttr": [
+                {
+                    "GemType": 1,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 3,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 5,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 4,
+                    "LevelLimit": 30
+                }
+            ]
+        },
+        {
+            "ID": 28303,
+            "EquipmentType": 4,
+            "HoleAttr": [
+                {
+                    "GemType": 6,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 4,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 1,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 2,
+                    "LevelLimit": 30
+                }
+            ]
+        },
+        {
+            "ID": 28304,
+            "EquipmentType": 5,
+            "HoleAttr": [
+                {
+                    "GemType": 5,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 2,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 3,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 1,
+                    "LevelLimit": 30
+                }
+            ]
+        },
+        {
+            "ID": 28305,
+            "EquipmentType": 6,
+            "HoleAttr": [
+                {
+                    "GemType": 2,
+                    "LevelLimit": 0
+                },
+                {
+                    "GemType": 6,
+                    "LevelLimit": 10
+                },
+                {
+                    "GemType": 4,
+                    "LevelLimit": 20
+                },
+                {
+                    "GemType": 3,
+                    "LevelLimit": 30
+                }
+            ]
+        }
+    ]
+}

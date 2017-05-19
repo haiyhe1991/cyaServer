@@ -1,0 +1,130 @@
+{
+    "SignIn": [
+        {
+            "Days": 1,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 10000
+                },
+                {
+                    "Type": 3,
+                    "ID": 31002,
+                    "Name": "强化石",
+                    "Num": 20
+                }
+            ]
+        },
+        {
+            "Days": 2,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 15000
+                },
+                {
+                    "Type": 3,
+                    "ID": 31002,
+                    "Name": "强化石",
+                    "Num": 30
+                }
+            ]
+        },
+        {
+            "Days": 3,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 20000
+                },
+                {
+                    "Type": 3,
+                    "ID": 31002,
+                    "Name": "强化石",
+                    "Num": 40
+                }
+            ]
+        },
+        {
+            "Days": 4,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 25000
+                },
+                {
+                    "Type": 3,
+                    "ID": 31002,
+                    "Name": "强化石",
+                    "Num": 50
+                }
+            ]
+        },
+        {
+            "Days": 5,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 30000
+                },
+                {
+                    "Type": 3,
+                    "ID": 31002,
+                    "Name": "强化石",
+                    "Num": 60
+                }
+            ]
+        },
+        {
+            "Days": 6,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 35000
+                },
+                {
+                    "Type": 2,
+                    "ID": 4103,
+                    "Name": "生命宝石",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "Days": 7,
+            "Continuous": 1,
+            "Rewards": [
+                {
+                    "Type": 6,
+                    "ID": 0,
+                    "Name": "金币",
+                    "Num": 40000
+                },
+                {
+                    "Type": 2,
+                    "ID": 4303,
+                    "Name": "攻击宝石",
+                    "Num": 1
+                }
+            ]
+        }
+    ]
+}

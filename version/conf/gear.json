@@ -1,0 +1,106 @@
+{
+   "Gear" : [
+      {
+         "Assepos" : 1,
+         "EffectID" : 1,
+         "GemHole" : [
+            {
+               "GemID" : 1,
+               "HoleOpenType" : 1,
+               "Type" : 1,
+               "UsedGold" : 100
+            },
+            {
+               "GemID" : 2,
+               "HoleOpenType" : 1,
+               "Type" : 2,
+               "UsedGold" : 200
+            }
+         ],
+         "Info" : {
+            "Attr" : [
+               {
+                  "Source" : 1,
+                  "Type" : 1,
+                  "Val" : 1,
+                  "ValType" : 1
+               },
+               {
+                  "Source" : 2,
+                  "Type" : 2,
+                  "Val" : 2,
+                  "ValType" : 2
+               }
+            ],
+            "BindMode" : 1,
+            "DescID" : 1,
+            "ID" : 1,
+            "IconID" : 1,
+            "Level" : 1,
+            "ModelID" : 1,
+            "Name" : "Wood\r\n",
+            "Price" : 10,
+            "Quality" : 1,
+            "ScriptID" : 1,
+            "Stack" : 10,
+            "Type" : 1,
+            "UsedLevel" : 1,
+            "Weight" : 5
+         },
+         "MaxGemHoleSize" : 1,
+         "StarLV" : 3,
+         "WeaponUsed" : 1
+      },
+      {
+         "Assepos" : 2,
+         "EffectID" : 2,
+         "GemHole" : [
+            {
+               "GemID" : 1,
+               "HoleOpenType" : 1,
+               "Type" : 1,
+               "UsedGold" : 100
+            },
+            {
+               "GemID" : 2,
+               "HoleOpenType" : 1,
+               "Type" : 2,
+               "UsedGold" : 200
+            }
+         ],
+         "Info" : {
+            "Attr" : [
+               {
+                  "Source" : 1,
+                  "Type" : 1,
+                  "Val" : 1,
+                  "ValType" : 1
+               },
+               {
+                  "Source" : 2,
+                  "Type" : 2,
+                  "Val" : 2,
+                  "ValType" : 2
+               }
+            ],
+            "BindMode" : 1,
+            "DescID" : 1,
+            "ID" : 1,
+            "IconID" : 1,
+            "Level" : 1,
+            "ModelID" : 1,
+            "Name" : "Wood\r\n",
+            "Price" : 10,
+            "Quality" : 1,
+            "ScriptID" : 1,
+            "Stack" : 10,
+            "Type" : 1,
+            "UsedLevel" : 1,
+            "Weight" : 5
+         },
+         "MaxGemHoleSize" : 1,
+         "StarLV" : 2,
+         "WeaponUsed" : 1
+      }
+   ]
+}

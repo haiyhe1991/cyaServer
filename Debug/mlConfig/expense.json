@@ -1,0 +1,13 @@
+{
+    "Expense": [
+        {
+            "ExpenseID": 1,
+            "ExpenseType（INT）": 1,
+            "Title（STR）": null,
+            "ExpenseItemType（INT）": 100,
+            "NAME（STR）": null,
+            "DescStr": "是否确认花费%1钻石重置奖励",
+            "Allow（INT）": 0
+        }
+    ]
+}

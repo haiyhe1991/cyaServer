@@ -1,0 +1,30 @@
+{
+   "GearInherit" : [
+      {
+         "GearInheritPro" : [
+            {
+               "LevelDownRate" : 1,
+               "LevelValue" : 1
+            },
+            {
+               "LevelDownRate" : 2,
+               "LevelValue" : 2
+            }
+         ],
+         "RangeLevel" : 10
+      },
+      {
+         "GearInheritPro" : [
+            {
+               "LevelDownRate" : 1,
+               "LevelValue" : 1
+            },
+            {
+               "LevelDownRate" : 2,
+               "LevelValue" : 2
+            }
+         ],
+         "RangeLevel" : 10
+      }
+   ]
+}

@@ -1,0 +1,596 @@
+{
+    "Skill": [
+        {
+            "ID": 21501,
+            "OrderID": 26,
+            "BelongTo": 1,
+            "Name": "横扫千军",
+            "Description": "集全身力量为一体奋力一击，对周围目标目标造成强有力的打击并将目标击退。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 5,
+            "IconID": 5102,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 1,
+            "CD": 17,
+            "Cost": 25,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                30,
+                10,
+                10,
+                15,
+                35
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 21601,
+            "OrderID": 27,
+            "BelongTo": 1,
+            "Name": "急速冲击",
+            "Description": "化繁为简却蕴含着不凡的威力，瞬间冲向目标将目标麻痹。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害<br>有E%的概率附加F%的效果持续G%秒",
+            "Key": 6,
+            "IconID": 5101,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 12,
+            "Cost": 20,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                30,
+                30,
+                40
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 21701,
+            "OrderID": 28,
+            "BelongTo": 1,
+            "Name": "雷霆之刃",
+            "Description": "集天地之力给目标致命一击，同时提升自身攻击能力。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 7,
+            "IconID": 5104,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 18,
+            "Cost": 27,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [
+                {
+                    "BuffId": 21001,
+                    "Chance": 100,
+                    "Atiming": [
+                        2,
+                        3
+                    ],
+                    "Ctiming": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "Damage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                35,
+                25,
+                40
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 21801,
+            "OrderID": 29,
+            "BelongTo": 1,
+            "Name": "旋风斩",
+            "Description": "进入霸体状态，双手紧握巨剑，通过高速旋转对目标进行连续的打击。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 8,
+            "IconID": 5103,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 30,
+            "Cost": 38,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        7
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                10,
+                12,
+                14,
+                16,
+                18,
+                10,
+                20
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 22501,
+            "OrderID": 26,
+            "BelongTo": 2,
+            "Name": "霜刃斩",
+            "Description": "以角色为中心旋转3圈猛击目标将目标击退。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 5,
+            "IconID": 5202,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 1,
+            "CD": 17,
+            "Cost": 31,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20501,
+                    "Chance": 100,
+                    "Atiming": [
+                        2,
+                        5
+                    ],
+                    "Ctiming": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "Damage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                10,
+                25,
+                15,
+                20,
+                30
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 22601,
+            "OrderID": 27,
+            "BelongTo": 2,
+            "Name": "影之刃",
+            "Description": "化繁为简却蕴含着不凡的威力，瞬间冲向目标将目标冰冻。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害<br>有E%的概率附加F%的效果持续G%秒",
+            "Key": 6,
+            "IconID": 5201,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 12,
+            "Cost": 23,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                30,
+                30,
+                40
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 22701,
+            "OrderID": 28,
+            "BelongTo": 2,
+            "Name": "星尘陨落",
+            "Description": "瞬间腾空疾速下斩产生巨大的冲击同时提升自身暴击率。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 7,
+            "IconID": 5204,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 18,
+            "Cost": 23,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        2
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                10,
+                20,
+                15,
+                20,
+                30
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 22801,
+            "OrderID": 29,
+            "BelongTo": 2,
+            "Name": "旋风落刃",
+            "Description": "进入霸体状态，倾尽全身力量倒立旋转打击敌人。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 8,
+            "IconID": 5203,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 30,
+            "Cost": 37,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        3
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                25,
+                20,
+                25,
+                30
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 23501,
+            "OrderID": 26,
+            "BelongTo": 3,
+            "Name": "飓风反击",
+            "Description": "如飓风般以势不可挡之势迅速打击目标并将目标击退。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 5,
+            "IconID": 5302,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 1,
+            "CD": 17,
+            "Cost": 26,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 11000,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                25,
+                30,
+                45
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 23601,
+            "OrderID": 27,
+            "BelongTo": 3,
+            "Name": "盾之撞击",
+            "Description": "以盾为武器，以势不可挡之势瞬间冲向目标将目标击晕。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害<br>有E%的概率附加F%的效果持续G%秒",
+            "Key": 6,
+            "IconID": 5301,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 12,
+            "Cost": 21,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                30,
+                30,
+                40
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 23701,
+            "OrderID": 28,
+            "BelongTo": 3,
+            "Name": "旋影之刃",
+            "Description": "腾空而起以盾之力量猛击目标同时提升自身防御力。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 7,
+            "IconID": 5304,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 18,
+            "Cost": 37,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        1
+                    ]
+                }
+            ],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20401,
+                    "Chance": 100,
+                    "Atiming": [
+                        2,
+                        3
+                    ],
+                    "Ctiming": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "Damage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                35,
+                25,
+                40
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        },
+        {
+            "ID": 23801,
+            "OrderID": 29,
+            "BelongTo": 3,
+            "Name": "震荡四方",
+            "Description": "蓄力后使用盾牌连续锤地，发出猛烈的冲击波震慑四周。",
+            "EffectDesc": "消耗A%点魔法值，冷却时间B%秒<br>对目标造成角色攻击C%的伤害，额外附加D%点伤害",
+            "Key": 8,
+            "IconID": 5303,
+            "Effect": [],
+            "DamageType": 1,
+            "CostType": 1,
+            "OpenLv": 1,
+            "InitLv": 0,
+            "CD": 30,
+            "Cost": 32,
+            "CostUp": 5,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100,
+                    "Atiming": [
+                        1,
+                        0
+                    ],
+                    "Ctiming": [
+                        2,
+                        3
+                    ]
+                }
+            ],
+            "OthersBUFF": [],
+            "Damage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                10,
+                20,
+                15,
+                20,
+                30
+            ],
+            "GoldCost": 90,
+            "GoldCoefficient": 220,
+            "MPReply": 0
+        }
+    ]
+}

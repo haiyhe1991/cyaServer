@@ -1,0 +1,88 @@
+{
+    "HolyDebris": [
+        {
+            "ID": 54100,
+            "Name": "圣骸之瞳碎片",
+            "Type": 1,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之瞳的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 54200,
+            "Name": "圣骸之手碎片",
+            "Type": 2,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之手的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 54300,
+            "Name": "圣骸之足碎片",
+            "Type": 3,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之足的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 54400,
+            "Name": "圣骸之心碎片",
+            "Type": 4,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之心的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 54500,
+            "Name": "圣骸之肋碎片",
+            "Type": 5,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之肋的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        },
+        {
+            "ID": 54600,
+            "Name": "圣骸之颅碎片",
+            "Type": 6,
+            "IconID": 54001,
+            "Desc": "用于提高圣骸之颅的等级",
+            "StackCount": 999,
+            "AccessWay": [
+                1,
+                4,
+                6
+            ],
+            "Quality": 4
+        }
+    ]
+}

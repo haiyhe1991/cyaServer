@@ -1,0 +1,268 @@
+{
+   "ActionElement" : [
+      {
+         "ActionName" : "atk_nor_n_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 1,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_001" ],
+         "rate" : 120.0
+      },
+      {
+         "ActionName" : "atk_nor_n_002",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 2,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_002" ],
+         "rate" : 120.0
+      },
+      {
+         "ActionName" : "atk_nor_n_003",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 3,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_003" ],
+         "rate" : 120.0
+      },
+      {
+         "ActionName" : "atk_nor_n_004",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 4,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_004" ],
+         "rate" : 120.0
+      },
+      {
+         "ActionName" : "atk_nor_n_005",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 5,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_005" ],
+         "rate" : 150.0
+      },
+      {
+         "ActionName" : "atk_nor_n_006",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 6,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_006" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_n_007",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 7,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_007" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_n_008",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 8,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_008" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_n_009",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 9,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_009" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_n_010",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 10,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_n_010" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "picup_pic_n_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 11,
+         "file" : "FileName",
+         "lables" : [ "picup_pic_n_001" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "two_picup_pic_n_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 12,
+         "file" : "FileName",
+         "lables" : [ "two_picup_pic_n_001" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_002",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 13,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_002" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_003",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 14,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_003" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 15,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_001" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_005",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 16,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_005_1", "atk_ski_n_005_2", "atk_ski_n_005_3" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "dg_def_f_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 17,
+         "file" : "FileName",
+         "lables" : [ "dg_def_f_001" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_004",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 18,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_004" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_n_010",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 19,
+         "file" : "FileName",
+         "lables" : [ "bk_def_n_002", "bk_def_n_003", "bk_def_n_004", "bk_def_n_005" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_006",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 20,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_006" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_007",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 21,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_007" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_008",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 22,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_008" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_009",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 23,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_009" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_ny_001",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 24,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_ny_001" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_ny_002",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 25,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_ny_002" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_ny_003",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 26,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_ny_003" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_ny_004",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 27,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_ny_004" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_nor_ny_005",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 28,
+         "file" : "FileName",
+         "lables" : [ "atk_nor_ny_005" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_0010",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 29,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_0010" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_0011",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 30,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_0011" ],
+         "rate" : 100.0
+      },
+      {
+         "ActionName" : "atk_ski_n_010",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 31,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_010" ],
+         "rate" : 100.0
+      },
+	  {
+         "ActionName" : "atk_ski_n_003",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 32,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_003_1", "atk_ski_n_003_2", "atk_ski_n_003_3" ],
+         "rate" : 100.0
+      },
+	  {
+         "ActionName" : "atk_ski_n_011",
+         "EffectsID" : [ 3, 10, 12 ],
+         "ID" : 33,
+         "file" : "FileName",
+         "lables" : [ "atk_ski_n_011" ],
+         "rate" : 100.0
+      }
+   ]
+}

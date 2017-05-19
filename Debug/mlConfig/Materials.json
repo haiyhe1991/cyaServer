@@ -1,0 +1,351 @@
+{
+    "Material": [
+        {
+            "ID": 31001,
+            "Name": "纹星石",
+            "IconID": 31001,
+            "Desc": "升星必须材料",
+            "Level": 1,
+            "Price": 100,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [],
+            "Function": [
+                2
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 2,
+            "Employ": 1
+        },
+        {
+            "ID": 31002,
+            "Name": "强化石",
+            "IconID": 31002,
+            "Desc": "强化必须材料",
+            "Level": 1,
+            "Price": 100,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [],
+            "Function": [
+                1
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 1
+        },
+        {
+            "ID": 31101,
+            "Name": "暗影石",
+            "IconID": 31101,
+            "Desc": "可以降低升星时的破损率",
+            "Level": 1,
+            "Price": 500,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                20
+            ],
+            "Function": [
+                4
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 3,
+            "Employ": 1
+        },
+        {
+            "ID": 31102,
+            "Name": "光芒石",
+            "IconID": 31102,
+            "Desc": "可以提高升星时的成功率",
+            "Level": 1,
+            "Price": 500,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                10
+            ],
+            "Function": [
+                3
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 3,
+            "Employ": 1
+        },
+        {
+            "ID": 31801,
+            "Name": "复活币",
+            "IconID": 31801,
+            "Desc": "可以在战斗中复活",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                10
+            ],
+            "Function": [
+                10
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 0
+        },
+        {
+            "ID": 31802,
+            "Name": "小体力药",
+            "IconID": 31802,
+            "Desc": "小号体力药水，使用可回复体力20点",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                20
+            ],
+            "Function": [
+                12
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 1
+        },
+        {
+            "ID": 31803,
+            "Name": "中体力药",
+            "IconID": 31803,
+            "Desc": "中号体力药水，使用可回复体力40点",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                40
+            ],
+            "Function": [
+                12
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 2,
+            "Employ": 1
+        },
+        {
+            "ID": 31804,
+            "Name": "大体力药",
+            "IconID": 31804,
+            "Desc": "大号体力药水，使用可回复体力60点",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                60
+            ],
+            "Function": [
+                12
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 3,
+            "Employ": 1
+        },
+        {
+            "ID": 31805,
+            "Name": "扫荡卷轴",
+            "IconID": 31805,
+            "Desc": "扫荡副本时使用",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                10
+            ],
+            "Function": [
+                14
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 1
+        },
+        {
+            "ID": 31901,
+            "Name": "红魂",
+            "IconID": 0,
+            "Desc": "战斗中可回复血量",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                20
+            ],
+            "Function": [
+                11
+            ],
+            "AccessWay": [
+                1
+            ],
+            "Quality": 3,
+            "Employ": 0
+        },
+        {
+            "ID": 31902,
+            "Name": "蓝魂",
+            "IconID": 0,
+            "Desc": "战斗中可回复魔法",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                20
+            ],
+            "Function": [
+                13
+            ],
+            "AccessWay": [
+                1
+            ],
+            "Quality": 2,
+            "Employ": 0
+        },
+        {
+            "ID": 31806,
+            "Name": "背包扩展符",
+            "IconID": 31806,
+            "Desc": "扩展背包时使用",
+            "Level": 1,
+            "Price": 1,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                4
+            ],
+            "Function": [
+                15
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 1
+        },
+        {
+            "ID": 31807,
+            "Name": "幸运币",
+            "IconID": 31807,
+            "Desc": "5个幸运币兑换一次抽奖机会",
+            "Level": 1,
+            "Price": 0,
+            "BindMode": 0,
+            "StackCounts": 99,
+            "LvLimit": 1,
+            "IsWarning": 0,
+            "Value": [
+                5
+            ],
+            "Function": [
+                16
+            ],
+            "AccessWay": [
+                3,
+                4,
+                6,
+                7,
+                8
+            ],
+            "Quality": 1,
+            "Employ": 1
+        }
+    ]
+}

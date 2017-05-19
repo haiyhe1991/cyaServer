@@ -1,0 +1,485 @@
+{
+    "ModelConfig": [
+        {
+            "ID": 1,
+            "Name": "´ó½£",
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Rosaline.P_Rosaline",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Rosaline.P_Rosaline_Physics",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 2,
+            "Name": "Ë«½£",
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Sapphire.P_Sapphire",
+            "AnimSets": [
+                "SGS_P_Sapphire.AnimSet.P_Sapphire_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Sapphire.P_Sapphire_Physics",
+            "WeaponMeshs": [
+                "SGS_DoubleSword_S.sword",
+                "SGS_DoubleSword_S.sword",
+                ""
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_01",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Blue_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Blue_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Blue_P",
+                "NEW_P.FX_ChuXian_Blue_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 3,
+            "Name": "½£¶Ü",
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Mandarin.Mandarin",
+            "AnimSets": [
+                "SGS_P_Mandarin.AnimSet.P_Mandarin_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Mandarin.Mandarin_Physics",
+            "WeaponMeshs": [
+                "SGS_SwordShield_Weapon.sword",
+                "SGS_SwordShield_Weapon.Shield",
+                "SGS_SwordShield_Weapon.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_02",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Red_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Red_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Red_P",
+                "NEW_P.FX_ChuXian_Red_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 4,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_N1.P_N1",
+            "AnimSets": [
+                "SGS_P_N1.AnimSet.P_N1_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_N1.P_N1_Physics",
+            "WeaponMeshs": [
+                "SGS_BigSword_N1.BigSword_N1",
+                "SGS_BigSword_N1.BigSword_N1",
+                "SGS_BigSword_N1.BigSword_N1"
+            ],
+            "LandedFX": [
+                "NEW_P.FlyFlower_Blue_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Blue_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Blue_P",
+                "NEW_P.FX_ChuXian_Blue_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 5,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001_Physics",
+            "FashionTex": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001_D",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 6,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001_Physics",
+            "FashionTex": "SG0_P_Rosaline_C01.SG0_DM_Player_Rosaline_C001_Black_D",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 7,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Physics",
+            "FashionTex": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Pink_D",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 8,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Physics",
+            "FashionTex": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Black_D",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 9,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B",
+            "AnimSets": [
+                "SGS_P_Rosaline.AnimSet.P_Rosaline_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Physics",
+            "FashionTex": "SG0_P_Rosaline_C01B.SG0_DM_Player_Rosaline_C001B_Cyan_D",
+            "WeaponMeshs": [
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword",
+                "SGS_BigSword_ZYQW.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_00",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Purple_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Purple_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 10,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_SJ_Man.P_SJ_Man",
+            "AnimSets": [
+                "SGS_P_SJ_Man.AnimSet.P_SJMan_anim"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_SJ_Man.P_SJ_Man_Physics",
+            "WeaponMeshs": [
+                "SGS_DoubleSword_SJ_Man.SJ_Man_TwoSwords",
+                "SGS_DoubleSword_SJ_Man.SJ_Man_TwoSwords",
+                ""
+            ],
+            "LandedFX": [
+                "NEW_P.FlyFlower_Red_P"
+            ],
+            "WingFX": [
+                "NEW_P.chibang_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 11,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_SS_Man.P_SS_Man",
+            "AnimSets": [
+                "SGS_P_SS_Man.AnimSet.P_SSMan_Anim"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_SS_Man.P_SS_Man_Physics",
+            "WeaponMeshs": [
+                "SGS_SwordShield_SS_Man.SS_Man_Sword",
+                "SGS_SwordShield_SS_Man.SS_Man_Shield",
+                "SGS_SwordShield_SS_Man.SS_Man_Sword"
+            ],
+            "LandedFX": [
+                "NEW_P.FlyFlower_Blue_P"
+            ],
+            "WingFX": [
+                "NEW_P.chibang_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Purple_P",
+                "NEW_P.FX_ChuXian_Purple_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 26000,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_N_NPC_4.SkeletalMesh.NPC_4_Mesh",
+            "AnimSets": [
+                "SG_NPC_plot.NPC_Plot.NPC_PlotAnima"
+            ],
+            "AnimTree": "SGS_N_NPC_4.NPC4_Animtree",
+            "WeaponMeshs": [],
+            "bCut": 0
+        },
+        {
+            "ID": 26001,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_B_HeiYiRen.Heiyiren_fazhang_NPC",
+            "AnimSets": [
+                "SGS_B_HeiYiRen.Mesh.HeiYiRen_Animset"
+            ],
+            "AnimTree": "SGS_B_HeiYiRen.Mesh.HeiYiRen_AnimTree",
+            "WeaponMeshs": [],
+            "bCut": 0
+        },
+        {
+            "ID": 26002,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_N_Kesima.P_Kesima",
+            "AnimSets": [
+                "SGS_N_Kesima.P_Kesima_anima"
+            ],
+            "AnimTree": "SGS_N_NPC_4.NPC4_Animtree",
+            "WeaponMeshs": [],
+            "bCut": 0
+        },
+        {
+            "ID": 55201,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Sapphire_Cos_01.SGS_DM_Player_Sapphire_Cos_01",
+            "AnimSets": [
+                "SGS_P_Sapphire_Cos_01.Sapphire_Cos01_anima"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Sapphire_Cos_01.SGS_DM_Player_Sapphire_Cos_01_Physics",
+            "WeaponMeshs": [
+                "SGS_DoubleSword_S.sword",
+                "SGS_DoubleSword_S.sword",
+                ""
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_01",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Blue_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Blue_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Blue_P",
+                "NEW_P.FX_ChuXian_Blue_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 55301,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Mandarin_C01.SGS_P_Mandarin_C01",
+            "AnimSets": [
+                "SGS_P_Mandarin_C01.Mandarin_Cos01_Anima"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Mandarin_C01.SGS_P_Mandarin_C01_Physics",
+            "WeaponMeshs": [
+                "SGS_SwordShield_Weapon.sword",
+                "SGS_SwordShield_Weapon.Shield",
+                "SGS_SwordShield_Weapon.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_02",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Red_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Red_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Red_P",
+                "NEW_P.FX_ChuXian_Red_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 55202,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Sapphire.P_Sapphire",
+            "AnimSets": [
+                "SGS_P_Sapphire.AnimSet.P_Sapphire_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Sapphire.P_Sapphire_Physics",
+            "FashionTex": "SGS_P_Sapphire.SGS_P_Sapphire_Fashion2",
+            "WeaponMeshs": [
+                "SGS_DoubleSword_S.sword",
+                "SGS_DoubleSword_S.sword",
+                ""
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_01",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Blue_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Blue_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Blue_P",
+                "NEW_P.FX_ChuXian_Blue_P"
+            ],
+            "bCut": 0
+        },
+        {
+            "ID": 55302,
+            "BaseID": 0,
+            "ColHight": 81,
+            "ColRadius": 25,
+            "SkelMesh": "SGS_P_Mandarin.Mandarin",
+            "AnimSets": [
+                "SGS_P_Mandarin.AnimSet.P_Mandarin_Anims"
+            ],
+            "AnimTree": "SGS_Player_Anim.AnimTree.P_Rosaline_AnimTree",
+            "Physics": "SGS_P_Mandarin.Mandarin_Physics",
+            "FashionTex": "SGS_P_Mandarin.SGS_P_Mandarin_Fashion2",
+            "WeaponMeshs": [
+                "SGS_SwordShield_Weapon.sword",
+                "SGS_SwordShield_Weapon.Shield",
+                "SGS_SwordShield_Weapon.sword"
+            ],
+            "WingMaterial": "SGS_Wing.Material.Wing_Mat_Parent_INST_02",
+            "LandedFX": [
+                "NEW_P.FlyFlower_Red_P"
+            ],
+            "WingFX": [
+                "NEW_P.FlyFlower_ChiBang_Red_P"
+            ],
+            "ShouShenFX": [
+                "NEW_P.FX_XiaoShi_Red_P",
+                "NEW_P.FX_ChuXian_Red_P"
+            ],
+            "bCut": 0
+        }
+    ]
+}

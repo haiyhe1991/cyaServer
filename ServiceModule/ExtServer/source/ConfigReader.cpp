@@ -7,8 +7,9 @@
 #include "ServiceErrorCode.h"
 #include "ConfigReader.h"
 
+#define CONFIG_PATH			"./cyaExtServer.properties"
 ConfigReader::ConfigReader()
-: m_config_path("./riseextserver.properties")
+: m_config_path(CONFIG_PATH)
 , m_gws_addr("")
 , m_self_addr("0.0.0.0")
 , m_gws_port(1020)

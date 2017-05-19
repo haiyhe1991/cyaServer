@@ -1,0 +1,375 @@
+{
+    "NewbieGuide": [
+        {
+            "ID": 1,
+            "OrderID": 1,
+            "Name": "引导1",
+            "Description": "战斗引导"
+        },
+        {
+            "ID": 2,
+            "OrderID": 2,
+            "Name": "引导2",
+            "Description": "接取任务",
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "Steps": 4
+        },
+        {
+            "ID": 3,
+            "OrderID": 3,
+            "Name": "引导3",
+            "Description": "技能学习",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1001
+                }
+            ],
+            "Relevance": 1,
+            "Steps": 3
+        },
+        {
+            "ID": 4,
+            "OrderID": 4,
+            "Name": "引导4",
+            "Description": "技能装载",
+            "Condition": [
+                {
+                    "TYPE": 5,
+                    "NUM": 2
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 5,
+            "OrderID": 5,
+            "Name": "引导5",
+            "Description": "提交任务",
+            "Condition": [
+                {
+                    "TYPE": 5,
+                    "NUM": 3
+                }
+            ],
+            "Steps": 3
+        },
+        {
+            "ID": 6,
+            "OrderID": 7,
+            "Name": "引导6",
+            "Description": "连招装载",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1002
+                }
+            ],
+            "Steps": 4
+        },
+        {
+            "ID": 7,
+            "OrderID": 8,
+            "Name": "引导7",
+            "Description": "关闭任务界面（1102）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1102
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 8,
+            "OrderID": 9,
+            "Name": "引导8",
+            "Description": "领取福利",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1102
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 9,
+            "OrderID": 10,
+            "Name": "引导9",
+            "Description": "关闭任务界面（1103）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1103
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 10,
+            "OrderID": 11,
+            "Name": "引导10",
+            "Description": "铸造（强化）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1103
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 11,
+            "OrderID": 12,
+            "Name": "引导11",
+            "Description": "关闭任务界面（1105）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1105
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 12,
+            "OrderID": 13,
+            "Name": "引导12",
+            "Description": "添加好友",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1105
+                }
+            ],
+            "Steps": 4
+        },
+        {
+            "ID": 13,
+            "OrderID": 14,
+            "Name": "引导13",
+            "Description": "成就",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1007
+                }
+            ],
+            "Steps": 3
+        },
+        {
+            "ID": 14,
+            "OrderID": 15,
+            "Name": "引导14",
+            "Description": "关闭任务界面（1107）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1107
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 15,
+            "OrderID": 16,
+            "Name": "引导15",
+            "Description": "铸造（镶嵌）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1107
+                }
+            ],
+            "Steps": 3
+        },
+        {
+            "ID": 16,
+            "OrderID": 17,
+            "Name": "引导16",
+            "Description": "魔导器",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1010
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 17,
+            "OrderID": 18,
+            "Name": "引导17",
+            "Description": "关闭任务界面（1305）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1305
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 18,
+            "OrderID": 19,
+            "Name": "引导18",
+            "Description": "铸造（碎片合成）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1305
+                }
+            ],
+            "Steps": 4
+        },
+        {
+            "ID": 19,
+            "OrderID": 20,
+            "Name": "引导19",
+            "Description": "关闭任务界面（1004）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1004
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 20,
+            "OrderID": 21,
+            "Name": "引导20",
+            "Description": "对战模式",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1004
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 21,
+            "OrderID": 22,
+            "Name": "引导21",
+            "Description": "活动模式",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 4001
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 22,
+            "OrderID": 23,
+            "Name": "引导22",
+            "Description": "关闭任务界面（1120）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1120
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 23,
+            "OrderID": 24,
+            "Name": "引导23",
+            "Description": "排行榜",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1120
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 24,
+            "OrderID": 25,
+            "Name": "引导24",
+            "Description": "关闭任务界面（2107）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 2107
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 25,
+            "OrderID": 26,
+            "Name": "引导25",
+            "Description": "天梯模式",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 2107
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 26,
+            "OrderID": 27,
+            "Name": "引导26",
+            "Description": "组队模式",
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 4003
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 27,
+            "OrderID": 28,
+            "Name": "引导27",
+            "Description": "关闭任务界面（1013）",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1013
+                }
+            ],
+            "Steps": 1
+        },
+        {
+            "ID": 28,
+            "OrderID": 29,
+            "Name": "引导28",
+            "Description": "竞技模式",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1013
+                }
+            ],
+            "Steps": 2
+        },
+        {
+            "ID": 29,
+            "OrderID": 6,
+            "Name": "引导29",
+            "Description": "装备穿戴",
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1101
+                }
+            ],
+            "Steps": 3
+        }
+    ]
+}

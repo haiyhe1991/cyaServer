@@ -1,0 +1,455 @@
+{
+    "System": [
+        {
+            "ID": 1,
+            "Name": "技能",
+            "Description": "通关副本 赫特兰山道7-1",
+            "Type": 2,
+            "Priority": 6,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1001
+                }
+            ],
+            "IconID": "FunctionIcon.jineng"
+        },
+        {
+            "ID": 2,
+            "Name": "锻造",
+            "Description": "完成任务 哥布林队长",
+            "Type": 2,
+            "Priority": 5,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1103
+                }
+            ],
+            "IconID": "FunctionIcon.zhuzao"
+        },
+        {
+            "ID": 3,
+            "Name": "邮箱",
+            "Description": "邮箱图标入口",
+            "Type": 2,
+            "Priority": 3,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.youjian"
+        },
+        {
+            "ID": 4,
+            "Name": "排行榜",
+            "Description": "完成任务 荆棘之花",
+            "Type": 2,
+            "Priority": 2,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1120
+                }
+            ],
+            "IconID": "FunctionIcon.paihangbang"
+        },
+        {
+            "ID": 5,
+            "Name": "魔导器",
+            "Description": "通关副本 圣女隐修院3-1",
+            "Type": 2,
+            "Priority": 1,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1010
+                }
+            ],
+            "IconID": "FunctionIcon.modaoqi"
+        },
+        {
+            "ID": 6,
+            "Name": "剑灵",
+            "Description": "剑灵图标入口",
+            "Type": 2,
+            "Condition": [
+                {
+                    "TYPE": 0,
+                    "NUM": 0
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "Name": "福利",
+            "Description": "完成任务 山道探索",
+            "Type": 1,
+            "Priority": 3,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1102
+                }
+            ],
+            "IconID": "FunctionIcon.fuli"
+        },
+        {
+            "ID": 9,
+            "Name": "商城",
+            "Description": "商城图标入口",
+            "Type": 1,
+            "Priority": 0,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.shangcheng"
+        },
+        {
+            "ID": 10,
+            "Name": "成就",
+            "Description": "通关副本 赫特兰山道7-1",
+            "Type": 2,
+            "Priority": 4,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1007
+                }
+            ],
+            "IconID": "FunctionIcon.chengjiu"
+        },
+        {
+            "ID": 11,
+            "Name": "任务",
+            "Description": "任务图标入口",
+            "Type": 1,
+            "Priority": 4,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.renwu"
+        },
+        {
+            "ID": 12,
+            "Name": "充值",
+            "Description": "充值图标入口",
+            "Type": 1,
+            "Priority": 1,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.chongzhi"
+        },
+        {
+            "ID": 13,
+            "Name": "角色",
+            "Description": "角色图标入口",
+            "Type": 2,
+            "Priority": 10,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.juese"
+        },
+        {
+            "ID": 14,
+            "Name": "背包",
+            "Description": "背包图标入口(包含全部二级界面)",
+            "Type": 2,
+            "Priority": 9,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.beibao"
+        },
+        {
+            "ID": 15,
+            "Name": "设置",
+            "Description": "设置图标入口",
+            "Type": 2,
+            "Priority": 0,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ],
+            "IconID": "FunctionIcon.shezhi"
+        },
+        {
+            "ID": 101,
+            "Name": "道具商城",
+            "Description": "商城系统下二级界面",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 102,
+            "Name": "绚丽时装",
+            "Description": "商城系统下二级界面",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 103,
+            "Name": "称号",
+            "Description": "角色系统下二级界面",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 104,
+            "Name": "强化",
+            "Description": "完成任务 哥布林队长",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1103
+                }
+            ]
+        },
+        {
+            "ID": 105,
+            "Name": "升星",
+            "Description": "锻造系统下二级系统标签页",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 0,
+                    "NUM": 0
+                }
+            ]
+        },
+        {
+            "ID": 106,
+            "Name": "镶嵌",
+            "Description": "完成任务 精灵石",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1107
+                }
+            ]
+        },
+        {
+            "ID": 107,
+            "Name": "合成",
+            "Description": "完成任务 疾风迅雷[困难]",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1305
+                }
+            ]
+        },
+        {
+            "ID": 108,
+            "Name": "洗练",
+            "Description": "锻造系统下二级系统标签页,套装碎片回收,洗练套装属性",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 0,
+                    "NUM": 0
+                }
+            ]
+        },
+        {
+            "ID": 109,
+            "Name": "炼魂",
+            "Description": "炼魂图标（角色二级界面）",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 0,
+                    "NUM": 0
+                }
+            ]
+        },
+        {
+            "ID": 110,
+            "Name": "连招",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 1002
+                }
+            ]
+        },
+        {
+            "ID": 111,
+            "Name": "时装",
+            "Description": "背包系统下二级系统标签页，管理商城系统下绚丽时装界面下时装背包快捷入口",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 112,
+            "Name": "职业称号",
+            "Description": "角色系统下称号二级标签下，分类标签",
+            "Type": 10,
+            "Condition": [
+                {
+                    "TYPE": 0,
+                    "NUM": 0
+                }
+            ]
+        },
+        {
+            "ID": 219,
+            "Name": "训练模式",
+            "Description": "训练模式 主界面功能区域开启条件，通过Priority，排序",
+            "Type": 20,
+            "Priority": 3,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 220,
+            "Name": "对战模式",
+            "Description": "尚未开启",
+            "Type": 20,
+            "Priority": 5,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1004
+                }
+            ]
+        },
+        {
+            "ID": 221,
+            "Name": "组队模式",
+            "Description": "尚未开启",
+            "Type": 20,
+            "Priority": 6,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 4003
+                }
+            ]
+        },
+        {
+            "ID": 222,
+            "Name": "冒险模式",
+            "Type": 20,
+            "Priority": 4,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 223,
+            "Name": "竞技模式",
+            "Description": "尚未开启",
+            "Type": 20,
+            "Priority": 7,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1013
+                }
+            ]
+        },
+        {
+            "ID": 224,
+            "Name": "活动模式",
+            "Description": "尚未开启",
+            "Type": 20,
+            "Priority": 2,
+            "Condition": [
+                {
+                    "TYPE": 2,
+                    "NUM": 4001
+                }
+            ]
+        },
+        {
+            "ID": 225,
+            "Name": "好友系统",
+            "Description": "尚未开启",
+            "Type": 30,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 1105
+                }
+            ]
+        },
+        {
+            "ID": 226,
+            "Name": "聊天系统",
+            "Description": "尚未开启",
+            "Type": 30,
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 1
+                }
+            ]
+        },
+        {
+            "ID": 227,
+            "Name": "天梯模式",
+            "Description": "尚未开启",
+            "Type": 20,
+            "Priority": 1,
+            "Condition": [
+                {
+                    "TYPE": 4,
+                    "NUM": 2107
+                }
+            ]
+        }
+    ]
+}

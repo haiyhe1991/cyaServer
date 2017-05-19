@@ -1,0 +1,21 @@
+{
+    "RoleInitGive": {
+        "Money": {
+            "Gold": 0,
+            "Token": 0
+        },
+        "Other": {
+            "Exp": 0,
+            "Vit": 0
+        },
+        "WearEquip": {
+            "Weapen": 10111,
+            "Armor": 10112,
+            "Glove": 10113,
+            "Shoes": 10114,
+            "Ring": 10115,
+            "Necklace": 10116
+        },
+        "Prop": []
+    }
+}

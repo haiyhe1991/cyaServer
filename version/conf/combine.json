@@ -1,0 +1,58 @@
+{
+   "Combine" : [
+      {
+         "GoldCost" : 0,
+         "ID" : 28000,
+         "Quality" : 1,
+         "QualityCostID" : 0,
+         "QualityCostNum" : 0,
+         "SuccessAdjust" : 0,
+         "SuccessRate" : 0
+      },
+      {
+         "GoldCost" : 500,
+         "ID" : 28001,
+         "Quality" : 2,
+         "QualityCostID" : 1,
+         "QualityCostNum" : 5,
+         "SuccessAdjust" : 0,
+         "SuccessRate" : 75
+      },
+      {
+         "GoldCost" :1000,
+         "ID" : 28002,
+         "Quality" : 3,
+         "QualityCostID" : 2,
+         "QualityCostNum" : 5,
+         "SuccessAdjust" : -5,
+         "SuccessRate" : 50
+      },
+      {
+         "GoldCost" :2000,
+         "ID" : 28003,
+         "Quality" : 4,
+         "QualityCostID" : 3,
+         "QualityCostNum" : 5,
+         "SuccessAdjust" : -8,
+         "SuccessRate" : 45
+      },
+      {
+         "GoldCost" :4000,
+         "ID" : 28004,
+         "Quality" : 5,
+         "QualityCostID" : 4,
+         "QualityCostNum" : 5,
+         "SuccessAdjust" : -10,
+         "SuccessRate" : 40
+      },
+      {
+         "GoldCost" :0,
+         "ID" : 28005,
+         "Quality" : 5,
+         "QualityCostID" : 5,
+         "QualityCostNum" : 5,
+         "SuccessAdjust" : 0,
+         "SuccessRate" : 100
+      }
+   ]
+}

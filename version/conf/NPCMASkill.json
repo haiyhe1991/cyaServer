@@ -1,0 +1,2886 @@
+{
+    "MASkill": [
+        {
+            "ID": 21501,
+            "Name": "横扫千军",
+            "Description": "集全身力量为一体奋力一击，对周围目标目标造成强有力的打击并将目标击退。",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 25,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20101,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 360,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                {
+                    "1": 35,
+                    "3": 360,
+                    "4": 7,
+                    "2": 240
+                },
+                {
+                    "1": 25,
+                    "3": 250,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 40,
+                    "3": 320,
+                    "4": 11,
+                    "2": 360
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 21601,
+            "Name": "急速冲击",
+            "Description": "化繁为简却蕴含着不凡的威力，瞬间冲向目标将目标麻痹。",
+            "SkillAttackdistance": 1,
+            "CD": 12,
+            "MpCost": 18,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 21001,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                {
+                    "1": 30,
+                    "3": 90,
+                    "4": 12,
+                    "2": 240
+                },
+                {
+                    "1": 30,
+                    "3": 90,
+                    "4": 12,
+                    "2": 240
+                },
+                {
+                    "1": 40,
+                    "3": 90,
+                    "4": 8,
+                    "2": 260
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 21701,
+            "Name": "大地之刃",
+            "Description": "集天地之力给目标致命一击，同时提升自身攻击能力。",
+            "SkillAttackdistance": 1,
+            "CD": 18,
+            "MpCost": 27,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10401,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 350,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 90,
+                    "4": 8,
+                    "2": 400
+                }
+            ],
+            "Action": [
+                6000
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 21801,
+            "Name": "旋风斩",
+            "Description": "进入霸体状态，双手紧握巨剑，通过高速旋转对目标进行连续的打击。",
+            "SkillAttackdistance": 1,
+            "CD": 30,
+            "MpCost": 38,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 206,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                {
+                    "1": 10,
+                    "3": 360,
+                    "4": 1,
+                    "2": 190
+                },
+                {
+                    "1": 12,
+                    "3": 360,
+                    "4": 1,
+                    "2": 190
+                },
+                {
+                    "1": 14,
+                    "3": 360,
+                    "4": 1,
+                    "2": 190
+                },
+                {
+                    "1": 16,
+                    "3": 360,
+                    "4": 1,
+                    "2": 190
+                },
+                {
+                    "1": 18,
+                    "3": 360,
+                    "4": 12,
+                    "2": 190
+                },
+                {
+                    "1": 10,
+                    "3": 360,
+                    "4": 12,
+                    "2": 190
+                },
+                {
+                    "1": 20,
+                    "3": 360,
+                    "4": 11,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                9
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 118,
+            "Cycleindex": [
+                {
+                    "ActionID": [
+                        9
+                    ],
+                    "Num": 6
+                }
+            ],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 22501,
+            "Name": "霜刃斩",
+            "Description": "以角色为中心旋转3圈猛击目标将目标击退。",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 31,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20101,
+                    "Chance": 0
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 380,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                {
+                    "1": 25,
+                    "3": 360,
+                    "4": 4,
+                    "2": 200
+                },
+                {
+                    "1": 20,
+                    "3": 360,
+                    "4": 4,
+                    "2": 200
+                },
+                {
+                    "1": 25,
+                    "3": 360,
+                    "4": 12,
+                    "2": 200
+                },
+                {
+                    "1": 30,
+                    "3": 300,
+                    "4": 11,
+                    "2": 400
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 22601,
+            "Name": "影之刃",
+            "Description": "化繁为简却蕴含着不凡的威力，瞬间冲向目标将目标冰冻。",
+            "SkillAttackdistance": 1,
+            "CD": 12,
+            "MpCost": 23,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20501,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                {
+                    "1": 30,
+                    "3": 120,
+                    "4": 12,
+                    "2": 200
+                },
+                {
+                    "1": 30,
+                    "3": 120,
+                    "4": 12,
+                    "2": 200
+                },
+                {
+                    "1": 40,
+                    "3": 120,
+                    "4": 8,
+                    "2": 390
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 22701,
+            "Name": "星尘陨落",
+            "Description": "瞬间腾空疾速下斩产生巨大的冲击同时提升自身暴击率。",
+            "SkillAttackdistance": 1,
+            "CD": 18,
+            "MpCost": 23,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10801,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                {
+                    "1": 10,
+                    "3": 240,
+                    "4": 9,
+                    "2": 200
+                },
+                {
+                    "1": 20,
+                    "3": 180,
+                    "4": 5,
+                    "2": 220
+                },
+                {
+                    "1": 15,
+                    "3": 180,
+                    "4": 12,
+                    "2": 220
+                },
+                {
+                    "1": 20,
+                    "3": 180,
+                    "4": 12,
+                    "2": 220
+                },
+                {
+                    "1": 30,
+                    "3": 180,
+                    "4": 8,
+                    "2": 260
+                }
+            ],
+            "Action": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 117,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 22801,
+            "Name": "旋风落刃",
+            "Description": "进入霸体状态，倾尽全身力量倒立旋转打击敌人。",
+            "SkillAttackdistance": 1,
+            "CD": 30,
+            "MpCost": 37,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 600,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                {
+                    "1": 25,
+                    "3": 320,
+                    "4": 5,
+                    "2": 220
+                },
+                {
+                    "1": 20,
+                    "3": 360,
+                    "4": 12,
+                    "2": 220
+                },
+                {
+                    "1": 25,
+                    "3": 360,
+                    "4": 12,
+                    "2": 220
+                },
+                {
+                    "1": 30,
+                    "3": 280,
+                    "4": 11,
+                    "2": 390
+                }
+            ],
+            "Action": [
+                30001,
+                30002,
+                30003
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 2,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 23501,
+            "Name": "飓风之刃",
+            "Description": "如飓风般以势不可挡之势迅速打击目标并将目标击退。",
+            "SkillAttackdistance": 1,
+            "CD": 17,
+            "MpCost": 26,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20101,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 250,
+            "DamageUp": 1,
+            "DamageCount": 18,
+            "DamageCountUp": 13,
+            "MaxCount": [
+                {
+                    "1": 25,
+                    "3": 360,
+                    "4": 4,
+                    "2": 240
+                },
+                {
+                    "1": 30,
+                    "3": 360,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 45,
+                    "3": 240,
+                    "4": 11,
+                    "2": 300
+                }
+            ],
+            "Action": [
+                2
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 23601,
+            "Name": "盾之撞击",
+            "Description": "以盾为武器，以势不可挡之势瞬间冲向目标将目标击晕。",
+            "SkillAttackdistance": 1,
+            "CD": 12,
+            "MpCost": 21,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20401,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1000,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 200,
+            "DamageUp": 1,
+            "DamageCount": 14,
+            "DamageCountUp": 10,
+            "MaxCount": [
+                {
+                    "1": 30,
+                    "3": 180,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 30,
+                    "3": 180,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 40,
+                    "3": 180,
+                    "4": 8,
+                    "2": 260
+                }
+            ],
+            "Action": [
+                1
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 23701,
+            "Name": "雷霆斩",
+            "Description": "腾空而起以盾之力量猛击目标同时提升自身防御力。",
+            "SkillAttackdistance": 1,
+            "CD": 18,
+            "MpCost": 37,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10501,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 380,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 300,
+            "DamageUp": 1,
+            "DamageCount": 21,
+            "DamageCountUp": 15,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 240,
+                    "4": 8,
+                    "2": 400
+                }
+            ],
+            "Action": [
+                9
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 23801,
+            "Name": "震荡四方",
+            "Description": "蓄力后使用盾牌连续锤地，发出猛烈的冲击波震慑四周。",
+            "SkillAttackdistance": 1,
+            "CD": 30,
+            "MpCost": 32,
+            "OneselfBUFF": [
+                {
+                    "BuffId": 10101,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 480,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 400,
+            "DamageUp": 1,
+            "DamageCount": 29,
+            "DamageCountUp": 21,
+            "MaxCount": [
+                {
+                    "1": 10,
+                    "3": 360,
+                    "4": 12,
+                    "2": 240
+                },
+                {
+                    "1": 20,
+                    "3": 360,
+                    "4": 12,
+                    "2": 250
+                },
+                {
+                    "1": 15,
+                    "3": 360,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 20,
+                    "3": 360,
+                    "4": 12,
+                    "2": 260
+                },
+                {
+                    "1": 30,
+                    "3": 360,
+                    "4": 8,
+                    "2": 390
+                }
+            ],
+            "Action": [
+                11
+            ],
+            "Stoic": 1,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11201,
+            "Name": "远程攻击",
+            "Description": "大剑",
+            "SkillAttackdistance": 2,
+            "CD": 39,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 2
+                }
+            ],
+            "Action": [
+                6001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 8
+        },
+        {
+            "ID": 12201,
+            "Name": "远程攻击",
+            "Description": "双剑",
+            "SkillAttackdistance": 2,
+            "CD": 39,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 2
+                }
+            ],
+            "Action": [
+                6001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 8
+        },
+        {
+            "ID": 13201,
+            "Name": "远程攻击",
+            "Description": "剑盾",
+            "SkillAttackdistance": 2,
+            "CD": 39,
+            "MpCost": 10,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 1500,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 120,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "4": 2
+                }
+            ],
+            "Action": [
+                6001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 4,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 8
+        },
+        {
+            "ID": 11101,
+            "Name": "大剑地面1X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 104,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11102,
+            "Name": "大剑地面2X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 109,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 120,
+                    "4": 7,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11103,
+            "Name": "大剑地面3X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 96,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 180,
+                    "4": 3,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11104,
+            "Name": "大剑地面4X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 124,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 180,
+                    "4": 0,
+                    "2": 195
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11105,
+            "Name": "大剑地面5X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 126,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 150,
+                    "4": 11,
+                    "2": 205
+                }
+            ],
+            "Action": [
+                105
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11203,
+            "Name": "大剑Y连招1",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 164,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 150,
+                    "4": 12,
+                    "2": 215
+                }
+            ],
+            "Action": [
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11204,
+            "Name": "大剑Y连招2",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 156,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 270,
+                    "4": 7,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11205,
+            "Name": "大剑Y连招3",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 206,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 210,
+                    "4": 5,
+                    "2": 195
+                }
+            ],
+            "Action": [
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11206,
+            "Name": "大剑Y连招4",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 157,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 160,
+                    "4": 8,
+                    "2": 225
+                }
+            ],
+            "Action": [
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11207,
+            "Name": "大剑Y连招5",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 230,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 30,
+                    "3": 360,
+                    "4": 2,
+                    "2": 185
+                },
+                {
+                    "1": 50,
+                    "3": 360,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 20,
+                    "3": 185,
+                    "4": 8,
+                    "2": 330
+                }
+            ],
+            "Action": [
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11208,
+            "Name": "大剑连续连招1",
+            "SkillAttackdistance": 5,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 320,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 268,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 36,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 64,
+                    "3": 150,
+                    "4": 10,
+                    "2": 215
+                }
+            ],
+            "Action": [
+                101,
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11209,
+            "Name": "大剑连续连招2",
+            "SkillAttackdistance": 5,
+            "CD": 13,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 340,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 369,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 27,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 28,
+                    "3": 120,
+                    "4": 7,
+                    "2": 190
+                },
+                {
+                    "1": 45,
+                    "3": 270,
+                    "4": 11,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11210,
+            "Name": "大剑连续连招3",
+            "SkillAttackdistance": 5,
+            "CD": 19,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 360,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 515,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 19,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 20,
+                    "3": 120,
+                    "4": 7,
+                    "2": 190
+                },
+                {
+                    "1": 17,
+                    "3": 180,
+                    "4": 3,
+                    "2": 190
+                },
+                {
+                    "1": 44,
+                    "3": 210,
+                    "4": 12,
+                    "2": 195
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11211,
+            "Name": "大剑连续连招4",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 380,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 590,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 17,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 18,
+                    "3": 120,
+                    "4": 7,
+                    "2": 190
+                },
+                {
+                    "1": 15,
+                    "3": 180,
+                    "4": 3,
+                    "2": 190
+                },
+                {
+                    "1": 21,
+                    "3": 180,
+                    "4": 0,
+                    "2": 195
+                },
+                {
+                    "1": 29,
+                    "3": 80,
+                    "4": 8,
+                    "2": 450
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 11212,
+            "Name": "大剑连续连招5",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 400,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 789,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 17,
+                    "3": 120,
+                    "4": 5,
+                    "2": 185
+                },
+                {
+                    "1": 18,
+                    "3": 120,
+                    "4": 7,
+                    "2": 190
+                },
+                {
+                    "1": 15,
+                    "3": 180,
+                    "4": 3,
+                    "2": 190
+                },
+                {
+                    "1": 21,
+                    "3": 180,
+                    "4": 0,
+                    "2": 195
+                },
+                {
+                    "1": 29,
+                    "3": 160,
+                    "4": 8,
+                    "2": 225
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12101,
+            "Name": "双剑地面1X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 87,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12102,
+            "Name": "双剑地面2X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 88,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 320,
+                    "4": 7,
+                    "2": 145
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12103,
+            "Name": "双剑地面3X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 83,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 210,
+                    "4": 3,
+                    "2": 150
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12104,
+            "Name": "双剑地面4X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 110,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 320,
+                    "4": 0,
+                    "2": 155
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12105,
+            "Name": "双剑地面5X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 106,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 360,
+                    "4": 11,
+                    "2": 160
+                }
+            ],
+            "Action": [
+                105
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12203,
+            "Name": "双剑Y连招1",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 97,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 320,
+                    "4": 12,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12204,
+            "Name": "双剑Y连招2",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 136,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 330,
+                    "4": 2,
+                    "2": 175
+                }
+            ],
+            "Action": [
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12205,
+            "Name": "双剑Y连招3",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 163,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 360,
+                    "4": 10,
+                    "2": 150
+                }
+            ],
+            "Action": [
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12206,
+            "Name": "双剑Y连招4",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 139,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 175,
+                    "4": 8,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12207,
+            "Name": "双剑Y连招5",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 260,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 198,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 30,
+                    "3": 360,
+                    "4": 2,
+                    "2": 150
+                },
+                {
+                    "1": 45,
+                    "3": 360,
+                    "4": 5,
+                    "2": 150
+                },
+                {
+                    "1": 25,
+                    "3": 210,
+                    "4": 8,
+                    "2": 390
+                }
+            ],
+            "Action": [
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12208,
+            "Name": "双剑连续连招1",
+            "SkillAttackdistance": 5,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 184,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 46,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                },
+                {
+                    "1": 54,
+                    "3": 320,
+                    "4": 12,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                101,
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12209,
+            "Name": "双剑连续连招2",
+            "SkillAttackdistance": 5,
+            "CD": 13,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 311,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 26,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                },
+                {
+                    "1": 26,
+                    "3": 320,
+                    "4": 7,
+                    "2": 145
+                },
+                {
+                    "1": 48,
+                    "3": 330,
+                    "4": 11,
+                    "2": 175
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12210,
+            "Name": "双剑连续连招3",
+            "SkillAttackdistance": 5,
+            "CD": 19,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 320,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 421,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 19,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                },
+                {
+                    "1": 19,
+                    "3": 320,
+                    "4": 7,
+                    "2": 145
+                },
+                {
+                    "1": 18,
+                    "3": 210,
+                    "4": 3,
+                    "2": 150
+                },
+                {
+                    "1": 44,
+                    "3": 360,
+                    "4": 9,
+                    "2": 150
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12211,
+            "Name": "双剑连续连招4",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 340,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 507,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 16,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                },
+                {
+                    "1": 16,
+                    "3": 320,
+                    "4": 7,
+                    "2": 145
+                },
+                {
+                    "1": 15,
+                    "3": 210,
+                    "4": 3,
+                    "2": 150
+                },
+                {
+                    "1": 22,
+                    "3": 320,
+                    "4": 0,
+                    "2": 155
+                },
+                {
+                    "1": 31,
+                    "3": 60,
+                    "4": 8,
+                    "2": 700
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 12212,
+            "Name": "双剑连续连招5",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 360,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 672,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 12,
+                    "3": 320,
+                    "4": 5,
+                    "2": 145
+                },
+                {
+                    "1": 12,
+                    "3": 320,
+                    "4": 7,
+                    "2": 145
+                },
+                {
+                    "1": 11,
+                    "3": 210,
+                    "4": 3,
+                    "2": 150
+                },
+                {
+                    "1": 16,
+                    "3": 320,
+                    "4": 0,
+                    "2": 155
+                },
+                {
+                    "1": 15,
+                    "3": 360,
+                    "4": 1,
+                    "2": 160
+                },
+                {
+                    "1": 10,
+                    "3": 360,
+                    "4": 2,
+                    "2": 150
+                },
+                {
+                    "1": 15,
+                    "3": 360,
+                    "4": 5,
+                    "2": 150
+                },
+                {
+                    "1": 9,
+                    "3": 210,
+                    "4": 8,
+                    "2": 390
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13101,
+            "Name": "剑盾地面1X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 112,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                101
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13102,
+            "Name": "剑盾地面2X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 100,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 210,
+                    "4": 2,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                102
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13103,
+            "Name": "剑盾地面3X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 97,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 210,
+                    "4": 7,
+                    "2": 170
+                }
+            ],
+            "Action": [
+                103
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13104,
+            "Name": "剑盾地面4X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 121,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 150,
+                    "4": 1,
+                    "2": 180
+                }
+            ],
+            "Action": [
+                104
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13105,
+            "Name": "剑盾地面5X",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 134,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 270,
+                    "4": 11,
+                    "2": 185
+                }
+            ],
+            "Action": [
+                105
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13203,
+            "Name": "剑盾Y连招1",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 121,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 240,
+                    "4": 12,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13204,
+            "Name": "剑盾Y连招2",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 169,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 180,
+                    "4": 10,
+                    "2": 185
+                }
+            ],
+            "Action": [
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13205,
+            "Name": "剑盾Y连招3",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 174,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 360,
+                    "4": 1,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13206,
+            "Name": "剑盾Y连招4",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 205,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 100,
+                    "3": 280,
+                    "4": 10,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13207,
+            "Name": "剑盾Y连招5",
+            "SkillAttackdistance": 5,
+            "CD": 0,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 280,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 210,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 35,
+                    "3": 360,
+                    "4": 4,
+                    "2": 170
+                },
+                {
+                    "1": 30,
+                    "3": 180,
+                    "4": 8,
+                    "2": 390
+                },
+                {
+                    "1": 35,
+                    "3": 360,
+                    "4": 0,
+                    "2": 170
+                }
+            ],
+            "Action": [
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 1,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13208,
+            "Name": "剑盾连续连招1",
+            "SkillAttackdistance": 5,
+            "CD": 11,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 300,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 233,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 47,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                },
+                {
+                    "1": 53,
+                    "3": 240,
+                    "4": 12,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                101,
+                7001
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13209,
+            "Name": "剑盾连续连招2",
+            "SkillAttackdistance": 5,
+            "CD": 13,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 320,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 381,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 28,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                },
+                {
+                    "1": 24,
+                    "3": 210,
+                    "4": 2,
+                    "2": 165
+                },
+                {
+                    "1": 48,
+                    "3": 180,
+                    "4": 10,
+                    "2": 185
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                7002
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13210,
+            "Name": "剑盾连续连招3",
+            "SkillAttackdistance": 5,
+            "CD": 19,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 340,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 483,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 23,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                },
+                {
+                    "1": 19,
+                    "3": 210,
+                    "4": 2,
+                    "2": 165
+                },
+                {
+                    "1": 18,
+                    "3": 210,
+                    "4": 7,
+                    "2": 170
+                },
+                {
+                    "1": 40,
+                    "3": 360,
+                    "4": 8,
+                    "2": 190
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                7003
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13211,
+            "Name": "剑盾连续连招4",
+            "SkillAttackdistance": 5,
+            "CD": 7,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20301,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 360,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 635,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 17,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                },
+                {
+                    "1": 14,
+                    "3": 210,
+                    "4": 2,
+                    "2": 165
+                },
+                {
+                    "1": 14,
+                    "3": 210,
+                    "4": 7,
+                    "2": 170
+                },
+                {
+                    "1": 19,
+                    "3": 150,
+                    "4": 1,
+                    "2": 180
+                },
+                {
+                    "1": 36,
+                    "3": 280,
+                    "4": 9,
+                    "2": 165
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                7004
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        },
+        {
+            "ID": 13212,
+            "Name": "剑盾连续连招5",
+            "SkillAttackdistance": 5,
+            "CD": 5,
+            "MpCost": 0,
+            "OneselfBUFF": [],
+            "OthersBUFF": [
+                {
+                    "BuffId": 20201,
+                    "Chance": 100
+                }
+            ],
+            "AttackdistanceMin": 0,
+            "Attackdistance": 380,
+            "Preparationtime": 0,
+            "Condition": [],
+            "MinDamage": 774,
+            "DamageUp": 0,
+            "DamageCount": 0,
+            "DamageCountUp": 0,
+            "MaxCount": [
+                {
+                    "1": 14,
+                    "3": 180,
+                    "4": 5,
+                    "2": 165
+                },
+                {
+                    "1": 12,
+                    "3": 210,
+                    "4": 2,
+                    "2": 165
+                },
+                {
+                    "1": 11,
+                    "3": 210,
+                    "4": 7,
+                    "2": 170
+                },
+                {
+                    "1": 15,
+                    "3": 150,
+                    "4": 1,
+                    "2": 180
+                },
+                {
+                    "1": 17,
+                    "3": 270,
+                    "4": 1,
+                    "2": 185
+                },
+                {
+                    "1": 11,
+                    "3": 360,
+                    "4": 4,
+                    "2": 170
+                },
+                {
+                    "1": 9,
+                    "3": 180,
+                    "4": 8,
+                    "2": 390
+                },
+                {
+                    "1": 11,
+                    "3": 360,
+                    "4": 0,
+                    "2": 170
+                }
+            ],
+            "Action": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                7005
+            ],
+            "Stoic": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "ConductType": 3,
+            "Cycleindex": [],
+            "NoParry": 1,
+            "Effect": 0
+        }
+    ],
+    "30": 11201
+}

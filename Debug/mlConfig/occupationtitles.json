@@ -1,0 +1,82 @@
+{
+   "Occupationtitles" : [
+      {
+         "Profession" : 1,
+         "Race" : 1,
+         "TitleLvName" : [
+            {
+               "TitleLv" : 0,
+               "TitleName" : "武者"
+            },
+            {
+               "TitleLv" : 1,
+               "TitleName" : "勇者"
+            },
+            {
+               "TitleLv" : 2,
+               "TitleName" : "游侠"
+            },
+            {
+               "TitleLv" : 3,
+               "TitleName" : "英雄"
+            },
+            {
+               "TitleLv" : 4,
+               "TitleName" : "王者"
+            }
+         ]
+      },
+      {
+         "Profession" : 2,
+         "Race" : 1,
+         "TitleLvName" : [
+            {
+               "TitleLv" : 0,
+               "TitleName" : "青铜骑士"
+            },
+            {
+               "TitleLv" : 1,
+               "TitleName" : "白银骑士"
+            },
+            {
+               "TitleLv" : 2,
+               "TitleName" : "黄金骑士"
+            },
+            {
+               "TitleLv" : 3,
+               "TitleName" : "圣堂骑士"
+            },
+            {
+               "TitleLv" : 4,
+               "TitleName" : "圣骑统帅"
+            }
+         ]
+      },
+      {
+         "Profession" : 3,
+         "Race" : 1,
+         "TitleLvName" : [
+            {
+               "TitleLv" : 0,
+               "TitleName" : "剑斗士"
+            },
+            {
+               "TitleLv" : 1,
+               "TitleName" : "侍卫"
+            },
+            {
+               "TitleLv" : 2,
+               "TitleName" : "侍卫长"
+            },
+            {
+               "TitleLv" : 3,
+               "TitleName" : "皇家守卫"
+            },
+            {
+               "TitleLv" : 4,
+               "TitleName" : "剑士统帅"
+            }
+         ]
+      }
+   ]
+}

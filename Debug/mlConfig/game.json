@@ -1,0 +1,166 @@
+{
+    "Game": {
+        "ATKBalance": 100,
+        "CTBalance": 40000,
+        "DEFBalance": 100,
+        "HPBalance": 3,
+        "MPBalance": 20,
+        "SGBalance": 10000,
+        "SKBalance": 1000,
+        "Weight": {
+            "repel": [
+                250,
+                450
+            ],
+            "Snape": [
+                550,
+                750
+            ]
+        },
+        "AddFriendsMaxNum": 50,
+        "MaxAcceptTask": 100,
+        "MaxEmailAttachments": 8,
+        "MaxLevel": 30,
+        "BuyBack": 200,
+        "MaxPackage": 96,
+        "PackageTotal": 40,
+        "MaxStorage": 0,
+        "StorageTotal": 0,
+        "MaxSaveSellProps": 12,
+        "MaxStarLv": 20,
+        "MaxStrengthenLv": 100,
+        "MaxVit": 200,
+        "VitRestoreTime": 240,
+        "VitRestoreNum": 1,
+        "MaxpassTime": 1200,
+        "MinPassTime": 5,
+        "PassHpPercModulus": 60,
+        "PassTimeModulus": 100,
+        "ComboMaxNum": 200,
+        "ComboModulus": 105,
+        "ComboFraction": 50,
+        "HitFraction": 5,
+        "HitModulus": 105,
+        "MaxHitNum": 100,
+        "CritHurt": 50,
+        "CriticalRating": 5000,
+        "Strengthen": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "SModulus": 150,
+        "SMValue": 0,
+        "GStrengthen": [
+            32,
+            31,
+            30,
+            30,
+            29,
+            28
+        ],
+        "GModulus": 220,
+        "GMValue": 0,
+        "GoldAllotMax": 30,
+        "GoldBase": 100,
+        "GoldAllotMinNum": 100,
+        "DropLv1ToBoss": 20,
+        "DropLv1ToElite": 20,
+        "GoldFloat": 10,
+        "HurtRate": 80,
+        "SkillInitialLv": 0,
+        "ComboInitialLv": 0,
+        "RiseStarAddPlus": 6,
+        "TournamentChallenge": 8,
+        "ExpCorrect": 0,
+        "MallLimitNum": 4,
+        "MaxStarSucced": 90,
+        "MinStarBroken": 0,
+        "PowerMatching": 1000,
+        "Activity": 5,
+        "KOFRuleExplain": "竞技模式规则说明",
+        "KOFAwardExplain": "竞技模式奖励说明",
+        "ActionPonit": 6,
+        "ActionInterval": 14,
+        "ActionTime": 1,
+        "ActionRecover": [
+            75,
+            50,
+            25
+        ],
+        "LadderRefresh": [
+            {
+                "Ranking": 1000,
+                "NUM": 200
+            },
+            {
+                "Ranking": 500,
+                "NUM": 100
+            },
+            {
+                "Ranking": 200,
+                "NUM": 50
+            },
+            {
+                "Ranking": 100,
+                "NUM": 20
+            },
+            {
+                "Ranking": 0,
+                "NUM": 10
+            }
+        ],
+        "TeamMate": [
+            {
+                "Type": 1,
+                "Range": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "Type": 2,
+                "Range": [
+                    500,
+                    3000
+                ]
+            }
+        ],
+        "KOFMate": [
+            {
+                "Type": 1,
+                "Range": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "Type": 2,
+                "Range": [
+                    100,
+                    500
+                ]
+            }
+        ],
+        "1V1Mate": [
+            {
+                "Type": 1,
+                "Range": [
+                    2,
+                    5
+                ]
+            },
+            {
+                "Type": 2,
+                "Range": [
+                    200,
+                    500
+                ]
+            }
+        ],
+        "PackParam": 2
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "MPSkill": [
+        {
+            "ID": 10001,
+            "Name": "闪避",
+            "Description": 0,
+            "Skilltype": 3,
+            "CD": 0,
+            "Triggerprobability": 10,
+            "Condition": [
+                {
+                    "Type": 1,
+                    "Value": 0
+                }
+            ],
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Numericaltype": [
+                {
+                    "Type": 0,
+                    "Value": 0
+                }
+            ],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20001,
+            "Name": "格挡",
+            "Description": 0,
+            "Skilltype": 2,
+            "CD": 0,
+            "Triggerprobability": 10,
+            "Condition": [
+                {
+                    "Type": 1,
+                    "Value": 0
+                }
+            ],
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Numericaltype": [
+                {
+                    "Type": 0,
+                    "Value": 0
+                }
+            ],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 20002,
+            "Name": "格挡",
+            "Description": 0,
+            "Skilltype": 2,
+            "CD": 30,
+            "Triggerprobability": 25,
+            "Condition": [
+                {
+                    "Type": 1,
+                    "Value": 0
+                }
+            ],
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Numericaltype": [
+                {
+                    "Type": 0,
+                    "Value": 0
+                }
+            ],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30001,
+            "Name": "复活",
+            "Description": 0,
+            "Skilltype": 1,
+            "CD": -1,
+            "Triggerprobability": 100,
+            "Condition": [
+                {
+                    "Type": 2,
+                    "Value": 1
+                }
+            ],
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Numericaltype": [
+                {
+                    "Type": 0,
+                    "Value": 0
+                }
+            ],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 30002,
+            "Name": "复活",
+            "Description": 0,
+            "Skilltype": 1,
+            "CD": -1,
+            "Triggerprobability": 40,
+            "Condition": [
+                {
+                    "Type": 2,
+                    "Value": 1
+                }
+            ],
+            "OneselfBUFF": [],
+            "OthersBUFF": [],
+            "Numericaltype": [
+                {
+                    "Type": 0,
+                    "Value": 1
+                }
+            ],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        },
+        {
+            "ID": 40001,
+            "Name": "回血",
+            "Description": 0,
+            "Skilltype": 5,
+            "CD": 60,
+            "Triggerprobability": 100,
+            "Condition": [
+                {
+                    "Type": 3,
+                    "Value": 60
+                }
+            ],
+            "OneselfBUFF": [
+                {
+                    "BuffId": 11101,
+                    "Chance": 100
+                }
+            ],
+            "OthersBUFF": [],
+            "Numericaltype": [],
+            "Attackrange": 0,
+            "IconID": 0,
+            "DamageType": 0,
+            "Effect": 0
+        }
+    ]
+}

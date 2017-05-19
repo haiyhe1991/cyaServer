@@ -1,0 +1,664 @@
+{
+   "CommandCode" : [
+      {
+         "Caption" : "用户登录",
+         "CmdCode" : 30008
+      },
+      {
+         "Caption" : "用户查询分区信息",
+         "CmdCode" : 30009
+      },
+      {
+         "Caption" : "用户进入分区请求",
+         "CmdCode" : 30010
+      },
+      {
+         "Caption" : "查询分区角色",
+         "CmdCode" : 30022
+      },
+      {
+         "Caption" : "加入频道",
+         "CmdCode" : 27500
+      },
+      {
+         "Caption" : "离开频道",
+         "CmdCode" : 27501
+      },
+      {
+         "Caption" : "发送信息",
+         "CmdCode" : 27502
+      },
+      {
+         "Caption" : "收到信息",
+         "CmdCode" : 27503
+      },
+      {
+         "Caption" : "登陆Linker服务器",
+         "CmdCode" : 20000
+      },
+      {
+         "Caption" : "查询角色信息",
+         "CmdCode" : 10000
+      },
+      {
+         "Caption" : "进入角色",
+         "CmdCode" : 10001
+      },
+      {
+         "Caption" : "查询背包",
+         "CmdCode" : 10002
+      },
+      {
+         "Caption" : "查询成就",
+         "CmdCode" : 10003
+      },
+      {
+         "Caption" : "查询邮件内容",
+         "CmdCode" : 10004
+      },
+      {
+         "Caption" : "创建角色",
+         "CmdCode" : 10005
+      },
+      {
+         "Caption" : "查询好友",
+         "CmdCode" : 10006
+      },
+      {
+         "Caption" : "添加好友",
+         "CmdCode" : 10007
+      },
+      {
+         "Caption" : "删除好友",
+         "CmdCode" : 10008
+      },
+      {
+         "Caption" : "查询已完成新手引导信息",
+         "CmdCode" : 10009
+      },
+      {
+         "Caption" : "查询已完成副本信息",
+         "CmdCode" : 10010
+      },
+      {
+         "Caption" : "buf结束通知",
+         "CmdCode" : 10011
+      },
+      {
+         "Caption" : "保存机关破坏状态",
+         "CmdCode" : 10012
+      },
+      {
+         "Caption" : "保存属性点",
+         "CmdCode" : 10013
+      },
+      {
+         "Caption" : "保存新手引导",
+         "CmdCode" : 10014
+      },
+      {
+         "Caption" : "背包更改主动通知",
+         "CmdCode" : 10015
+      },
+      {
+         "Caption" : "查询当前兑换表",
+         "CmdCode" : 10016
+      },
+      {
+         "Caption" : "查询角色外型信息",
+         "CmdCode" : 10017
+      },
+      {
+         "Caption" : "查询角色详细信息",
+         "CmdCode" : 10018
+      },
+      {
+         "Caption" : "查询礼品包",
+         "CmdCode" : 10019
+      },
+      {
+         "Caption" : "查询已接受任务",
+         "CmdCode" : 10020
+      },
+      {
+         "Caption" : "充值代币",
+         "CmdCode" : 10021
+      },
+      {
+         "Caption" : "充值通知",
+         "CmdCode" : 10022
+      },
+      {
+         "Caption" : "出售道具",
+         "CmdCode" : 10023
+      },
+      {
+         "Caption" : "刷新兑换表",
+         "CmdCode" : 10024
+      },
+      {
+         "Caption" : "丢弃道具",
+         "CmdCode" : 10025
+      },
+      {
+         "Caption" : "兑换道具",
+         "CmdCode" : 10026
+      },
+      {
+         "Caption" : "放弃任务",
+         "CmdCode" : 10027
+      },
+      {
+         "Caption" : "服务器主动通知有新邮件",
+         "CmdCode" : 10028
+      },
+      {
+         "Caption" : "更新角色位置信息",
+         "CmdCode" : 10029
+      },
+      {
+         "Caption" : "购买背包或仓库储存空间",
+         "CmdCode" : 10030
+      },
+      {
+         "Caption" : "接受任务",
+         "CmdCode" : 10031
+      },
+      {
+         "Caption" : "进入某副本",
+         "CmdCode" : 10032
+      },
+      {
+         "Caption" : "领取成就奖励",
+         "CmdCode" : 10033
+      },
+      {
+         "Caption" : "升级通知",
+         "CmdCode" : 10034
+      },
+      {
+         "Caption" : "使用道具",
+         "CmdCode" : 10035
+      },
+      {
+         "Caption" : "收取邮件附件",
+         "CmdCode" : 10036
+      },
+      {
+         "Caption" : "完成某副本",
+         "CmdCode" : 10037
+      },
+      {
+         "Caption" : "镶嵌宝石",
+         "CmdCode" : 10039
+      },
+      {
+         "Caption" : "邮件查询列表",
+         "CmdCode" : 10041
+      },
+      {
+         "Caption" : "重置属性点",
+         "CmdCode" : 10042
+      },
+      {
+         "Caption" : "载入装备",
+         "CmdCode" : 10043
+      },
+      {
+         "Caption" : "卸载装备",
+         "CmdCode" : 10044
+      },
+      {
+         "Caption" : "退出角色",
+         "CmdCode" : 10045
+      },
+      {
+         "Caption" : "删除角色",
+         "CmdCode" : 10046
+      },
+      {
+         "Caption" : "取出宝石",
+         "CmdCode" : 10047
+      },
+      {
+         "Caption" : "查询公会名称",
+         "CmdCode" : 10048
+      },
+      {
+         "Caption" : "账号退出",
+         "CmdCode" : 10049
+      },
+      {
+         "Caption" : "查询某副本排行信息",
+         "CmdCode" : 10050
+      },
+      {
+         "Caption" : "个人定时任务请求",
+         "CmdCode" : 10051
+      },
+      {
+         "Caption" : "个人定时任务完成",
+         "CmdCode" : 10052
+      },
+      {
+         "Caption" : "副本扫荡",
+         "CmdCode" : 10053
+      },
+      {
+         "Caption" : "角色升级通知",
+         "CmdCode" : 10054
+      },
+      {
+         "Caption" : "查询角色已有技能",
+         "CmdCode" : 10055
+      },
+      {
+         "Caption" : "技能升级",
+         "CmdCode" : 10056
+      },
+      {
+         "Caption" : "改变阵营",
+         "CmdCode" : 10057
+      },
+      {
+         "Caption" : "装载技能",
+         "CmdCode" : 10058
+      },
+      {
+         "Caption" : "取消技能",
+         "CmdCode" : 10059
+      },
+      {
+         "Caption" : "设置技能客户端id",
+         "CmdCode" : 10060
+      },
+      {
+         "Caption" : "提交已接受任务子任务状态",
+         "CmdCode" : 10061
+      },
+      {
+         "Caption" : "提交任务完成",
+         "CmdCode" : 10062
+      },
+      {
+         "Caption" : "任务状态更新通知",
+         "CmdCode" : 10063
+      },
+      {
+         "Caption" : "查询已完成任务历史记录",
+         "CmdCode" : 10064
+      },
+      {
+         "Caption" : "获取日常任务",
+         "CmdCode" : 10065
+      },
+      {
+         "Caption" : "强化装备",
+         "CmdCode" : 10066
+      },
+      {
+         "Caption" : "装备升星",
+         "CmdCode" : 10067
+      },
+      {
+         "Caption" : "装备合成",
+         "CmdCode" : 10068
+      },
+      {
+         "Caption" : "装备消星",
+         "CmdCode" : 10069
+      },
+      {
+         "Caption" : "装备星级继承",
+         "CmdCode" : 10070
+      },
+      {
+         "Caption" : "装备强化继承",
+         "CmdCode" : 10071
+      },
+      {
+         "Caption" : "装备强化消除",
+         "CmdCode" : 10072
+      },
+      {
+         "Caption" : "宝石合成",
+         "CmdCode" : 10073
+      },
+      {
+         "Caption" : "宝石分解",
+         "CmdCode" : 10074
+      },
+      {
+         "Caption" : "副本占领推送通知",
+         "CmdCode" : 10075
+      },
+      {
+         "Caption" : "角色上线",
+         "CmdCode" : 22001
+      },
+      {
+         "Caption" : "角色下线",
+         "CmdCode" : 22002
+      },
+      {
+         "Caption" : "查询等级排行榜",
+         "CmdCode" : 22003
+      },
+      {
+         "Caption" : "查询战力排行榜",
+         "CmdCode" : 22004
+      },
+      {
+         "Caption" : "修改成就数据",
+         "CmdCode" : 22005
+      },
+      {
+         "Caption" : "登录验证",
+         "CmdCode" : 25001
+      },
+      {
+         "Caption" : "根据账户查询角色信息",
+         "CmdCode" : 25002
+      },
+      {
+         "Caption" : "查询背包",
+         "CmdCode" : 25003
+      },
+      {
+         "Caption" : "查询仓库",
+         "CmdCode" : 25004
+      },
+      {
+         "Caption" : "查询角色已装备的装备信息",
+         "CmdCode" : 25005
+      },
+      {
+         "Caption" : "查询邮件发送任务",
+         "CmdCode" : 25006
+      },
+      {
+         "Caption" : "订单确认",
+         "CmdCode" : 25007
+      },
+      {
+         "Caption" : "分页查询角色信息",
+         "CmdCode" : 25008
+      },
+      {
+         "Caption" : "减少角色代币",
+         "CmdCode" : 25009
+      },
+      {
+         "Caption" : "根据昵称查询角色信息",
+         "CmdCode" : 25010
+      },
+      {
+         "Caption" : "删除角色背包道具",
+         "CmdCode" : 25011
+      },
+      {
+         "Caption" : "删除角色仓库道具",
+         "CmdCode" : 25012
+      },
+      {
+         "Caption" : "修改角色已学技能",
+         "CmdCode" : 25013
+      },
+      {
+         "Caption" : "锁定/解锁角色登陆",
+         "CmdCode" : 25014
+      },
+      {
+         "Caption" : "提高或降低角色等级",
+         "CmdCode" : 25015
+      },
+      {
+         "Caption" : "统计服务器信息",
+         "CmdCode" : 25016
+      },
+      {
+         "Caption" : "修改角色游戏币",
+         "CmdCode" : 25017
+      },
+      {
+         "Caption" : "用户退出",
+         "CmdCode" : 25018
+      },
+      {
+         "Caption" : "登出Linker服务器",
+         "CmdCode" : 20001
+      },
+      {
+         "Caption" : "心跳",
+         "CmdCode" : 20002
+      },
+      {
+         "Caption" : "link服务器登录",
+         "CmdCode" : 30001
+      },
+      {
+         "Caption" : "开启分区",
+         "CmdCode" : 30002
+      },
+      {
+         "Caption" : "停止分区",
+         "CmdCode" : 30003
+      },
+      {
+         "Caption" : "从link获取token",
+         "CmdCode" : 30004
+      },
+      {
+         "Caption" : "link服务器查询当前所在分区状态",
+         "CmdCode" : 30005
+      },
+      {
+         "Caption" : "link服务器上报当前连接数",
+         "CmdCode" : 30006
+      },
+      {
+         "Caption" : "link服务器汇报角色创建或删除",
+         "CmdCode" : 30007
+      },
+      {
+         "Caption" : "管理服务器登录",
+         "CmdCode" : 30011
+      },
+      {
+         "Caption" : "增加分区",
+         "CmdCode" : 30012
+      },
+      {
+         "Caption" : "删除分区",
+         "CmdCode" : 30013
+      },
+      {
+         "Caption" : "修改分区",
+         "CmdCode" : 30014
+      },
+      {
+         "Caption" : "查询分区",
+         "CmdCode" : 30015
+      },
+      {
+         "Caption" : "设置推荐分区",
+         "CmdCode" : 30016
+      },
+      {
+         "Caption" : "重新载入分区",
+         "CmdCode" : 30017
+      },
+      {
+         "Caption" : "开启link服务",
+         "CmdCode" : 30018
+      },
+      {
+         "Caption" : "停止link服务",
+         "CmdCode" : 30019
+      },
+      {
+         "Caption" : "linker通知验证服务器用户验证通过",
+         "CmdCode" : 30020
+      },
+      {
+         "Caption" : "通知linker要下线的用户",
+         "CmdCode" : 30021
+      },
+      {
+         "Caption" : "获取上报linker连接数时间间隔(单位:秒)",
+         "CmdCode" : 30023
+      },
+      {
+         "Caption" : "查询用户区",
+         "CmdCode" : 30024
+      },
+      {
+         "Caption" : "查询账号",
+         "CmdCode" : 30025
+      },
+      {
+         "Caption" : "物品回购",
+         "CmdCode" : 10076
+      },
+      {
+         "Caption" : "查询角色出售物品记录",
+         "CmdCode" : 10077
+      },
+      {
+         "Caption" : "碎片合成装备",
+         "CmdCode" : 10078
+      },
+      {
+         "Caption" : "体力恢复通知",
+         "CmdCode" : 10079
+      },
+      {
+         "Caption" : "背包整理",
+         "CmdCode" : 10080
+      },
+      {
+         "Caption" : "获取角色占领",
+         "CmdCode" : 10081
+      },
+      {
+         "Caption" : "设置角色职业称号id",
+         "CmdCode" : 10082
+      },
+      {
+         "Caption" : "删除角色邮件",
+         "CmdCode" : 10083
+      },
+      {
+         "Caption" : "商城购买物品",
+         "CmdCode" : 10084
+      },
+      {
+         "Caption" : "查询角色拥有时装",
+         "CmdCode" : 10085
+      },
+      {
+         "Caption" : "穿戴时装",
+         "CmdCode" : 10086
+      },
+      {
+         "Caption" : "拾取副本掉落物品",
+         "CmdCode" : 10087
+      },
+      {
+         "Caption" : "角色金币更新通知",
+         "CmdCode" : 10088
+      },
+      {
+         "Caption" : "角色代币更新通知",
+         "CmdCode" : 10089
+      },
+      {
+         "Caption" : "角色经验更新通知",
+         "CmdCode" : 10090
+      },
+      {
+         "Caption" : "角色背包更新通知",
+         "CmdCode" : 10091
+      },
+      {
+         "Caption" : "随机副本开启通知",
+         "CmdCode" : 10092
+      },
+      {
+         "Caption" : "随机副本关闭通知",
+         "CmdCode" : 10093
+      },
+      {
+         "Caption" : "获取单人随机副本传送阵进入人数",
+         "CmdCode" : 10094
+      },
+      {
+         "Caption" : "查询装备碎片",
+         "CmdCode" : 10095
+      },
+      {
+         "Caption" : "装备碎片合成",
+         "CmdCode" : 10096
+      },
+      {
+         "Caption" : "角色复活",
+         "CmdCode" : 10097
+      },
+      {
+         "Caption" : "获取已打开单人随机副本",
+         "CmdCode" : 10098
+      },
+      {
+         "Caption" : "系统公告通知",
+         "CmdCode" : 10099
+      },
+      {
+         "Caption" : "查询当天金币兑换次数",
+         "CmdCode" : 10100
+      },
+      {
+         "Caption" : "金币兑换",
+         "CmdCode" : 10101
+      },
+      {
+         "Caption" : "好友申请通知",
+         "CmdCode" : 10102
+      },
+      {
+         "Caption" : "好友申请确认",
+         "CmdCode" : 10103
+      },
+      {
+         "Caption" : "好友申请同意通知",
+         "CmdCode" : 10104
+      },
+      {
+         "Caption" : "查询好友申请",
+         "CmdCode" : 10105
+      },
+      {
+         "Caption" : "获取推荐好友列表",
+         "CmdCode" : 10106
+      },
+      {
+         "Caption" : "搜索玩家",
+         "CmdCode" : 10107
+      },
+      {
+         "Caption" : "好友上线通知",
+         "CmdCode" : 10108
+      },
+      {
+         "Caption" : "好友下线通知",
+         "CmdCode" : 10109
+      },
+      {
+         "Caption" : "拒绝好友申请通知",
+         "CmdCode" : 10110
+      },
+      {
+         "Caption" : "好友删除通知",
+         "CmdCode" : 10111
+      }
+   ]
+}

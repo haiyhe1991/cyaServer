@@ -1,0 +1,68 @@
+{
+    "Revive": [
+        {
+            "ID": 1,
+            "HPProportion": 100,
+            "MPProportion": 50,
+            "InvincibleTime": 2,
+            "MaxNum": 2,
+            "CD": 3,
+            "ReviveCoinCost": [
+                0,
+                6,
+                9,
+                12,
+                15,
+                18,
+                21,
+                24,
+                27,
+                30
+            ]
+        },
+        {
+            "ID": 2,
+            "HPProportion": 100,
+            "MPProportion": 10,
+            "InvincibleTime": 2,
+            "MaxNum": 2,
+            "CD": 3,
+            "ReviveCoinCost": [
+                0,
+                6,
+                9,
+                12,
+                15,
+                18,
+                21,
+                24,
+                27,
+                30
+            ]
+        },
+        {
+            "ID": 3,
+            "HPProportion": 100,
+            "MPProportion": 100,
+            "InvincibleTime": 2,
+            "MaxNum": 0,
+            "CD": 0,
+            "ReviveCoinCost": []
+        },
+        {
+            "ID": 4,
+            "HPProportion": 100,
+            "MPProportion": 100,
+            "InvincibleTime": 2,
+            "MaxNum": 0,
+            "CD": 30,
+            "ReviveCoinCost": [
+                10,
+                20,
+                40,
+                50,
+                100
+            ]
+        }
+    ]
+}

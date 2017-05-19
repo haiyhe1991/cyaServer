@@ -1,0 +1,392 @@
+{
+    "Vip": [
+        {
+            "VipLv": 0,
+            "Name": "VIP00",
+            "BuyVitNum": 1,
+            "DeadReviveNum": 1,
+            "GoldExchangeNum": 0,
+            "MallBuyPropDiscount": 100,
+            "RechargeTotal": 0,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 0,
+            "TitleReward": 0,
+            "GivingProp": []
+        },
+        {
+            "VipLv": 1,
+            "Name": "VIP01",
+            "BuyVitNum": 1,
+            "DeadReviveNum": 1,
+            "GoldExchangeNum": 2,
+            "MallBuyPropDiscount": 100,
+            "RechargeTotal": 6,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 1,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 20000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4601,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 2,
+            "Name": "VIP02",
+            "BuyVitNum": 1,
+            "DeadReviveNum": 1,
+            "GoldExchangeNum": 4,
+            "MallBuyPropDiscount": 100,
+            "RechargeTotal": 10,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 1,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 25000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4501,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 3,
+            "Name": "VIP03",
+            "BuyVitNum": 2,
+            "DeadReviveNum": 1,
+            "GoldExchangeNum": 6,
+            "MallBuyPropDiscount": 100,
+            "RechargeTotal": 30,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 1,
+            "TitleReward": 51301,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 30000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4201,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 4,
+            "Name": "VIP04",
+            "BuyVitNum": 2,
+            "DeadReviveNum": 1,
+            "GoldExchangeNum": 8,
+            "MallBuyPropDiscount": 98,
+            "RechargeTotal": 100,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 2,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 35000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4101,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 5,
+            "Name": "VIP05",
+            "BuyVitNum": 3,
+            "DeadReviveNum": 2,
+            "GoldExchangeNum": 10,
+            "MallBuyPropDiscount": 98,
+            "RechargeTotal": 200,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 2,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 40000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4401,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 6,
+            "Name": "VIP06",
+            "BuyVitNum": 3,
+            "DeadReviveNum": 2,
+            "GoldExchangeNum": 12,
+            "MallBuyPropDiscount": 98,
+            "RechargeTotal": 300,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 2,
+            "TitleReward": 51302,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 45000
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4301,
+                    "NUM": 8
+                }
+            ]
+        },
+        {
+            "VipLv": 7,
+            "Name": "VIP07",
+            "BuyVitNum": 4,
+            "DeadReviveNum": 2,
+            "GoldExchangeNum": 14,
+            "MallBuyPropDiscount": 95,
+            "RechargeTotal": 500,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 3,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 50000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 50
+                }
+            ]
+        },
+        {
+            "VipLv": 8,
+            "Name": "VIP08",
+            "BuyVitNum": 4,
+            "DeadReviveNum": 2,
+            "GoldExchangeNum": 16,
+            "MallBuyPropDiscount": 95,
+            "RechargeTotal": 800,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 3,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 55000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 60
+                }
+            ]
+        },
+        {
+            "VipLv": 9,
+            "Name": "VIP09",
+            "BuyVitNum": 5,
+            "DeadReviveNum": 3,
+            "GoldExchangeNum": 18,
+            "MallBuyPropDiscount": 95,
+            "RechargeTotal": 1200,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 3,
+            "TitleReward": 51303,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 60000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 70
+                }
+            ]
+        },
+        {
+            "VipLv": 10,
+            "Name": "VIP10",
+            "BuyVitNum": 5,
+            "DeadReviveNum": 3,
+            "GoldExchangeNum": 20,
+            "MallBuyPropDiscount": 90,
+            "RechargeTotal": 2000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 4,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 65000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 80
+                }
+            ]
+        },
+        {
+            "VipLv": 11,
+            "Name": "VIP11",
+            "BuyVitNum": 6,
+            "DeadReviveNum": 3,
+            "GoldExchangeNum": 22,
+            "MallBuyPropDiscount": 90,
+            "RechargeTotal": 3000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 4,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 70000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 90
+                }
+            ]
+        },
+        {
+            "VipLv": 12,
+            "Name": "VIP12",
+            "BuyVitNum": 6,
+            "DeadReviveNum": 3,
+            "GoldExchangeNum": 24,
+            "MallBuyPropDiscount": 90,
+            "RechargeTotal": 5000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 4,
+            "TitleReward": 51304,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 75000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 100
+                }
+            ]
+        },
+        {
+            "VipLv": 13,
+            "Name": "VIP13",
+            "BuyVitNum": 7,
+            "DeadReviveNum": 4,
+            "GoldExchangeNum": 26,
+            "MallBuyPropDiscount": 85,
+            "RechargeTotal": 8000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 5,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 80000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 150
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4101,
+                    "NUM": 16
+                }
+            ]
+        },
+        {
+            "VipLv": 14,
+            "Name": "VIP14",
+            "BuyVitNum": 7,
+            "DeadReviveNum": 4,
+            "GoldExchangeNum": 28,
+            "MallBuyPropDiscount": 85,
+            "RechargeTotal": 12000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 5,
+            "TitleReward": 0,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 85000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 200
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4401,
+                    "NUM": 16
+                }
+            ]
+        },
+        {
+            "VipLv": 15,
+            "Name": "VIP15",
+            "BuyVitNum": 8,
+            "DeadReviveNum": 4,
+            "GoldExchangeNum": 30,
+            "MallBuyPropDiscount": 85,
+            "RechargeTotal": 18000,
+            "SignUpRewardDouble": 0,
+            "ResourceInstChalNum": 5,
+            "TitleReward": 51305,
+            "GivingProp": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 90000
+                },
+                {
+                    "TYPE": 3,
+                    "ID": 31002,
+                    "NUM": 300
+                },
+                {
+                    "TYPE": 2,
+                    "ID": 4301,
+                    "NUM": 16
+                }
+            ]
+        }
+    ]
+}

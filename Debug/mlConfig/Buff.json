@@ -1,0 +1,1232 @@
+{
+    "Buff": [
+        {
+            "ID": 10100,
+            "Name": "霸体",
+            "Desc": "特殊霸体，固定ID",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10002,
+            "Time": 0,
+            "ResultAttr": [
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3200,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                1
+            ],
+            "CoverLevel": 1,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10101,
+            "Name": "霸体(小)",
+            "Desc": "受击不产生硬直，无受击效果（无受击动作）",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10001,
+            "Time": 1,
+            "ResultAttr": [
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3200,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                1
+            ],
+            "CoverLevel": 3,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10102,
+            "Name": "霸体(中)",
+            "Desc": "受击不产生硬直，无受击效果（无受击动作）",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10002,
+            "Time": 2,
+            "ResultAttr": [
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3200,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                1
+            ],
+            "CoverLevel": 2,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10201,
+            "Name": "疾行",
+            "Desc": "移动速度提高20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10003,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1601,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                3
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10301,
+            "Name": "急攻",
+            "Desc": "攻击速度提高20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10004,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1701,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                4
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10401,
+            "Name": "攻击祝福",
+            "Desc": "攻击力增加20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10005,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1301,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                5
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10501,
+            "Name": "防御祝福",
+            "Desc": "防御力增加20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10006,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1401,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                6
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10601,
+            "Name": "生命祝福",
+            "Desc": "生命值上限增加20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10007,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1111,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                7
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10701,
+            "Name": "魔力祝福",
+            "Desc": "魔法值上限增加20%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10008,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1211,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                8
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10801,
+            "Name": "暴击祝福",
+            "Desc": "暴击率提高10%",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10009,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1501,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                9
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 10901,
+            "Name": "天使祝福",
+            "Desc": "生命值上限、魔法上限、攻击力、防御力提高%10",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10010,
+            "Time": 18,
+            "ResultAttr": [
+                {
+                    "Type": 1111,
+                    "Value": 10
+                },
+                {
+                    "Type": 1211,
+                    "Value": 10
+                },
+                {
+                    "Type": 1301,
+                    "Value": 10
+                },
+                {
+                    "Type": 1401,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                10
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11000,
+            "Name": "无敌",
+            "Desc": "特殊无敌，固定ID",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10011,
+            "Time": 0,
+            "ResultAttr": [
+                {
+                    "Type": 3100,
+                    "Value": 0
+                },
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3700,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                11
+            ],
+            "CoverLevel": 1,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11001,
+            "Name": "无敌",
+            "Desc": "免疫攻击，不受伤害，免疫DEBUFF",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10011,
+            "Time": 18,
+            "ResultAttr": [
+                {
+                    "Type": 3100,
+                    "Value": 0
+                },
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3700,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                11
+            ],
+            "CoverLevel": 2,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11002,
+            "Name": "无敌",
+            "Desc": "免疫攻击，不受伤害，免疫DEBUFF",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 0,
+            "Time": 1,
+            "ResultAttr": [
+                {
+                    "Type": 3100,
+                    "Value": 0
+                },
+                {
+                    "Type": 3000,
+                    "Value": 0
+                },
+                {
+                    "Type": 3700,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                11
+            ],
+            "CoverLevel": 3,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11101,
+            "Name": "生命持续恢复",
+            "Desc": "生命值每秒回复5%,持续10秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10012,
+            "Time": 10,
+            "ResultAttr": [
+                {
+                    "Type": 1121,
+                    "Value": 5
+                }
+            ],
+            "CoverFlag": [
+                12
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11201,
+            "Name": "魔力持续恢复",
+            "Desc": "魔法值每秒回复5%,持续10秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10013,
+            "Time": 10,
+            "ResultAttr": [
+                {
+                    "Type": 1221,
+                    "Value": 5
+                }
+            ],
+            "CoverFlag": [
+                13
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11301,
+            "Name": "生命瞬间恢复",
+            "Desc": "生命值瞬间回复30%,持续0秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10014,
+            "Time": -1,
+            "ResultAttr": [
+                {
+                    "Type": 1103,
+                    "Value": 30
+                }
+            ],
+            "CoverFlag": [
+                14
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11401,
+            "Name": "魔力瞬间恢复",
+            "Desc": "魔法值瞬间回复30%,持续0秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10015,
+            "Time": -1,
+            "ResultAttr": [
+                {
+                    "Type": 1203,
+                    "Value": 30
+                }
+            ],
+            "CoverFlag": [
+                15
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 11501,
+            "Name": "贵族的祝福",
+            "Desc": "金币收益提高100%,持续7200秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10016,
+            "Time": 7200,
+            "ResultAttr": [
+                {
+                    "Type": 1881,
+                    "Value": 100
+                }
+            ],
+            "CoverFlag": [
+                101
+            ],
+            "CoverLevel": 1,
+            "RemoveType": 5,
+            "RemoveValue": 0,
+            "IsServerControl": 1
+        },
+        {
+            "ID": 11601,
+            "Name": "骑士的祝福",
+            "Desc": "经验收益提高100%,持续7200秒",
+            "IconID": 0,
+            "TYPE": 1,
+            "EffectID": 10017,
+            "Time": 7200,
+            "ResultAttr": [
+                {
+                    "Type": 1981,
+                    "Value": 100
+                }
+            ],
+            "CoverFlag": [
+                102
+            ],
+            "CoverLevel": 2,
+            "RemoveType": 5,
+            "RemoveValue": 0,
+            "IsServerControl": 1
+        },
+        {
+            "ID": 20401,
+            "Name": "眩晕",
+            "Desc": "眩晕状态无法进行任何操作,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10018,
+            "Time": 1,
+            "ResultAttr": [
+                {
+                    "Type": 3300,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                16
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20501,
+            "Name": "冰冻",
+            "Desc": "移动速度降低25%,被击中必暴击,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10019,
+            "Time": 2,
+            "ResultAttr": [
+                {
+                    "Type": 1602,
+                    "Value": 25
+                },
+                {
+                    "Type": 3400,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                17
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20601,
+            "Name": "中毒",
+            "Desc": "生命值每秒减少2%,移动速度降低10,持续5秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10020,
+            "Time": 5,
+            "ResultAttr": [
+                {
+                    "Type": 1122,
+                    "Value": 2
+                },
+                {
+                    "Type": 1602,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                201
+            ],
+            "CoverLevel": 3,
+            "RemoveType": 2,
+            "RemoveValue": 10,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20602,
+            "Name": "中毒",
+            "Desc": "生命值每秒减少3%,移动速度降低10,持续5秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10021,
+            "Time": 5,
+            "ResultAttr": [
+                {
+                    "Type": 1122,
+                    "Value": 3
+                },
+                {
+                    "Type": 1602,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                201
+            ],
+            "CoverLevel": 2,
+            "RemoveType": 2,
+            "RemoveValue": 10,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20603,
+            "Name": "中毒",
+            "Desc": "生命值每秒减少4%,移动速度降低10,持续5秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10022,
+            "Time": 5,
+            "ResultAttr": [
+                {
+                    "Type": 1122,
+                    "Value": 4
+                },
+                {
+                    "Type": 1602,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                201
+            ],
+            "CoverLevel": 1,
+            "RemoveType": 2,
+            "RemoveValue": 10,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20701,
+            "Name": "出血",
+            "Desc": "生命值每秒减少5%,防御力减少10%,持续4秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10023,
+            "Time": 4,
+            "ResultAttr": [
+                {
+                    "Type": 1122,
+                    "Value": 5
+                },
+                {
+                    "Type": 1402,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                18
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 2,
+            "RemoveValue": 10,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20801,
+            "Name": "灼烧",
+            "Desc": "生命值每秒减少5%,被暴击伤害提高50%,持续4秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10024,
+            "Time": 4,
+            "ResultAttr": [
+                {
+                    "Type": 1122,
+                    "Value": 5
+                },
+                {
+                    "Type": 3500,
+                    "Value": 50
+                }
+            ],
+            "CoverFlag": [
+                19
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 20901,
+            "Name": "虚弱",
+            "Desc": "攻击力减少10%,攻击速度降低10%,持续5秒,防御不能使用,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10025,
+            "Time": 5,
+            "ResultAttr": [
+                {
+                    "Type": 1302,
+                    "Value": 10
+                },
+                {
+                    "Type": 1702,
+                    "Value": 10
+                },
+                {
+                    "Type": 2404,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                20
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21001,
+            "Name": "麻痹",
+            "Desc": "移动速度降低10%,攻击速度降低20,持续3秒,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10026,
+            "Time": 3,
+            "ResultAttr": [
+                {
+                    "Type": 1602,
+                    "Value": 10
+                },
+                {
+                    "Type": 1702,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                21
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21101,
+            "Name": "封印",
+            "Desc": "技能不能使用,连击不回复MP,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10027,
+            "Time": 5,
+            "ResultAttr": [
+                {
+                    "Type": 2004,
+                    "Value": 0
+                },
+                {
+                    "Type": 1204,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                22
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21201,
+            "Name": "束缚",
+            "Desc": "移动（包含跳跃、闪避）不能使用,但可以攻击,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10028,
+            "Time": 2,
+            "ResultAttr": [
+                {
+                    "Type": 2104,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                23
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21301,
+            "Name": "石化",
+            "Desc": "被石化的角色不能攻击和移动，也不会受击，防御力增加%50,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10029,
+            "Time": 4,
+            "ResultAttr": [
+                {
+                    "Type": 1401,
+                    "Value": 50
+                },
+                {
+                    "Type": 2204,
+                    "Value": 0
+                },
+                {
+                    "Type": 3000,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                24
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21401,
+            "Name": "混乱",
+            "Desc": "玩家移动指令和移动行为相反,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10030,
+            "Time": 4,
+            "ResultAttr": [
+                {
+                    "Type": 2105,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                25
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21501,
+            "Name": "攻击诅咒",
+            "Desc": "攻击力减少20%,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10031,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1302,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                26
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21601,
+            "Name": "防御诅咒",
+            "Desc": "防御力减少20%,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10032,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1402,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                27
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21701,
+            "Name": "生命诅咒",
+            "Desc": "生命值上限减少20%,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10033,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1112,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                28
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21801,
+            "Name": "魔力诅咒",
+            "Desc": "魔法值上限减少20%,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10034,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1212,
+                    "Value": 20
+                }
+            ],
+            "CoverFlag": [
+                29
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 21901,
+            "Name": "暴击诅咒",
+            "Desc": "暴击率降低10%,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10035,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1502,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                30
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 22001,
+            "Name": "全属性诅咒",
+            "Desc": "生命值上限、魔法上限、攻击力、防御力降低%10,（触发几率）30%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10036,
+            "Time": 20,
+            "ResultAttr": [
+                {
+                    "Type": 1112,
+                    "Value": 10
+                },
+                {
+                    "Type": 1212,
+                    "Value": 10
+                },
+                {
+                    "Type": 1302,
+                    "Value": 10
+                },
+                {
+                    "Type": 1402,
+                    "Value": 10
+                }
+            ],
+            "CoverFlag": [
+                31
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        },
+        {
+            "ID": 22101,
+            "Name": "冻结",
+            "Desc": "冻结状态无法进行任何操作,（触发几率）8%",
+            "IconID": 0,
+            "TYPE": 2,
+            "EffectID": 10037,
+            "Time": 1,
+            "ResultAttr": [
+                {
+                    "Type": 2104,
+                    "Value": 0
+                },
+                {
+                    "Type": 2204,
+                    "Value": 0
+                },
+                {
+                    "Type": 2404,
+                    "Value": 0
+                }
+            ],
+            "CoverFlag": [
+                32
+            ],
+            "CoverLevel": 0,
+            "RemoveType": 0,
+            "RemoveValue": 0,
+            "IsServerControl": 0
+        }
+    ],
+    "BuffType": [
+        {
+            "TypeID": 1111,
+            "TypeName": "生命值上限增加",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1121,
+            "TypeName": "生命值每秒回复",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1112,
+            "TypeName": "生命值上限减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1122,
+            "TypeName": "生命值每秒减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1103,
+            "TypeName": "生命值瞬间回复",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1104,
+            "TypeName": "生命值回复停止",
+            "Value": "无"
+        },
+        {
+            "TypeID": 1211,
+            "TypeName": "魔法值上限增加",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1221,
+            "TypeName": "魔法值每秒回复",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1212,
+            "TypeName": "魔法值上限减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1222,
+            "TypeName": "魔法值每秒减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1203,
+            "TypeName": "魔法值瞬间回复",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1204,
+            "TypeName": "魔法值回复停止",
+            "Value": "无"
+        },
+        {
+            "TypeID": 1301,
+            "TypeName": "攻击力增加",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1302,
+            "TypeName": "攻击力减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1401,
+            "TypeName": "防御力增加",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1402,
+            "TypeName": "防御力减少",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1501,
+            "TypeName": "暴击率提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1502,
+            "TypeName": "暴击率降低",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1601,
+            "TypeName": "移动速度提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1602,
+            "TypeName": "移动速度降低",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1701,
+            "TypeName": "攻击速度提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1702,
+            "TypeName": "攻击速度降低",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1881,
+            "TypeName": "金币收益提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 1981,
+            "TypeName": "经验收益提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 2004,
+            "TypeName": "技能不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2104,
+            "TypeName": "移动（包含跳跃、闪避）不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2105,
+            "TypeName": "移动方向相反",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2204,
+            "TypeName": "攻击（包含技能）不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2304,
+            "TypeName": "闪避不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2404,
+            "TypeName": "防御不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2504,
+            "TypeName": "击退不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2604,
+            "TypeName": "击倒不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2704,
+            "TypeName": "击飞不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2804,
+            "TypeName": "血瓶不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 2904,
+            "TypeName": "蓝瓶不能使用",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3000,
+            "TypeName": "不会被受击（不播放受击动作）",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3100,
+            "TypeName": "不会被伤害（不改变生命值）",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3200,
+            "TypeName": "不能被挑空",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3300,
+            "TypeName": "眩晕（不能执行任何操作）",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3400,
+            "TypeName": "100%暴击",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3500,
+            "TypeName": "被暴击伤害提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 3600,
+            "TypeName": "主动暴击伤害提高",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 3700,
+            "TypeName": "免疫所有DEBUFF",
+            "Value": "无"
+        },
+        {
+            "TypeID": 3800,
+            "TypeName": "增加对护甲值伤害",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 3900,
+            "TypeName": "减少对护甲值伤害",
+            "Value": "百分比"
+        },
+        {
+            "TypeID": 4000,
+            "TypeName": "清空护甲值",
+            "Value": "无"
+        }
+    ]
+}

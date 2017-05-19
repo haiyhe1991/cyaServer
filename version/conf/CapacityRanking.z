@@ -1,0 +1,118 @@
+{
+    "IsOpen": 1,
+    "StartTime": "20150801000000",
+    "EndTime": "20250801000000",
+    "Desc": "战力奖励，达到指定战力要求后，即可立即领取对应奖励",
+    "Data": [
+        {
+            "RankID": 1,
+            "ConditionValue": 500,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 50000
+                }
+            ]
+        },
+        {
+            "RankID": 2,
+            "ConditionValue": 750,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 100000
+                }
+            ]
+        },
+        {
+            "RankID": 3,
+            "ConditionValue": 1000,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 150000
+                }
+            ]
+        },
+        {
+            "RankID": 4,
+            "ConditionValue": 1500,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 200000
+                }
+            ]
+        },
+        {
+            "RankID": 5,
+            "ConditionValue": 2000,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 250000
+                }
+            ]
+        },
+        {
+            "RankID": 6,
+            "ConditionValue": 2500,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 300000
+                }
+            ]
+        },
+        {
+            "RankID": 7,
+            "ConditionValue": 3000,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 350000
+                }
+            ]
+        },
+        {
+            "RankID": 8,
+            "ConditionValue": 3500,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 400000
+                }
+            ]
+        },
+        {
+            "RankID": 9,
+            "ConditionValue": 4000,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 450000
+                }
+            ]
+        },
+        {
+            "RankID": 10,
+            "ConditionValue": 5000,
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 500000
+                }
+            ]
+        }
+    ]
+}

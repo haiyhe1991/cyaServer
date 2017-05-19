@@ -1,0 +1,92 @@
+{
+    "Lock": [
+        {
+            "ID": 1001,
+            "LockInfo": "解锁大剑角色",
+            "LockState": "无需解锁",
+            "Type": 1,
+            "BLock": 0,
+            "Value": 1,
+            "LvLimit": 0,
+            "Golds": 0,
+            "Token": 0
+        },
+        {
+            "ID": 1002,
+            "LockInfo": "解锁双剑角色",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 1,
+            "BLock": 0,
+            "Value": 2,
+            "LvLimit": 1,
+            "Golds": 0,
+            "Token": 100
+        },
+        {
+            "ID": 1003,
+            "LockInfo": "解锁剑盾角色",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 1,
+            "BLock": 0,
+            "Value": 3,
+            "LvLimit": 5,
+            "Golds": 0,
+            "Token": 100
+        },
+        {
+            "ID": 2001,
+            "LockInfo": "解锁疾风之岚关卡",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 2,
+            "BLock": 0,
+            "Value": 1104,
+            "LvLimit": 0,
+            "Golds": 0,
+            "Token": 20
+        },
+        {
+            "ID": 2002,
+            "LockInfo": "解锁荆棘之塔关卡",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 2,
+            "BLock": 0,
+            "Value": 1105,
+            "LvLimit": 0,
+            "Golds": 0,
+            "Token": 30
+        },
+        {
+            "ID": 2007,
+            "LockInfo": "解锁规避者悬崖关卡",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 2,
+            "BLock": 1,
+            "Value": 1205,
+            "LvLimit": 0,
+            "Golds": 0,
+            "Token": 50
+        },
+        {
+            "ID": 2011,
+            "LockInfo": "解锁迷雾平原关卡",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 2,
+            "BLock": 1,
+            "Value": 1304,
+            "LvLimit": 10,
+            "Golds": 0,
+            "Token": 100
+        },
+        {
+            "ID": 2012,
+            "LockInfo": "解锁格鲁尔小镇关卡",
+            "LockState": "解锁需要进入 设置 功能解锁界面，进行解锁操作。",
+            "Type": 2,
+            "BLock": 1,
+            "Value": 1305,
+            "LvLimit": 10,
+            "Golds": 0,
+            "Token": 100
+        }
+    ]
+}

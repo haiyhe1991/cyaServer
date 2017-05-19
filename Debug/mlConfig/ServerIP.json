@@ -1,0 +1,34 @@
+{
+   "ServerIP" : [
+      {
+         "ServerIP" : "SGS_Level_Sanctuary",
+         "EngineServerIP" : "SGS_Level_Sanctuary",
+         "daemonPort" : 10000,
+         "engineServerPort" : 10000
+      },
+      {
+         "ServerIP" : "192.168.1.104",
+         "EngineServerIP" : "SGS_Level_Sanctuary",
+         "daemonPort" : 10000,
+         "engineServerPort" : 10000
+      },
+      {
+         "ServerIP" : "127.0.0.1",
+         "EngineServerIP" : "SGS_Level_Sanctuary",
+         "daemonPort" : 10000,
+         "engineServerPort" : 10000
+      },
+      {
+         "ServerIP" : "192.168.1.106",
+         "EngineServerIP" : "SGS_Level_Sanctuary",
+         "daemonPort" : 10000,
+         "engineServerPort" : 10000
+      },
+      {
+         "ServerIP" : "120.26.45.23",
+         "EngineServerIP" : "SGS_Level_Sanctuary",
+         "daemonPort" : 10000,
+         "engineServerPort" : 10000
+      }
+   ]
+}

@@ -1,0 +1,31 @@
+{
+    "Activity": [
+        {
+            "ID": 1,
+            "Name": "开服活动",
+            "StartTime": "20150801000000",
+            "EndTime": "20250801000000",
+            "Condition": [],
+            "Rewards": []
+        },
+        {
+            "ID": 2,
+            "Name": "冲级奖励",
+            "StartTime": "20150801000000",
+            "EndTime": "20250801000000",
+            "Condition": [
+                {
+                    "TYPE": 1,
+                    "NUM": 3
+                }
+            ],
+            "Rewards": [
+                {
+                    "TYPE": 6,
+                    "ID": 0,
+                    "NUM": 20
+                }
+            ]
+        }
+    ]
+}

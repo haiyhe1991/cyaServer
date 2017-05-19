@@ -1,0 +1,34 @@
+{
+   "Quality" : [
+      {
+         "Color" : 1,
+         "Description" : "普通装备",
+         "ID" : 1,
+         "MaxLevel" : 20
+      },
+      {
+         "Color" : 2,
+         "Description" : "精品装备",
+         "ID" : 2,
+         "MaxLevel" : 40
+      },
+      {
+         "Color" : 3,
+         "Description" : "卓越装备",
+         "ID" : 3,
+         "MaxLevel" : 60
+      },
+      {
+         "Color" : 4,
+         "Description" : "完美装备，可提供套装属性，十连抽必出橙装",
+         "ID" : 4,
+         "MaxLevel" : 60
+      },
+      {
+         "Color" : 5,
+         "Description" : "史诗装备，可提供套装属性",
+         "ID" : 5,
+         "MaxLevel" : 60
+      }
+   ]
+}

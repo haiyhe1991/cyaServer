@@ -1,0 +1,682 @@
+{
+    "Gems": [
+        {
+            "ID": 4101,
+            "Name": "生命宝石1级",
+            "Type": 1,
+            "Level": 1,
+            "AttrVal": 112,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的生命值",
+            "IconID": 4101,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4102,
+            "Name": "生命宝石2级",
+            "Type": 1,
+            "Level": 2,
+            "AttrVal": 258,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的生命值",
+            "IconID": 4102,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4103,
+            "Name": "生命宝石3级",
+            "Type": 1,
+            "Level": 3,
+            "AttrVal": 621,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的生命值",
+            "IconID": 4103,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4104,
+            "Name": "生命宝石4级",
+            "Type": 1,
+            "Level": 4,
+            "AttrVal": 1349,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的生命值",
+            "IconID": 4104,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4105,
+            "Name": "生命宝石5级",
+            "Type": 1,
+            "Level": 5,
+            "AttrVal": 2440,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的生命值",
+            "IconID": 4105,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4106,
+            "Name": "生命宝石6级",
+            "Type": 1,
+            "Level": 6,
+            "AttrVal": 3894,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的生命值",
+            "IconID": 4106,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4201,
+            "Name": "魔法宝石1级",
+            "Type": 2,
+            "Level": 1,
+            "AttrVal": 11,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的魔法值",
+            "IconID": 4201,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4202,
+            "Name": "魔法宝石2级",
+            "Type": 2,
+            "Level": 2,
+            "AttrVal": 27,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的魔法值",
+            "IconID": 4202,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4203,
+            "Name": "魔法宝石3级",
+            "Type": 2,
+            "Level": 3,
+            "AttrVal": 69,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的魔法值",
+            "IconID": 4203,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4204,
+            "Name": "魔法宝石4级",
+            "Type": 2,
+            "Level": 4,
+            "AttrVal": 151,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的魔法值",
+            "IconID": 4204,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4205,
+            "Name": "魔法宝石5级",
+            "Type": 2,
+            "Level": 5,
+            "AttrVal": 275,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的魔法值",
+            "IconID": 4205,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4206,
+            "Name": "魔法宝石6级",
+            "Type": 2,
+            "Level": 6,
+            "AttrVal": 439,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的魔法值",
+            "IconID": 4206,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4301,
+            "Name": "攻击宝石1级",
+            "Type": 3,
+            "Level": 1,
+            "AttrVal": 9,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的攻击值",
+            "IconID": 4301,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4302,
+            "Name": "攻击宝石2级",
+            "Type": 3,
+            "Level": 2,
+            "AttrVal": 21,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的攻击值",
+            "IconID": 4302,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4303,
+            "Name": "攻击宝石3级",
+            "Type": 3,
+            "Level": 3,
+            "AttrVal": 51,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的攻击值",
+            "IconID": 4303,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4304,
+            "Name": "攻击宝石4级",
+            "Type": 3,
+            "Level": 4,
+            "AttrVal": 111,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的攻击值",
+            "IconID": 4304,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4305,
+            "Name": "攻击宝石5级",
+            "Type": 3,
+            "Level": 5,
+            "AttrVal": 201,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的攻击值",
+            "IconID": 4305,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4306,
+            "Name": "攻击宝石6级",
+            "Type": 3,
+            "Level": 6,
+            "AttrVal": 321,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的攻击值",
+            "IconID": 4306,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4401,
+            "Name": "防御宝石1级",
+            "Type": 4,
+            "Level": 1,
+            "AttrVal": 5,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的防御值",
+            "IconID": 4401,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4402,
+            "Name": "防御宝石2级",
+            "Type": 4,
+            "Level": 2,
+            "AttrVal": 13,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的防御值",
+            "IconID": 4402,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4403,
+            "Name": "防御宝石3级",
+            "Type": 4,
+            "Level": 3,
+            "AttrVal": 31,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的防御值",
+            "IconID": 4403,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4404,
+            "Name": "防御宝石4级",
+            "Type": 4,
+            "Level": 4,
+            "AttrVal": 69,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的防御值",
+            "IconID": 4404,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4405,
+            "Name": "防御宝石5级",
+            "Type": 4,
+            "Level": 5,
+            "AttrVal": 125,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的防御值",
+            "IconID": 4405,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4406,
+            "Name": "防御宝石6级",
+            "Type": 4,
+            "Level": 6,
+            "AttrVal": 201,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的防御值",
+            "IconID": 4406,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4501,
+            "Name": "暴击宝石1级",
+            "Type": 5,
+            "Level": 1,
+            "AttrVal": 3,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的暴击值",
+            "IconID": 4501,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4502,
+            "Name": "暴击宝石2级",
+            "Type": 5,
+            "Level": 2,
+            "AttrVal": 6,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的暴击值",
+            "IconID": 4502,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4503,
+            "Name": "暴击宝石3级",
+            "Type": 5,
+            "Level": 3,
+            "AttrVal": 13,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的暴击值",
+            "IconID": 4503,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4504,
+            "Name": "暴击宝石4级",
+            "Type": 5,
+            "Level": 4,
+            "AttrVal": 28,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的暴击值",
+            "IconID": 4504,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4505,
+            "Name": "暴击宝石5级",
+            "Type": 5,
+            "Level": 5,
+            "AttrVal": 51,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的暴击值",
+            "IconID": 4505,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4506,
+            "Name": "暴击宝石6级",
+            "Type": 5,
+            "Level": 6,
+            "AttrVal": 81,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的暴击值",
+            "IconID": 4506,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4601,
+            "Name": "韧性宝石1级",
+            "Type": 6,
+            "Level": 1,
+            "AttrVal": 13,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供微量的韧性值",
+            "IconID": 4601,
+            "GoldValue": 100,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "ID": 4602,
+            "Name": "韧性宝石2级",
+            "Type": 6,
+            "Level": 2,
+            "AttrVal": 25,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供少量的韧性值",
+            "IconID": 4602,
+            "GoldValue": 800,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4603,
+            "Name": "韧性宝石3级",
+            "Type": 6,
+            "Level": 3,
+            "AttrVal": 55,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较少的韧性值",
+            "IconID": 4603,
+            "GoldValue": 2700,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4604,
+            "Name": "韧性宝石4级",
+            "Type": 6,
+            "Level": 4,
+            "AttrVal": 115,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供较多的韧性值",
+            "IconID": 4604,
+            "GoldValue": 6400,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4605,
+            "Name": "韧性宝石5级",
+            "Type": 6,
+            "Level": 5,
+            "AttrVal": 205,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供充足的韧性值",
+            "IconID": 4605,
+            "GoldValue": 12500,
+            "Function": [
+                7,
+                5
+            ],
+            "AccessWay": [
+                11
+            ]
+        },
+        {
+            "ID": 4606,
+            "Name": "韧性宝石6级",
+            "Type": 6,
+            "Level": 6,
+            "AttrVal": 325,
+            "MaxStack": 99,
+            "Desc": "为装备附加提供大量的韧性值",
+            "IconID": 4606,
+            "GoldValue": 21600,
+            "Function": [
+                7
+            ],
+            "AccessWay": [
+                11
+            ]
+        }
+    ]
+}
