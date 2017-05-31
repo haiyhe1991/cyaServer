@@ -39,9 +39,6 @@
     <ClInclude Include="..\ServiceHeader\ServiceCommon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\ServiceHeader\ServiceManageLogic.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\ServiceHeader\ServiceChat.h">
       <Filter>Header Files</Filter>
     </ClInclude>

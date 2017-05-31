@@ -75,7 +75,6 @@
     <ClInclude Include="..\ServiceHeader\ServiceExtMan.h" />
     <ClInclude Include="..\ServiceHeader\ServiceLicence.h" />
     <ClInclude Include="..\ServiceHeader\ServiceLinker.h" />
-    <ClInclude Include="..\ServiceHeader\ServiceManageLogic.h" />
     <ClInclude Include="..\ServiceHeader\ServiceProtocol.h" />
     <ClInclude Include="..\ServiceHeader\ServiceSLogic.h" />
     <ClInclude Include="include\ConfigFileMan.h" />
