@@ -1,30 +1,9 @@
-﻿生成启动时间为 2017/5/19 15:41:34。
-     1>项目“E:\cyaServer\ServiceModule\DBServer\DBServer.vcxproj”在节点 2 上(Build 个目标)。
+﻿Build started 2017/7/29 9:44:02.
+     1>Project "E:\server\cyaServer\ServiceModule\DBServer\DBServer.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\DBServer.exe" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/cyaTcp.lib ../../Debug/cyaCore.lib ../../Debug/jsoncpp.lib ../../Debug/cyaLog.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\DBServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\DBServer.lib" /MACHINE:X86 Debug\AppendProcess.obj
-         Debug\DBConfig.obj
-         Debug\DBServer.obj
-         Debug\DBServerMan.obj
-         Debug\DBTable.obj
-         Debug\GetProcess.obj
-         Debug\GlobalObj.obj
-         Debug\LoadProcess.obj
-         Debug\MsgProcess.obj
-         Debug\QueryProcess.obj
-         Debug\RemoveProcess.obj
-         Debug\SetProcess.obj
-         Debug\SqlMan.obj
-         Debug\SqlSingle.obj
-         Debug\SyncHelper.obj
-         Debug\SyncServer.obj
-         Debug\TcpSession.obj
-         Debug\TcpSessionMaker.obj
-         Debug\Transporter.obj
-         Debug\UnloadProcess.obj
-         "..\..\cyaPub\extra\mysql\win\mysql-connector-c-noinstall-6.0.2-win32\lib\libmysql.lib"
-         DBServer.vcxproj -> E:\cyaServer\Debug\DBServer.exe
-     1>已完成生成项目“E:\cyaServer\ServiceModule\DBServer\DBServer.vcxproj”(Build 个目标)的操作。
+         DBServer.vcxproj -> E:\server\cyaServer\Debug\DBServer.exe
+     1>Done Building Project "E:\server\cyaServer\ServiceModule\DBServer\DBServer.vcxproj" (Build target(s)).
 
-生成成功。
+Build succeeded.
 
-已用时间 00:00:00.54
+Time Elapsed 00:00:00.05
