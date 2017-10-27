@@ -1,9 +1,1 @@
-﻿Build started 2017/7/29 9:44:02.
-     1>Project "E:\server\cyaServer\ServiceModule\DBServer\DBServer.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         DBServer.vcxproj -> E:\server\cyaServer\Debug\DBServer.exe
-     1>Done Building Project "E:\server\cyaServer\ServiceModule\DBServer\DBServer.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.05
+﻿  DBServer.vcxproj -> E:\server\cyaServer\Debug\DBServer.exe

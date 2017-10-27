@@ -1,12 +1,1 @@
-﻿生成启动时间为 2017/5/11 10:26:02。
-     1>项目“E:\cyaServer\cyaPub\cyaTcp\cyaTcp.vcxproj”在节点 2 上(Build 个目标)。
-     1>Link:
-         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cyaServer\Debug\cyaTcp.dll" /INCREMENTAL /NOLOGO ../../Debug/cyaLib.lib ../../Debug/cyaCore.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cyaServer\Debug\cyaTcp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cyaServer\Debug\cyaTcp.lib" /MACHINE:X86 /DLL Debug\cya_epoll.obj
-         Debug\cya_iocp.obj
-            正在创建库 E:\cyaServer\Debug\cyaTcp.lib 和对象 E:\cyaServer\Debug\cyaTcp.exp
-         cyaTcp.vcxproj -> E:\cyaServer\Debug\cyaTcp.dll
-     1>已完成生成项目“E:\cyaServer\cyaPub\cyaTcp\cyaTcp.vcxproj”(Build 个目标)的操作。
-
-生成成功。
-
-已用时间 00:00:00.75
+﻿  cyaTcp.vcxproj -> E:\server\cyaServer\Debug\cyaTcp.dll
