@@ -377,4 +377,18 @@ ExtServer(用户管理服务器)错误码定义
 #define		GM_QUERY_LEVEL_DISTRIBUTION_FAILED			10047	//获取等级分布失败;
 #define     GM_QUERY_TIME								10048	//时间错误;
 
+/**************************************************************************
+mauServer(变色龙服务器)错误码定义
+***************************************************************************/
+#define MAU_OK							0       //成功
+#define MAU_ERROR						1       //未知错误
+#define MAU_GWS_LOGIN_FAILED           11001    //登录网关服务器失败
+#define MAU_DBS_LOGIN_FAILED           11002    //登录数据服务器失败
+#define MAU_ID_EXIST_IN_CHANNEL        11003    //id在频道内已存在
+#define MAU_ID_NOT_EXIST_IN_CHANNEL    11004    //id在牌桌内不存在
+#define MAU_TABLE_MEMBERS_EMPTY			11005    //该牌桌成员为空
+#define MAU_TABLE_NOT_ALLOW_EL			11006    //该牌桌不允许进入或离开
+#define MAU_INVALID_CMD_PACKET         11007    //非法的命令数据包
+#define MAU_UNKNOWN_CMD_CODE           11008    //未知的命令码
+
 #endif

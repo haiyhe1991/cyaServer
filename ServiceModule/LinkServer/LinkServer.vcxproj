@@ -69,12 +69,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\ServiceHeader\ChatProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\MauProtocol.h" />
     <ClInclude Include="..\ServiceHeader\MLogicProtocol.h" />
     <ClInclude Include="..\ServiceHeader\RankProtocol.h" />
+    <ClInclude Include="..\ServiceHeader\ServiceMau.h" />
     <ClInclude Include="..\ServiceHeader\ServiceMLogic.h" />
     <ClInclude Include="..\ServiceHeader\ServiceRank.h" />
     <ClInclude Include="include\BaseClient.h" />
     <ClInclude Include="include\ChatClient.h" />
+    <ClInclude Include="include\MauClient.h" />
     <ClInclude Include="include\MLogicCommon.h" />
     <ClInclude Include="include\MLogicCommonCmd.h" />
     <ClInclude Include="include\IMLogic.h" />
@@ -115,6 +118,7 @@
     <ClCompile Include="source\LinkSession.cpp" />
     <ClCompile Include="source\LscSession.cpp" />
     <ClCompile Include="source\LscSessionMaker.cpp" />
+    <ClCompile Include="source\MauClient.cpp" />
     <ClCompile Include="source\MLogicClient.cpp" />
     <ClCompile Include="source\MLogicCommon.cpp" />
     <ClCompile Include="source\MLogicCommonCmd.cpp" />

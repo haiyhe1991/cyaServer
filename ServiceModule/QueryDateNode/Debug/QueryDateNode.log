@@ -1,1 +1,4 @@
-﻿  QueryDateNode.vcxproj -> E:\server\cyaServer\Debug\QueryDateNode.exe
+﻿  QueryDate_PermanenDate.cpp
+e:\server\cyaserver\servicemodule\querydatenode\source\querydate_permanendate.cpp(28): warning C4100: 'DateresB' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\querydatenode\source\querydate_permanendate.cpp(28): warning C4100: 'gmhande' : unreferenced formal parameter
+  QueryDateNode.vcxproj -> E:\server\cyaServer\Debug\QueryDateNode.exe

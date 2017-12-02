@@ -8,13 +8,14 @@
 #include "PubFunction.h"
 #include "LinkConfig.h"
 #include "RankClient.h"
+#include "MauClient.h"
 
 
 DEFINE_FETCH_OBJ(MsgProcess)
 
 
 MsgProcess::MsgProcess()
-	: m_pMLogicClient(NULL), m_pChatClient(NULL), m_pRankClient(NULL)
+: m_pMLogicClient(NULL), m_pChatClient(NULL), m_pRankClient(NULL), m_pMauClient(NULL)
 {
 	InitProc();
 }
@@ -39,6 +40,7 @@ void MsgProcess::InitProc()
 	m_pMLogicClient = new MLogicClient();   ASSERT(NULL != m_pMLogicClient);
 	m_pChatClient = new ChatClient();     ASSERT(NULL != m_pChatClient);
 	m_pRankClient = new RankClient();     ASSERT(NULL != m_pRankClient);
+	m_pMauClient = new MauClient();     ASSERT(NULL != m_pMauClient);
 }
 
 void MsgProcess::FiniProc()
@@ -47,6 +49,7 @@ void MsgProcess::FiniProc()
 	OnDestroyClientPtr(m_pMLogicClient);
 	OnDestroyClientPtr(m_pChatClient);
 	OnDestroyClientPtr(m_pRankClient);
+	OnDestroyClientPtr(m_pMauClient);
 
 	if (m_gwsHandle)
 	{
@@ -105,6 +108,10 @@ int MsgProcess::MsgProcessSite(const void* pMsgData, int nMsgLen, UINT16 nCmdCod
 	{
 		pClient = m_pRankClient;
 	}
+	else if (LINK_MAU_SERVER(nCmdCode) && m_pMauClient)
+	{
+		pClient = m_pMauClient;
+	}
 	/*else
 	{
 	ASSERT(FALSE);
@@ -113,7 +120,7 @@ int MsgProcess::MsgProcessSite(const void* pMsgData, int nMsgLen, UINT16 nCmdCod
 	if (NULL != pClient)
 	{
 		nRetCode = pClient->ClientMsg(m_gwsHandle, pMsgData, nMsgLen, nCmdCode, nPktType, nUserID, nEncrypt);
-		if (0 != LINK_OK)
+		if (nRetCode != LINK_OK)
 		{
 			InputToSessionError(nCmdCode, nRetCode, nPktType, nUserID);
 		}
@@ -404,6 +411,10 @@ void MsgProcess::OnGwsDataCallBack(SGWSProtocolHead* pHead, const void* payload,
 	else if (LINK_OTHER_LOGIC_SERVER(pComHead->cmdCode) && m_pRankClient)
 	{
 		pClient = m_pRankClient;
+	}
+	else if (LINK_MAU_SERVER(pComHead->cmdCode) && m_pMauClient)
+	{
+		pClient = m_pMauClient;
 	}
 	else
 	{

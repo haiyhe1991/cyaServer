@@ -1,1 +1,16 @@
-﻿  GWServer.vcxproj -> E:\server\cyaServer\Debug\GWServer.exe
+﻿  GWServeMan.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\server\cyaserver\servicemodule\gwserver\source\main.cpp(15): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\gwserver\source\main.cpp(15): warning C4100: 'argc' : unreferenced formal parameter
+  RelaySessionMan.cpp
+e:\server\cyaserver\servicemodule\gwserver\source\relaysessionman.cpp(106): warning C4100: 'id' : unreferenced formal parameter
+  GWSession.cpp
+e:\server\cyaserver\servicemodule\gwserver\source\gwsession.cpp(40): warning C4100: 'param' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\gwserver\source\gwsession.cpp(40): warning C4100: 'sessionCount' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\gwserver\source\gwsession.cpp(40): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\gwserver\source\gwsession.cpp(40): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\gwserver\source\gwsession.cpp(90): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  Generating Code...
+  GWServer.vcxproj -> E:\server\cyaServer\Debug\GWServer.exe

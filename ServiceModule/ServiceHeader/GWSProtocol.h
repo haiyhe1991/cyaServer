@@ -31,9 +31,10 @@ enum EServerType
 	ROOM_SERVER_2 = 7,
 	CHAT_SERVER = 8,
 	OTHER_LOGIC_SERVER = 9,
-	MAN_INRERFACE_SERVER = 10,
-	CENTER_GW_SERVER = 11,
-	DB_SERVER = 12
+	MAU_SERVER = 10,
+	MAN_INRERFACE_SERVER = 11,
+	CENTER_GW_SERVER = 12,
+	DB_SERVER = 13,
 };
 
 struct SGWSProtocolHead
@@ -162,19 +163,20 @@ struct SServerCommonReply	//具体服务器返回数据格式
 //是否其他逻辑服务器
 #define IS_OTHER_LOGIC_SERVER(id)		((id) == 9)
 
+//是否变色龙服务器
+#define IS_MAU_SERVER(id)				((id) == 10)
+
 //是否管理接口服务器
-#define IS_MAN_INRERFACE_SERVER(id)		((id) == 10)
+#define IS_MAN_INRERFACE_SERVER(id)		((id) == 11)
 
 //是否中心网关服务器
-#define IS_CENTER_GW_SERVER(id)			((id) == 11)
+#define IS_CENTER_GW_SERVER(id)			((id) == 12)
 
 //是否数据服务器
-#define IS_DB_SERVER(id)				((id) == 12)
-
-
+#define IS_DB_SERVER(id)				((id) == 13)
 
 //是否合法服务器
-#define IS_VALID_SERVER(id)				((id) >= 1 && (id) <= 12)
+#define IS_VALID_SERVER(id)				((id) >= 1 && (id) <= 13)
 
 inline const char* GetServerTypeStr(int id)
 {
@@ -192,6 +194,8 @@ inline const char* GetServerTypeStr(int id)
 		return "ExtManServer";
 	else if (IS_DB_SERVER(id))
 		return "DBServer";
+	else if (IS_MAU_SERVER(id))
+		return "MauServer";
 	else
 		return "UnknownServer";
 

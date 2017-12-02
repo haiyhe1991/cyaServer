@@ -1,1 +1,23 @@
-﻿  LicenceServer.vcxproj -> E:\server\cyaServer\Debug\LicenceServer.exe
+﻿  ExtServeLogicMan.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\server\cyaserver\servicemodule\licenceserver\source\main.cpp(14): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\main.cpp(14): warning C4100: 'argc' : unreferenced formal parameter
+  UserInfoMan.cpp
+  PartitionInfoMan.cpp
+e:\server\cyaserver\servicemodule\licenceserver\source\partitioninfoman.cpp(527): warning C4100: 'id' : unreferenced formal parameter
+  LicenceSession.cpp
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(48): warning C4100: 'param' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(48): warning C4100: 'sessionCount' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(48): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(48): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(148): warning C4100: 'continueRecv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencesession.cpp(148): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  LicenceServeMan.cpp
+  LicenceLogicProcMan.cpp
+e:\server\cyaserver\servicemodule\licenceserver\source\licencelogicprocman.cpp(201): warning C4100: 'payload' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencelogicprocman.cpp(213): warning C4100: 'nPayloadLen' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\licenceserver\source\licencelogicprocman.cpp(213): warning C4100: 'licSession' : unreferenced formal parameter
+  Generating Code...
+  LicenceServer.vcxproj -> E:\server\cyaServer\Debug\LicenceServer.exe

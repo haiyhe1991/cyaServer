@@ -1,1 +1,107 @@
-﻿  MLogicServer.vcxproj -> E:\server\cyaServer\Debug\MLogicServer.exe
+﻿  EquipCfg.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\main.cpp(24): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\main.cpp(24): warning C4100: 'argc' : unreferenced formal parameter
+  WorldBossMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\worldbossman.cpp(51): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\worldbossman.cpp(497): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\worldbossman.cpp(497): warning C4100: 'userId' : unreferenced formal parameter
+  UnlockContentMan.cpp
+  TaskFinHistoryMan.cpp
+  SystemNoticeMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\systemnoticeman.cpp(66): warning C4100: 'jobId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\systemnoticeman.cpp(225): warning C4100: 'id' : unreferenced formal parameter
+  RolesInfoMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(2571): warning C4100: 'instId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(2634): warning C4100: 'areaId' : unreferenced formal parameter
+  e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(3138): "兑换道具从配置文件中获取暂略"
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(3131): warning C4100: 'pCashRes' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(3131): warning C4100: 'cashId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(3161): warning C4100: 'step' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(4066): warning C4100: 'instId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rolesinfoman.cpp(5915): warning C4100: 'userId' : unreferenced formal parameter
+  RoleInfos.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\roleinfos.cpp(859): warning C4100: 'magicId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\roleinfos.cpp(2886): warning C4100: 'n' : unreferenced formal parameter
+  RefreshDBMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\refreshdbman.cpp(98): warning C4100: 'id' : unreferenced formal parameter
+  RecoveryVitMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\recoveryvitman.cpp(54): warning C4100: 'id' : unreferenced formal parameter
+  RechargeMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\rechargeman.cpp(104): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\rechargeman.cpp(149): warning C4100: 'nick' : unreferenced formal parameter
+  RankRewardMan.cpp
+  PlayerInfoMan.cpp
+  PersonalTimerTaskMan.cpp
+  PersonalRandInstMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\personalrandinstman.cpp(85): warning C4100: 'id' : unreferenced formal parameter
+  PermanenDataMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\permanendataman.cpp(169): warning C4100: 'id' : unreferenced formal parameter
+  OnlineSingnInMan.cpp
+  OneVsOneMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\onevsoneman.cpp(138): warning C4100: 'userId' : unreferenced formal parameter
+  MessageTipsMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(52): warning C4100: 'content' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(52): warning C4100: 'title' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(52): warning C4100: 'type' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(52): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(66): warning C4100: 'content' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(66): warning C4100: 'title' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(66): warning C4100: 'type' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(66): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(66): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(80): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\messagetipsman.cpp(129): warning C4100: 'userId' : unreferenced formal parameter
+  MLogicProcessMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\mlogicprocessman.cpp(1546): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\mlogicprocessman.cpp(1546): warning C4100: 'gwsSession' : unreferenced formal parameter
+  LogicLog.cpp
+  Generating Code...
+  Compiling...
+  LadderRankMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\ladderrankman.cpp(127): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\ladderrankman.cpp(127): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\ladderrankman.cpp(298): warning C4100: 'userId' : unreferenced formal parameter
+  InstOccupyNotify.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\instoccupynotify.cpp(100): warning C4100: 'id' : unreferenced formal parameter
+  InstFinHistoryMan.cpp
+  GuildMan.cpp
+  GlobalTimerTaskMan.cpp
+  GWSClientMan.cpp
+  GWSClient.cpp
+  GMLogicProcMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\gmlogicprocman.cpp(54): warning C4100: 'nDatalen' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\gmlogicprocman.cpp(54): warning C4100: 'pData' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\gmlogicprocman.cpp(54): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\gmlogicprocman.cpp(54): warning C4100: 'cmdCode' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\gmlogicprocman.cpp(54): warning C4100: 'gwsSession' : unreferenced formal parameter
+  FunModuleMan.cpp
+  FriendMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\friendman.cpp(228): warning C4100: 'exclude' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\friendman.cpp(674): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\friendman.cpp(706): warning C4100: 'onofflineUserId' : unreferenced formal parameter
+  EmailCleanMan.cpp
+  CompetitiveModeMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\competitivemodeman.cpp(68): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\competitivemodeman.cpp(127): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\competitivemodeman.cpp(221): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\competitivemodeman.cpp(276): warning C4100: 'userId' : unreferenced formal parameter
+  CashDBMan.cpp
+  ActitvityMan.cpp
+  ActitvityInstMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\actitvityinstman.cpp(206): warning C4100: 'userId' : unreferenced formal parameter
+  AchievementMan.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(244): warning C4100: 'roleId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(455): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(492): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(563): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(660): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(790): warning C4100: 'userId' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mlogicserver\source\achievementman.cpp(1071): warning C4100: 'id' : unreferenced formal parameter
+  RouletteCfg.cpp
+  InstCfg.cpp
+e:\server\cyaserver\servicemodule\mlogicserver\config\source\instcfg.cpp(293): warning C4100: 'filename' : unreferenced formal parameter
+  Generating Code...
+  MLogicServer.vcxproj -> E:\server\cyaServer\Debug\MLogicServer.exe

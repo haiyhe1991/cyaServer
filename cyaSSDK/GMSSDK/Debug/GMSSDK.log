@@ -1,1 +1,13 @@
-﻿  GMSSDK.vcxproj -> E:\server\cyaServer\Debug\GMSSDK.dll
+﻿  GMSdkHelper.cpp
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(24): warning C4100: 'writeTimeout' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(22): warning C4100: 'readTimeout' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(141): warning C4100: 'retNum' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(533): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(562): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(637): warning C4100: 'cmdCode' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gmssdk\source\gmsdkhelper.cpp(682): warning C4100: 'packType' : unreferenced formal parameter
+  Generating Code...
+  Compiling...
+  GMSdkSession.cpp
+  Generating Code...
+  GMSSDK.vcxproj -> E:\server\cyaServer\Debug\GMSSDK.dll

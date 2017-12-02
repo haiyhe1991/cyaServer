@@ -1,1 +1,28 @@
-﻿  DBServer.vcxproj -> E:\server\cyaServer\Debug\DBServer.exe
+﻿  AppendProcess.cpp
+  Generating Code...
+  Compiling...
+  UnloadProcess.cpp
+  Transporter.cpp
+  TcpSessionMaker.cpp
+  TcpSession.cpp
+e:\server\cyaserver\servicemodule\dbserver\source\tcpsession.cpp(18): warning C4100: 'param' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\dbserver\source\tcpsession.cpp(18): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\dbserver\source\tcpsession.cpp(18): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\dbserver\source\tcpsession.cpp(24): warning C4100: 'cause' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\dbserver\source\tcpsession.cpp(55): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  SyncServer.cpp
+  SyncHelper.cpp
+  SqlSingle.cpp
+  SqlMan.cpp
+e:\server\cyaserver\servicemodule\dbserver\source\sqlman.cpp(98): warning C4100: 'id' : unreferenced formal parameter
+  SetProcess.cpp
+  RemoveProcess.cpp
+  QueryProcess.cpp
+  MsgProcess.cpp
+e:\server\cyaserver\servicemodule\dbserver\source\msgprocess.cpp(338): warning C4100: 'id' : unreferenced formal parameter
+  LoadProcess.cpp
+  GlobalObj.cpp
+  GetProcess.cpp
+  DBServerMan.cpp
+  Generating Code...
+  DBServer.vcxproj -> E:\server\cyaServer\Debug\DBServer.exe

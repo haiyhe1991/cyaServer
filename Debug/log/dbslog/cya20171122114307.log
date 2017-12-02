@@ -1,0 +1,32 @@
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-11-28 10:35:28|调试:SqlSession wait_timeout 28800
+2017-11-28 10:35:28|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-11-28 10:35:28|信息:============数据服务器服务器启动成功===========!
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 1
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 2
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 3
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 4
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 5
+2017-11-28 10:35:34|调试:New A Client Connect; Session Count 6
+2017-11-28 10:35:37|调试:New A Client Connect; Session Count 7
+2017-11-28 10:35:37|调试:New A Client Connect; Session Count 8
+2017-11-28 10:35:37|调试:New A Client Connect; Session Count 9
+2017-11-28 10:35:37|调试:New A Client Connect; Session Count 10
+2017-11-28 10:35:40|调试:New A Client Connect; Session Count 11
+2017-11-28 10:59:21|调试:Client Closed
+2017-11-28 10:59:21|调试:Client Closed
+2017-11-28 10:59:21|调试:Client Closed
+2017-11-28 10:59:21|调试:Client Closed
+2017-11-28 10:59:21|调试:Client Closed
+2017-11-28 10:59:45|调试:New A Client Connect; Session Count 7
+2017-11-28 10:59:45|调试:New A Client Connect; Session Count 8
+2017-11-28 10:59:45|调试:New A Client Connect; Session Count 9

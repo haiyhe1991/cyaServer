@@ -326,4 +326,16 @@
 #define GM_ONLINE_STATISTICS            0xC372 //50034 在线统计_在线数据统计;
 #define GM_LEVEL_DISTRIBUTION           0xC373 //50035 等级分布
 
+#define LINK_MAU_SERVER(cmdCode)	((0xEA60) <= (cmdCode))
+/************************************************************************
+0xEA60------（mau游戏服务命令码）
+*************************************************************************/
+#define MAU_CREATE_TABLE				0xEA60	//60000,玩家创建牌桌
+#define MAU_JION_TABLE					0xEA61	//60001,玩家进入牌桌
+#define MAU_LEAVE_TABLE					0xEA62	//60002,玩家离开牌桌
+#define MAU_USER_EXIT					0xEA63	//60003,用户退出
+#define MAU_PLAYER_READY			    0xEA64	//60004,玩家准备
+//#define CHAT_USER_EXIT				    0xEA64	//60004,用户退出
+//#define CHAT_USER_OFFLINE_NOTIFY	    0xEA65	//60005,用户不在线通知
+
 #endif

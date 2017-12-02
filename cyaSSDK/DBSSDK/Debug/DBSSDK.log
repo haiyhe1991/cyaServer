@@ -1,1 +1,15 @@
-﻿  DBSSDK.vcxproj -> E:\server\cyaServer\Debug\DBSSDK.dll
+﻿  DBGlobalObjMan.cpp
+  Generating Code...
+  Compiling...
+  DBSSession.cpp
+e:\server\cyaserver\cyassdk\dbssdk\source\dbssession.cpp(37): warning C4100: 'sessionCount' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\dbssdk\source\dbssession.cpp(37): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\dbssdk\source\dbssession.cpp(37): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\dbssdk\source\dbssession.cpp(86): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  DBSSDK.cpp
+  DBSResult.cpp
+  DBSHelper.cpp
+e:\server\cyaserver\cyassdk\dbssdk\source\dbshelper.cpp(584): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\dbssdk\source\dbshelper.cpp(598): warning C4100: 'id' : unreferenced formal parameter
+  Generating Code...
+  DBSSDK.vcxproj -> E:\server\cyaServer\Debug\DBSSDK.dll

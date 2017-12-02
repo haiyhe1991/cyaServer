@@ -1,1 +1,16 @@
-﻿  GWSSDK.vcxproj -> E:\server\cyaServer\Debug\GWSSDK.dll
+﻿  GWGlobalObjMan.cpp
+  Generating Code...
+  Compiling...
+  GWSSDK.cpp
+  GWSHelper.cpp
+e:\server\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(73): warning C4101: 'header' : unreferenced local variable
+e:\server\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(239): warning C4100: 'id' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(259): warning C4101: 'header' : unreferenced local variable
+e:\server\cyaserver\cyassdk\gwssdk\source\gwshelper.cpp(304): warning C4100: 'id' : unreferenced formal parameter
+  GWSClientSession.cpp
+e:\server\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: 'sessionCount' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(36): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\cyassdk\gwssdk\source\gwsclientsession.cpp(84): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  Generating Code...
+  GWSSDK.vcxproj -> E:\server\cyaServer\Debug\GWSSDK.dll

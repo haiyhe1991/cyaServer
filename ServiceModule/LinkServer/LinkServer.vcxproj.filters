@@ -37,6 +37,12 @@
     <Filter Include="Source Files\Rank">
       <UniqueIdentifier>{10647756-9f62-4530-9652-f866e509f8db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Mau">
+      <UniqueIdentifier>{1cc682c3-5cf3-4506-9f18-e4975d7fab04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Mau">
+      <UniqueIdentifier>{fe4ebb87-8317-44af-b168-aa9fe30cda3e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\ChatClient.h">
@@ -147,6 +153,15 @@
     <ClInclude Include="..\ServiceHeader\ServiceMLogic.h">
       <Filter>Header Files\MLogic</Filter>
     </ClInclude>
+    <ClInclude Include="include\MauClient.h">
+      <Filter>Header Files\Mau</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\ServiceMau.h">
+      <Filter>Header Files\Mau</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ServiceHeader\MauProtocol.h">
+      <Filter>Header Files\Mau</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\ChatClient.cpp">
@@ -232,6 +247,9 @@
     </ClCompile>
     <ClCompile Include="source\LinkMain.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MauClient.cpp">
+      <Filter>Source Files\Mau</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

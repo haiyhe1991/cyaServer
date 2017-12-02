@@ -1,0 +1,4 @@
+﻿  MauMsgMan.cpp
+e:\server\cyaserver\servicemodule\mauserver\source\maumsgman.cpp(210): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\mauserver\source\maumsgman.cpp(210): warning C4100: 'gwsSession' : unreferenced formal parameter
+  MauServer.vcxproj -> E:\server\cyaServer\Debug\MauServer.exe

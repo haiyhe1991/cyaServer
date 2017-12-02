@@ -91,6 +91,7 @@ private:
 	BaseClient* m_pMLogicClient;
 	BaseClient* m_pChatClient;
 	BaseClient* m_pRankClient;
+	BaseClient* m_pMauClient;
 	GWSHandle m_gwsHandle;
 	UserMap m_users;
 	CXTLocker m_mapUserLocker;

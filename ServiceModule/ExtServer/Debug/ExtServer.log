@@ -1,1 +1,17 @@
-﻿  ExtServer.vcxproj -> E:\server\cyaServer\Debug\ExtServer.exe
+﻿  DelegetMsg.cpp
+  Generating Code...
+  Compiling...
+  PubFunction.cpp
+  ExtServerTcpSession.cpp
+e:\server\cyaserver\servicemodule\extserver\source\extservertcpsession.cpp(20): warning C4100: 'param' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\extserver\source\extservertcpsession.cpp(20): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\extserver\source\extservertcpsession.cpp(31): warning C4100: 'cause' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\extserver\source\extservertcpsession.cpp(58): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  ExtServerMan.cpp
+e:\server\cyaserver\servicemodule\extserver\source\extserverman.cpp(217): warning C4100: 'nDataLen' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\extserver\source\extserverman.cpp(217): warning C4100: 'data' : unreferenced formal parameter
+  ExtServer.cpp
+e:\server\cyaserver\servicemodule\extserver\source\extserver.cpp(5): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\extserver\source\extserver.cpp(5): warning C4100: 'argc' : unreferenced formal parameter
+  Generating Code...
+  ExtServer.vcxproj -> E:\server\cyaServer\Debug\ExtServer.exe

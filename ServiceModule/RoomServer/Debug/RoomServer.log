@@ -1,2 +1,19 @@
-﻿  RoomConfig.cpp
+﻿  DaemonServer.cpp
+  Generating Code...
+  Compiling...
+  RoomServer.cpp
+e:\server\cyaserver\servicemodule\roomserver\source\roomserver.cpp(18): warning C4100: 'userData' : unreferenced formal parameter
+  ProcessManager.cpp
+  GWSClient.cpp
+e:\server\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: 'nDataLen' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: 'data' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\gwsclient.cpp(95): warning C4100: 'evt' : unreferenced formal parameter
+  DaemonSessionMaker.cpp
+  DaemonSession.cpp
+e:\server\cyaserver\servicemodule\roomserver\source\daemonsession.cpp(20): warning C4100: 'param' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\daemonsession.cpp(20): warning C4100: 'peerIPP' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\daemonsession.cpp(20): warning C4100: 'sock' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\daemonsession.cpp(49): warning C4100: 'cause' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\roomserver\source\daemonsession.cpp(80): warning C4100: 'callbackByTask' : unreferenced formal parameter
+  Generating Code...
   RoomServer.vcxproj -> E:\server\cyaServer\Debug\RoomServer.exe

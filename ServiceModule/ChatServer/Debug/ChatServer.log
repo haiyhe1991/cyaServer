@@ -1,1 +1,17 @@
-﻿  ChatServer.vcxproj -> E:\server\cyaServer\Debug\ChatServer.exe
+﻿  ChannelMan.cpp
+e:\server\cyaserver\servicemodule\chatserver\source\channelman.cpp(59): warning C4100: 'userId' : unreferenced formal parameter
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\server\cyaserver\servicemodule\chatserver\source\main.cpp(14): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\chatserver\source\main.cpp(14): warning C4100: 'argc' : unreferenced formal parameter
+  GWSClientMan.cpp
+  GWSClient.cpp
+  ChatMsgMan.cpp
+e:\server\cyaserver\servicemodule\chatserver\source\chatmsgman.cpp(119): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\chatserver\source\chatmsgman.cpp(119): warning C4100: 'gwsSession' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\chatserver\source\chatmsgman.cpp(133): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\chatserver\source\chatmsgman.cpp(182): warning C4100: 'pHead' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\chatserver\source\chatmsgman.cpp(213): warning C4100: 'pHead' : unreferenced formal parameter
+  Generating Code...
+  ChatServer.vcxproj -> E:\server\cyaServer\Debug\ChatServer.exe

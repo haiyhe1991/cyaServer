@@ -1,1 +1,3 @@
-﻿  LinkServer.vcxproj -> E:\server\cyaServer\Debug\LinkServer.exe
+﻿  MauClient.cpp
+e:\server\cyaserver\servicemodule\linkserver\source\mauclient.cpp(249): warning C4100: 'payloadLen' : unreferenced formal parameter
+  LinkServer.vcxproj -> E:\server\cyaServer\Debug\LinkServer.exe

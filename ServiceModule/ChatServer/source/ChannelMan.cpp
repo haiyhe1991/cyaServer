@@ -215,7 +215,7 @@ int ChannelMan::JoinUnionChannel(BYTE linkerId, UINT32 userId, UINT32 roleId, UI
 
 	ASSERT(pChnMemberList != NULL);
 	AutoRefCountObjTmpl<ChannelMemberList> pAutoObj(pChnMemberList);
-	return pAutoObj->AddMember(userId, roleId, linkerId, pszNick);
+	return pAutoObj->AddMember(linkerId, userId, roleId, pszNick);
 }
 
 int ChannelMan::LeaveWorldChannel(UINT32 roleId)
@@ -274,7 +274,7 @@ int ChannelMan::ChannelMemberList::AddMember(BYTE linkerId, UINT32 userId, UINT3
 		MemberAttr member;
 		member.linkerId = linkerId;
 		member.userId = userId;
-		strncpy(it->second.nick, pszNick, min(strlen(pszNick), sizeof(it->second.nick) - sizeof(char)));
+		strncpy(member.nick, pszNick, min(strlen(pszNick), sizeof(member.nick) - sizeof(char)));
 		m_memberList.insert(std::make_pair(roleId, member));
 	}
 	return CHAT_OK;

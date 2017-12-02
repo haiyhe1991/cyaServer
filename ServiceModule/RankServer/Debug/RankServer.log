@@ -1,1 +1,10 @@
-﻿  RankServer.vcxproj -> E:\server\cyaServer\Debug\RankServer.exe
+﻿  RankGWClient.cpp
+  Generating Code...
+  Compiling...
+  RankMain.cpp
+e:\server\cyaserver\servicemodule\rankserver\source\rankmain.cpp(13): warning C4100: 'argv' : unreferenced formal parameter
+e:\server\cyaserver\servicemodule\rankserver\source\rankmain.cpp(13): warning C4100: 'argc' : unreferenced formal parameter
+  RankHandler.cpp
+  RankGWClientMan.cpp
+  Generating Code...
+  RankServer.vcxproj -> E:\server\cyaServer\Debug\RankServer.exe
