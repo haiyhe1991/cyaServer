@@ -1,0 +1,96 @@
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-12-04 14:14:39|调试:SqlSession wait_timeout 28800
+2017-12-04 14:14:39|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-12-04 14:14:39|信息:============数据服务器服务器启动成功===========!
+2017-12-04 14:14:41|调试:New A Client Connect; Session Count 1
+2017-12-04 14:14:41|调试:New A Client Connect; Session Count 2
+2017-12-04 14:14:41|调试:New A Client Connect; Session Count 3
+2017-12-04 14:14:41|调试:New A Client Connect; Session Count 4
+2017-12-04 14:14:42|调试:New A Client Connect; Session Count 5
+2017-12-04 14:14:42|调试:New A Client Connect; Session Count 6
+2017-12-04 14:14:44|调试:New A Client Connect; Session Count 7
+2017-12-04 14:14:44|调试:New A Client Connect; Session Count 8
+2017-12-04 14:14:44|调试:New A Client Connect; Session Count 9
+2017-12-04 14:14:44|调试:New A Client Connect; Session Count 10
+2017-12-04 14:14:47|调试:New A Client Connect; Session Count 11
+2017-12-04 17:56:44|调试:Client Closed
+2017-12-04 17:56:44|调试:Client Closed
+2017-12-04 17:56:44|调试:Client Closed
+2017-12-04 17:56:44|调试:Client Closed
+2017-12-04 17:56:44|调试:Client Closed
+2017-12-04 17:56:46|调试:Client Closed
+2017-12-04 17:56:46|调试:Client Closed
+2017-12-04 17:56:46|调试:Client Closed
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-12-05 09:36:36|调试:SqlSession wait_timeout 28800
+2017-12-05 09:36:36|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-12-05 09:36:36|信息:============数据服务器服务器启动成功===========!
+2017-12-05 09:36:39|调试:New A Client Connect; Session Count 1
+2017-12-05 09:36:40|调试:New A Client Connect; Session Count 2
+2017-12-05 09:36:40|调试:New A Client Connect; Session Count 3
+2017-12-05 09:36:40|调试:New A Client Connect; Session Count 4
+2017-12-05 09:36:40|调试:New A Client Connect; Session Count 5
+2017-12-05 09:36:40|调试:New A Client Connect; Session Count 6
+2017-12-05 09:36:42|调试:New A Client Connect; Session Count 7
+2017-12-05 09:36:42|调试:New A Client Connect; Session Count 8
+2017-12-05 09:36:42|调试:New A Client Connect; Session Count 9
+2017-12-05 09:36:43|调试:New A Client Connect; Session Count 10
+2017-12-05 09:36:45|调试:New A Client Connect; Session Count 11
+2017-12-05 10:06:19|调试:Client Closed
+2017-12-05 10:06:19|调试:Client Closed
+2017-12-05 10:06:19|调试:Client Closed
+2017-12-05 10:06:19|调试:Client Closed
+2017-12-05 10:06:19|调试:Client Closed
+2017-12-05 10:06:22|调试:Client Closed
+2017-12-05 10:06:22|调试:Client Closed
+2017-12-05 10:06:22|调试:Client Closed
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgsverify)192.168.50.2:3306
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgs)192.168.50.2:3306
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgs_action)192.168.50.2:3306
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgsrecharge)192.168.50.2:3306
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgsinfo)192.168.50.2:3306
+2017-12-05 10:07:09|调试:SqlSession wait_timeout 28800
+2017-12-05 10:07:09|信息:连接到(DB：sgscash)192.168.50.2:3306
+2017-12-05 10:07:09|信息:============数据服务器服务器启动成功===========!
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 1
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 2
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 3
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 4
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 5
+2017-12-05 10:07:11|调试:New A Client Connect; Session Count 6
+2017-12-05 10:07:48|调试:New A Client Connect; Session Count 7
+2017-12-05 10:07:48|调试:New A Client Connect; Session Count 8
+2017-12-05 10:07:48|调试:New A Client Connect; Session Count 9
+2017-12-05 10:07:48|调试:New A Client Connect; Session Count 10
+2017-12-05 10:07:51|调试:New A Client Connect; Session Count 11
+2017-12-05 10:08:09|调试:insert into player_account_5(id, user, pwd, ip, regtts, platsource, model, os, regdev, visit, lasttts, lastdev, ver, partid, status) values(28409, 'hhy', 'e10adc3949ba59abbe56e057f20f883e', '', '2017-12-05 10:08:09', 'win32', 'tinkvision', 'windows', '12345678', 0, '2017-12-05 10:08:09', '12345678', 'v1.0.0', 0, 0)
+2017-12-05 10:08:09|调试:mysql_query Error no=1062, Duplicate entry '28409' for key 'PRIMARY'
+2017-12-05 10:08:09|调试:insert into cash_5(accountid) values(28409)
+2017-12-05 10:08:09|调试:mysql_query Error no=1062, Duplicate entry '28409' for key 'PRIMARY'
+2017-12-05 10:09:16|调试:Client Closed
+2017-12-05 10:09:16|调试:Client Closed
+2017-12-05 10:09:16|调试:Client Closed
+2017-12-05 10:09:16|调试:Client Closed
